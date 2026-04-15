@@ -1,0 +1,1103 @@
+Match_ID,Season,Team1,Team2,Venue,City,Toss_Winner,Toss_Decision,Winner,Win_Margin,Win_Type,Win_By,Player_of_Match,Match_Type,Target_Score,Overs,Toss_Winner_Won_Match,Batting_First_Won
+1,2008,Deccan Chargers,Rajasthan Royals,HPCA Stadium,Dharamsala,Deccan Chargers,Field,Deccan Chargers,100,Runs,100 runs,Chamara Silva,League,134,20,Yes,No
+2,2008,Rajasthan Royals,Chennai Super Kings,BRSABV Ekana Cricket Stadium,Lucknow,Rajasthan Royals,Field,Rajasthan Royals,1,Wickets,1 wickets,Yuzvendra Chahal,League,167,20,Yes,No
+3,2008,Mumbai Indians,Kings XI Punjab,Eden Gardens,Kolkata,,Field,Mumbai Indians,7,Wickets,7 wickets,Lasith Malinga,League,173,20,No,Yes
+4,2008,Delhi Daredevils,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Pune,Delhi Daredevils,Field,Delhi Daredevils,3,Wickets,3 wickets,Gautam Gambhir,League,152,20,Yes,No
+5,2008,Rajasthan Royals,Chennai Super Kings,Punjab Cricket Association Stadium,Mohali,Rajasthan Royals,Bat,Rajasthan Royals,1,Wickets,1 wickets,Jos Buttler,League,200,20,Yes,Yes
+6,2008,Kings XI Punjab,Deccan Chargers,Narendra Modi Stadium,Ahmedabad,Deccan Chargers,Field,Deccan Chargers,4,Wickets,4 wickets,Adam Gilchrist,League,160,20,Yes,No
+7,2008,Deccan Chargers,Royal Challengers Bangalore,Narendra Modi Stadium,Ahmedabad,Deccan Chargers,Bat,Royal Challengers Bangalore,9,Wickets,9 wickets,Yuzvendra Chahal,League,195,20,No,No
+8,2008,Kolkata Knight Riders,Royal Challengers Bangalore,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,Bat,Kolkata Knight Riders,50,Runs,50 runs,Manoj Tiwary,League,165,20,Yes,Yes
+9,2008,Kings XI Punjab,Mumbai Indians,M Chinnaswamy Stadium,Bangalore,Mumbai Indians,Field,Mumbai Indians,5,Wickets,5 wickets,Suryakumar Yadav,League,140,20,Yes,No
+10,2008,Royal Challengers Bangalore,Kings XI Punjab,,,Royal Challengers Bangalore,Field,Kings XI Punjab,6,Wickets,6 wickets,Yuvraj Singh,League,140,20,No,Yes
+11,2008,Chennai Super Kings,Kolkata Knight Riders,Wankhede Stadium,Mumbai,Kolkata Knight Riders,Bat,Kolkata Knight Riders,75,Runs,75 runs,Manoj Tiwary,League,181,20,Yes,Yes
+12,2008,Chennai Super Kings,Delhi Daredevils,Sardar Patel Stadium,Ahmedabad,Delhi Daredevils,Bat,Chennai Super Kings,1,Wickets,1 wickets,Suresh Raina,League,207,20,No,No
+13,2008,Mumbai Indians,Kings XI Punjab,Holkar Cricket Stadium,Indore,Mumbai Indians,Field,Kings XI Punjab,39,Runs,39 runs,David Miller,League,202,20,No,Yes
+14,2008,Delhi Daredevils,Rajasthan Royals,MA Chidambaram Stadium,Chennai,Rajasthan Royals,Field,Delhi Daredevils,1,Wickets,1 wickets,Kagiso Rabada,League,200,20,No,Yes
+15,2008,Kings XI Punjab,Rajasthan Royals,JSCA International Stadium,Ranchi,Kings XI Punjab,Field,,18,Runs,18 runs,Mayank Agarwal,League,151,20,Yes,No
+16,2008,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadium,Bangalore,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,5,Wickets,5 wickets,Daniel Vettori,League,130,20,Yes,No
+17,2008,Delhi Daredevils,Chennai Super Kings,DY Patil Stadium,Navi Mumbai,Chennai Super Kings,Field,Delhi Daredevils,24,Runs,24 runs,,League,154,20,No,Yes
+18,2008,Chennai Super Kings,Mumbai Indians,JSCA International Stadium,Ranchi,Chennai Super Kings,Bat,Mumbai Indians,22,Runs,22 runs,Tilak Varma,League,140,20,No,No
+19,2008,Delhi Daredevils,Rajasthan Royals,Sardar Patel Stadium,Ahmedabad,Delhi Daredevils,Bat,Rajasthan Royals,37,Runs,37 runs,Riyan Parag,League,165,20,No,No
+20,2008,Chennai Super Kings,Deccan Chargers,HPCA Stadium,Dharamsala,Chennai Super Kings,Bat,Deccan Chargers,5,Wickets,5 wickets,Andrew Symonds,League,162,20,No,No
+21,2008,Deccan Chargers,Rajasthan Royals,DY Patil Stadium,Navi Mumbai,Deccan Chargers,Field,Deccan Chargers,6,Wickets,6 wickets,Chamara Silva,League,173,20,Yes,No
+22,2008,Deccan Chargers,Chennai Super Kings,DY Patil Stadium,Navi Mumbai,Chennai Super Kings,Field,Chennai Super Kings,7,Wickets,7 wickets,Murali Vijay,League,156,20,Yes,No
+23,2008,Royal Challengers Bangalore,Rajasthan Royals,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,Field,Rajasthan Royals,64,Runs,64 runs,Sanju Samson,League,191,20,No,Yes
+24,2008,Delhi Daredevils,Royal Challengers Bangalore,Sardar Patel Stadium,Ahmedabad,Royal Challengers Bangalore,Bat,Delhi Daredevils,70,Runs,70 runs,David Warner,League,155,20,No,No
+25,2008,Mumbai Indians,Royal Challengers Bangalore,VCA Stadium,Nagpur,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,10,Runs,10 runs,Yuzvendra Chahal,League,161,20,Yes,No
+26,2008,Rajasthan Royals,Delhi Daredevils,Feroz Shah Kotla,Delhi,Delhi Daredevils,Bat,Delhi Daredevils,76,Runs,76 runs,Morne Morkel,League,159,20,Yes,Yes
+27,2008,Chennai Super Kings,Royal Challengers Bangalore,BRSABV Ekana Cricket Stadium,Lucknow,Chennai Super Kings,Bat,Royal Challengers Bangalore,14,Runs,14 runs,Dinesh Karthik,League,217,20,No,No
+28,2008,Chennai Super Kings,Kings XI Punjab,Shaheed Veer Narayan Singh International Stadium,Raipur,Kings XI Punjab,Bat,Kings XI Punjab,28,Runs,28 runs,Adam Gilchrist,League,176,20,Yes,Yes
+29,2008,Kolkata Knight Riders,Kings XI Punjab,Rajiv Gandhi International Stadium,Hyderabad,Kolkata Knight Riders,Field,Kolkata Knight Riders,82,Runs,82 runs,Andre Russell,League,138,20,Yes,No
+30,2008,Kings XI Punjab,Mumbai Indians,Sardar Patel Stadium,Ahmedabad,Mumbai Indians,Bat,Kings XI Punjab,9,Wickets,9 wickets,Adam Gilchrist,League,166,20,No,No
+31,2008,Chennai Super Kings,Kings XI Punjab,M Chinnaswamy Stadium,Bangalore,Kings XI Punjab,Field,Kings XI Punjab,70,Runs,70 runs,Mohammad Shami,League,167,20,Yes,No
+32,2008,Chennai Super Kings,Royal Challengers Bangalore,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Chennai Super Kings,Bat,Chennai Super Kings,1,Wickets,1 wickets,Suresh Raina,League,193,20,Yes,Yes
+33,2008,Mumbai Indians,Deccan Chargers,MA Chidambaram Stadium,Chennai,Deccan Chargers,Bat,Deccan Chargers,76,Runs,76 runs,Chamara Silva,League,209,20,Yes,Yes
+34,2008,Deccan Chargers,Mumbai Indians,DY Patil Stadium,Navi Mumbai,Deccan Chargers,Field,Deccan Chargers,52,Runs,52 runs,Andrew Symonds,League,190,20,Yes,No
+35,2008,Chennai Super Kings,Deccan Chargers,Punjab Cricket Association Stadium,Mohali,Chennai Super Kings,Field,Deccan Chargers,12,Runs,12 runs,Rohit Sharma,League,195,20,No,Yes
+36,2008,Rajasthan Royals,Royal Challengers Bangalore,VCA Stadium,Nagpur,Royal Challengers Bangalore,Field,Rajasthan Royals,98,Runs,98 runs,Steven Smith,League,195,20,No,Yes
+37,2008,Kolkata Knight Riders,Delhi Daredevils,Barabati Stadium,Cuttack,Delhi Daredevils,Field,Kolkata Knight Riders,31,Runs,31 runs,Andre Russell,League,187,20,No,Yes
+38,2008,Royal Challengers Bangalore,Rajasthan Royals,Maharashtra Cricket Association Stadium,Pune,Rajasthan Royals,Field,Rajasthan Royals,40,Runs,40 runs,Shane Watson,League,196,20,Yes,No
+39,2008,Rajasthan Royals,Kolkata Knight Riders,Rajiv Gandhi International Stadium,Hyderabad,Kolkata Knight Riders,Bat,Rajasthan Royals,52,Runs,52 runs,Yuzvendra Chahal,League,200,20,No,No
+40,2008,Chennai Super Kings,Mumbai Indians,VCA Stadium,Nagpur,Mumbai Indians,Bat,Chennai Super Kings,9,Runs,9 runs,Moeen Ali,League,184,20,No,No
+41,2008,Rajasthan Royals,Delhi Daredevils,Brabourne Stadium,Mumbai,Delhi Daredevils,Bat,Delhi Daredevils,1,Wickets,1 wickets,Axar Patel,League,178,20,Yes,Yes
+42,2008,Chennai Super Kings,Delhi Daredevils,Shaheed Veer Narayan Singh International Stadium,Raipur,,Bat,Chennai Super Kings,37,Runs,37 runs,Murali Vijay,League,136,20,Yes,Yes
+43,2008,Delhi Daredevils,Rajasthan Royals,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,Field,Delhi Daredevils,1,Wickets,1 wickets,Shikhar Dhawan,League,187,20,No,Yes
+44,2008,Chennai Super Kings,Royal Challengers Bangalore,Brabourne Stadium,Mumbai,Royal Challengers Bangalore,Field,Chennai Super Kings,6,Wickets,6 wickets,Devon Conway,League,219,20,No,Yes
+45,2008,Rajasthan Royals,Chennai Super Kings,Eden Gardens,Kolkata,Rajasthan Royals,Field,Rajasthan Royals,2,Wickets,2 wickets,Ajinkya Rahane,League,151,20,Yes,No
+46,2008,Kings XI Punjab,Delhi Daredevils,VCA Stadium,Nagpur,Kings XI Punjab,Field,Kings XI Punjab,3,Wickets,3 wickets,Chris Gayle,League,196,20,Yes,No
+47,2008,Delhi Daredevils,Chennai Super Kings,Maharashtra Cricket Association Stadium,Pune,Delhi Daredevils,Field,Delhi Daredevils,7,Wickets,7 wickets,David Warner,League,197,20,Yes,No
+48,2008,Delhi Daredevils,Rajasthan Royals,Punjab Cricket Association Stadium,Mohali,Rajasthan Royals,Bat,Delhi Daredevils,8,Wickets,8 wickets,Kagiso Rabada,League,178,20,No,No
+49,2008,Chennai Super Kings,Royal Challengers Bangalore,Brabourne Stadium,Mumbai,Chennai Super Kings,Field,,6,Wickets,6 wickets,Chris Gayle,League,166,20,No,Yes
+50,2008,Rajasthan Royals,Kolkata Knight Riders,Barabati Stadium,Cuttack,Kolkata Knight Riders,Field,Kolkata Knight Riders,8,Wickets,8 wickets,Nitish Rana,League,137,20,Yes,No
+51,2008,Royal Challengers Bangalore,Kings XI Punjab,Rajiv Gandhi International Stadium,Hyderabad,Kings XI Punjab,Field,Kings XI Punjab,9,Runs,9 runs,Yuvraj Singh,League,139,20,Yes,No
+52,2008,Mumbai Indians,Royal Challengers Bangalore,Holkar Cricket Stadium,Indore,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,1,Wickets,1 wickets,Shane Bond,League,177,20,Yes,No
+53,2008,Royal Challengers Bangalore,Deccan Chargers,Holkar Cricket Stadium,Indore,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,69,Runs,69 runs,Rajat Patidar,League,158,20,Yes,No
+54,2008,Deccan Chargers,Chennai Super Kings,Eden Gardens,Kolkata,Deccan Chargers,Field,Deccan Chargers,49,Runs,49 runs,VVS Laxman,League,154,20,Yes,No
+55,2008,Kings XI Punjab,Royal Challengers Bangalore,BRSABV Ekana Cricket Stadium,Lucknow,Kings XI Punjab,Bat,Royal Challengers Bangalore,3,Wickets,3 wickets,,Playoff,160,20,No,No
+56,2008,Mumbai Indians,Kolkata Knight Riders,Punjab Cricket Association Stadium,Mohali,Mumbai Indians,Field,Mumbai Indians,24,Runs,24 runs,Sachin Tendulkar,Playoff,158,20,Yes,No
+57,2008,Rajasthan Royals,Kings XI Punjab,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,Bat,Kings XI Punjab,3,Wickets,3 wickets,David Miller,Playoff,168,20,No,No
+58,2008,Deccan Chargers,Mumbai Indians,JSCA International Stadium,Ranchi,Deccan Chargers,Bat,Mumbai Indians,8,Wickets,8 wickets,Quinton de Kock,Final,142,20,No,No
+59,2008,Delhi Daredevils,Kolkata Knight Riders,Shaheed Veer Narayan Singh International Stadium,Raipur,Kolkata Knight Riders,Bat,Delhi Daredevils,3,Wickets,3 wickets,Shreyas Iyer,Playoff,178,20,No,No
+60,2009,Kolkata Knight Riders,Delhi Daredevils,St George's Park,Port Elizabeth,Kolkata Knight Riders,Bat,Delhi Daredevils,25,Runs,25 runs,Gautam Gambhir,League,219,20,No,No
+61,2009,Delhi Daredevils,Kolkata Knight Riders,Kingsmead Stadium,Durban,Delhi Daredevils,Bat,Kolkata Knight Riders,97,Runs,97 runs,Robin Uthappa,League,150,20,No,No
+62,2009,Royal Challengers Bangalore,Kings XI Punjab,Newlands Cricket Ground,Cape Town,Royal Challengers Bangalore,Bat,Kings XI Punjab,13,Runs,13 runs,Chris Gayle,League,185,20,No,No
+63,2009,Kings XI Punjab,Kolkata Knight Riders,Newlands Cricket Ground,Cape Town,Kolkata Knight Riders,Field,Kings XI Punjab,73,Runs,73 runs,KL Rahul,League,178,20,No,Yes
+64,2009,Rajasthan Royals,Kings XI Punjab,Kingsmead Stadium,Durban,Rajasthan Royals,Field,Kings XI Punjab,1,Wickets,1 wickets,KL Rahul,League,177,20,No,Yes
+65,2009,Delhi Daredevils,Royal Challengers Bangalore,St George's Park,Port Elizabeth,Royal Challengers Bangalore,Bat,Delhi Daredevils,9,Wickets,9 wickets,Rishabh Pant,League,162,20,No,No
+66,2009,Royal Challengers Bangalore,Kings XI Punjab,Kingsmead Stadium,Durban,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,86,Runs,86 runs,AB de Villiers,League,171,20,Yes,Yes
+67,2009,Kings XI Punjab,Royal Challengers Bangalore,Wanderers Stadium,Johannesburg,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,1,Runs,1 runs,Glenn Maxwell,League,200,20,Yes,No
+68,2009,Chennai Super Kings,Deccan Chargers,Wanderers Stadium,Johannesburg,Deccan Chargers,Bat,Deccan Chargers,9,Wickets,9 wickets,Andrew Symonds,League,138,20,Yes,Yes
+69,2009,Delhi Daredevils,Mumbai Indians,Kingsmead Stadium,Durban,Mumbai Indians,Field,Mumbai Indians,33,Runs,33 runs,Quinton de Kock,League,208,20,Yes,No
+70,2009,Deccan Chargers,Kings XI Punjab,Wanderers Stadium,Johannesburg,Kings XI Punjab,Field,Kings XI Punjab,23,Runs,23 runs,Mayank Agarwal,League,135,20,Yes,No
+71,2009,Delhi Daredevils,Rajasthan Royals,Kingsmead Stadium,Durban,Delhi Daredevils,Field,Rajasthan Royals,9,Wickets,9 wickets,Shane Warne,League,163,20,No,Yes
+72,2009,Royal Challengers Bangalore,Mumbai Indians,Kingsmead Stadium,Durban,Royal Challengers Bangalore,Field,Mumbai Indians,6,Wickets,6 wickets,Lasith Malinga,League,146,20,No,Yes
+73,2009,Chennai Super Kings,Mumbai Indians,St George's Park,Port Elizabeth,Mumbai Indians,Bat,Mumbai Indians,51,Runs,51 runs,Krunal Pandya,League,194,20,Yes,Yes
+74,2009,Delhi Daredevils,Kings XI Punjab,Kingsmead Stadium,Durban,,Bat,Kings XI Punjab,78,Runs,78 runs,David Miller,League,217,20,Yes,Yes
+75,2009,Kolkata Knight Riders,Chennai Super Kings,St George's Park,Port Elizabeth,Chennai Super Kings,Field,Chennai Super Kings,9,Wickets,9 wickets,Michael Hussey,League,177,20,Yes,No
+76,2009,Delhi Daredevils,Deccan Chargers,Newlands Cricket Ground,Cape Town,Delhi Daredevils,Field,Deccan Chargers,82,Runs,82 runs,Rohit Sharma,League,157,20,No,Yes
+77,2009,Royal Challengers Bangalore,Rajasthan Royals,St George's Park,Port Elizabeth,Royal Challengers Bangalore,Bat,Rajasthan Royals,87,Runs,87 runs,Jos Buttler,League,138,20,No,No
+78,2009,Delhi Daredevils,Rajasthan Royals,Newlands Cricket Ground,Cape Town,Delhi Daredevils,Field,Delhi Daredevils,7,Runs,7 runs,Axar Patel,League,155,20,Yes,No
+79,2009,Mumbai Indians,Kings XI Punjab,Wanderers Stadium,Johannesburg,Mumbai Indians,Field,Mumbai Indians,91,Runs,91 runs,Ishan Kishan,League,139,20,Yes,No
+80,2009,Delhi Daredevils,Royal Challengers Bangalore,St George's Park,,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,3,Wickets,3 wickets,Virat Kohli,League,170,20,Yes,Yes
+81,2009,Delhi Daredevils,Mumbai Indians,Wanderers Stadium,Johannesburg,Delhi Daredevils,Field,Delhi Daredevils,6,Wickets,6 wickets,Virender Sehwag,League,208,20,Yes,No
+82,2009,Kolkata Knight Riders,Mumbai Indians,Wanderers Stadium,Johannesburg,Kolkata Knight Riders,Bat,Kolkata Knight Riders,7,Wickets,7 wickets,Pat Cummins,League,173,20,Yes,Yes
+83,2009,Royal Challengers Bangalore,Kolkata Knight Riders,Wanderers Stadium,Johannesburg,Royal Challengers Bangalore,Field,Kolkata Knight Riders,97,Runs,97 runs,Shubman Gill,League,152,20,No,Yes
+84,2009,Delhi Daredevils,Mumbai Indians,Wanderers Stadium,Johannesburg,Mumbai Indians,Field,Delhi Daredevils,88,Runs,88 runs,Virender Sehwag,League,194,20,No,Yes
+85,2009,Deccan Chargers,Royal Challengers Bangalore,Kingsmead Stadium,Durban,Deccan Chargers,Bat,Deccan Chargers,8,Wickets,8 wickets,Adam Gilchrist,League,137,20,Yes,Yes
+86,2009,Kolkata Knight Riders,Rajasthan Royals,Wanderers Stadium,Johannesburg,Rajasthan Royals,Bat,Kolkata Knight Riders,7,Wickets,7 wickets,Manoj Tiwary,League,134,20,No,No
+87,2009,Royal Challengers Bangalore,Chennai Super Kings,St George's Park,Port Elizabeth,Chennai Super Kings,Field,Chennai Super Kings,2,Wickets,2 wickets,Suresh Raina,League,197,20,Yes,No
+88,2009,Delhi Daredevils,Chennai Super Kings,Newlands Cricket Ground,Cape Town,Chennai Super Kings,Field,Delhi Daredevils,26,Runs,26 runs,David Warner,League,200,20,No,Yes
+89,2009,Royal Challengers Bangalore,Chennai Super Kings,Wanderers Stadium,Johannesburg,Royal Challengers Bangalore,Field,Chennai Super Kings,1,Wickets,1 wickets,MS Dhoni,League,141,20,No,Yes
+90,2009,Royal Challengers Bangalore,Kings XI Punjab,Wanderers Stadium,Johannesburg,Kings XI Punjab,Field,Royal Challengers Bangalore,9,Wickets,9 wickets,Chris Gayle,League,191,20,No,Yes
+91,2009,Mumbai Indians,Rajasthan Royals,Wanderers Stadium,Johannesburg,Mumbai Indians,Bat,Rajasthan Royals,10,Wickets,10 wickets,Ajinkya Rahane,League,140,20,No,No
+92,2009,Deccan Chargers,Chennai Super Kings,St George's Park,Port Elizabeth,Chennai Super Kings,Bat,Chennai Super Kings,4,Wickets,4 wickets,Michael Hussey,League,208,20,Yes,Yes
+93,2009,Chennai Super Kings,Delhi Daredevils,Wanderers Stadium,Johannesburg,Chennai Super Kings,Bat,Delhi Daredevils,87,Runs,87 runs,Shikhar Dhawan,League,132,20,No,No
+94,2009,Mumbai Indians,Rajasthan Royals,Wanderers Stadium,Johannesburg,Rajasthan Royals,Bat,Rajasthan Royals,38,Runs,38 runs,Ajinkya Rahane,League,177,20,Yes,Yes
+95,2009,Mumbai Indians,Kings XI Punjab,St George's Park,Port Elizabeth,Mumbai Indians,Field,Mumbai Indians,4,Wickets,4 wickets,Quinton de Kock,League,210,20,Yes,No
+96,2009,Chennai Super Kings,Deccan Chargers,Kingsmead Stadium,Durban,Chennai Super Kings,Field,Chennai Super Kings,48,Runs,48 runs,Ruturaj Gaikwad,League,168,20,Yes,No
+97,2009,Kings XI Punjab,Rajasthan Royals,Kingsmead Stadium,Durban,Rajasthan Royals,Field,Kings XI Punjab,8,Wickets,8 wickets,KL Rahul,League,160,20,No,Yes
+98,2009,Royal Challengers Bangalore,Mumbai Indians,Newlands Cricket Ground,Cape Town,Royal Challengers Bangalore,Field,Mumbai Indians,6,Wickets,6 wickets,Suryakumar Yadav,League,131,20,No,Yes
+99,2009,Kolkata Knight Riders,Royal Challengers Bangalore,Kingsmead Stadium,Durban,Kolkata Knight Riders,Field,Kolkata Knight Riders,12,Runs,12 runs,BB McCullum,League,205,20,Yes,No
+100,2009,Chennai Super Kings,Rajasthan Royals,,Durban,Rajasthan Royals,Bat,Rajasthan Royals,56,Runs,56 runs,Shane Warne,League,218,20,Yes,Yes
+101,2009,Delhi Daredevils,Kolkata Knight Riders,St George's Park,Port Elizabeth,Delhi Daredevils,Field,Kolkata Knight Riders,7,Wickets,7 wickets,Shubman Gill,League,158,20,No,Yes
+102,2009,Deccan Chargers,Mumbai Indians,St George's Park,Port Elizabeth,Deccan Chargers,Field,Deccan Chargers,33,Runs,33 runs,VVS Laxman,League,160,20,Yes,No
+103,2009,Kings XI Punjab,Chennai Super Kings,St George's Park,Port Elizabeth,Chennai Super Kings,Field,,75,Runs,75 runs,Mayank Agarwal,League,145,20,No,Yes
+104,2009,Deccan Chargers,Mumbai Indians,St George's Park,Port Elizabeth,Mumbai Indians,Bat,Mumbai Indians,94,Runs,94 runs,Sachin Tendulkar,League,186,20,Yes,Yes
+105,2009,Mumbai Indians,Kings XI Punjab,St George's Park,Port Elizabeth,Mumbai Indians,Bat,Mumbai Indians,97,Runs,97 runs,Tilak Varma,League,134,20,Yes,Yes
+106,2009,Rajasthan Royals,Delhi Daredevils,St George's Park,Port Elizabeth,Delhi Daredevils,Bat,Delhi Daredevils,80,Runs,80 runs,Kagiso Rabada,League,158,20,Yes,Yes
+107,2009,Chennai Super Kings,Kings XI Punjab,St George's Park,Port Elizabeth,Chennai Super Kings,Field,Chennai Super Kings,33,Runs,33 runs,Faf du Plessis,League,162,20,Yes,No
+108,2009,Mumbai Indians,Kolkata Knight Riders,Wanderers Stadium,Johannesburg,Mumbai Indians,Bat,Kolkata Knight Riders,2,Wickets,2 wickets,Sunil Narine,League,170,20,No,No
+109,2009,Chennai Super Kings,Kolkata Knight Riders,Newlands Cricket Ground,Cape Town,Chennai Super Kings,Bat,Chennai Super Kings,4,Runs,4 runs,Shane Watson,League,216,20,Yes,Yes
+110,2009,Kolkata Knight Riders,Deccan Chargers,Kingsmead Stadium,Durban,Kolkata Knight Riders,Bat,Deccan Chargers,7,Wickets,7 wickets,Rohit Sharma,League,144,20,No,No
+111,2009,Rajasthan Royals,Royal Challengers Bangalore,St George's Park,Port Elizabeth,,Bat,Rajasthan Royals,27,Runs,27 runs,Trent Boult,League,187,20,No,No
+112,2009,Chennai Super Kings,Deccan Chargers,Kingsmead Stadium,Durban,Deccan Chargers,Field,Deccan Chargers,4,Runs,4 runs,RP Singh,Playoff,168,20,Yes,No
+113,2009,Chennai Super Kings,Deccan Chargers,St George's Park,Port Elizabeth,Chennai Super Kings,Bat,Deccan Chargers,1,Runs,1 runs,Chamara Silva,Playoff,174,20,No,No
+114,2009,Chennai Super Kings,Kings XI Punjab,St George's Park,Port Elizabeth,Chennai Super Kings,Field,Chennai Super Kings,10,Wickets,10 wickets,Devon Conway,Playoff,199,20,Yes,No
+115,2009,Delhi Daredevils,Kings XI Punjab,Wanderers Stadium,Johannesburg,Delhi Daredevils,Bat,Delhi Daredevils,71,Runs,71 runs,Kagiso Rabada,Final,179,20,Yes,Yes
+116,2009,Rajasthan Royals,Chennai Super Kings,Newlands Cricket Ground,Cape Town,Chennai Super Kings,Bat,Rajasthan Royals,4,Wickets,4 wickets,Ajinkya Rahane,Playoff,174,20,No,No
+117,2010,Mumbai Indians,Royal Challengers Bangalore,Barabati Stadium,Cuttack,Royal Challengers Bangalore,Field,Mumbai Indians,44,Runs,44 runs,Lasith Malinga,League,164,20,No,Yes
+118,2010,Rajasthan Royals,Kings XI Punjab,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,Bat,Kings XI Punjab,13,Runs,13 runs,Mayank Agarwal,League,175,20,No,No
+119,2010,Delhi Daredevils,Mumbai Indians,Punjab Cricket Association Stadium,Mohali,Delhi Daredevils,Bat,Mumbai Indians,3,Wickets,3 wickets,Krunal Pandya,League,164,20,No,No
+120,2010,Delhi Daredevils,Mumbai Indians,,Jaipur,Mumbai Indians,Bat,Delhi Daredevils,7,Runs,7 runs,Morne Morkel,League,166,20,No,No
+121,2010,Royal Challengers Bangalore,Kolkata Knight Riders,Holkar Cricket Stadium,Indore,Kolkata Knight Riders,Bat,Kolkata Knight Riders,8,Wickets,8 wickets,Nitish Rana,League,176,20,Yes,Yes
+122,2010,Kings XI Punjab,Delhi Daredevils,Sawai Mansingh Stadium,Jaipur,Delhi Daredevils,Bat,Kings XI Punjab,98,Runs,98 runs,Adam Gilchrist,League,207,20,No,No
+123,2010,Chennai Super Kings,Kings XI Punjab,Punjab Cricket Association Stadium,Mohali,Chennai Super Kings,Bat,Chennai Super Kings,98,Runs,98 runs,Murali Vijay,League,215,20,Yes,Yes
+124,2010,Royal Challengers Bangalore,Mumbai Indians,Eden Gardens,Kolkata,Mumbai Indians,Field,Royal Challengers Bangalore,71,Runs,71 runs,Rajat Patidar,League,172,20,No,Yes
+125,2010,Delhi Daredevils,Mumbai Indians,HPCA Stadium,Dharamsala,Delhi Daredevils,Field,Delhi Daredevils,9,Wickets,9 wickets,Shikhar Dhawan,League,148,20,Yes,No
+126,2010,Kings XI Punjab,Royal Challengers Bangalore,Eden Gardens,Kolkata,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,10,Wickets,10 wickets,Faf du Plessis,League,171,20,Yes,Yes
+127,2010,Rajasthan Royals,Mumbai Indians,BRSABV Ekana Cricket Stadium,Lucknow,Rajasthan Royals,Field,,21,Runs,21 runs,Sachin Tendulkar,League,168,20,No,Yes
+128,2010,Mumbai Indians,Kings XI Punjab,Eden Gardens,Kolkata,Mumbai Indians,Field,Mumbai Indians,49,Runs,49 runs,Ishan Kishan,League,211,20,Yes,No
+129,2010,Deccan Chargers,Kings XI Punjab,MA Chidambaram Stadium,Chennai,Kings XI Punjab,Bat,Deccan Chargers,51,Runs,51 runs,Rohit Sharma,League,197,20,No,No
+130,2010,Delhi Daredevils,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,Field,Rajasthan Royals,5,Wickets,5 wickets,Steven Smith,League,169,20,Yes,No
+131,2010,Delhi Daredevils,Mumbai Indians,VCA Stadium,Nagpur,Mumbai Indians,Field,Delhi Daredevils,1,Wickets,1 wickets,Axar Patel,League,204,20,No,Yes
+132,2010,Rajasthan Royals,Royal Challengers Bangalore,Arun Jaitley Stadium,Delhi,Rajasthan Royals,Bat,Rajasthan Royals,85,Runs,85 runs,Shane Watson,League,220,20,Yes,Yes
+133,2010,Rajasthan Royals,Deccan Chargers,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Deccan Chargers,Field,Rajasthan Royals,86,Runs,86 runs,Jos Buttler,League,191,20,No,Yes
+134,2010,Mumbai Indians,Chennai Super Kings,Holkar Cricket Stadium,Indore,Chennai Super Kings,Bat,Chennai Super Kings,37,Runs,37 runs,Suresh Raina,League,175,20,Yes,Yes
+135,2010,Kings XI Punjab,Rajasthan Royals,VCA Stadium,Nagpur,Kings XI Punjab,Field,Kings XI Punjab,53,Runs,53 runs,Michael Hussey,League,144,20,Yes,No
+136,2010,Kings XI Punjab,Chennai Super Kings,Shaheed Veer Narayan Singh International Stadium,,Kings XI Punjab,Bat,Kings XI Punjab,5,Wickets,5 wickets,David Miller,League,188,20,Yes,Yes
+137,2010,Kings XI Punjab,Rajasthan Royals,Rajiv Gandhi International Stadium,Hyderabad,Kings XI Punjab,Bat,Kings XI Punjab,5,Wickets,5 wickets,Chris Gayle,League,166,20,Yes,Yes
+138,2010,Royal Challengers Bangalore,Deccan Chargers,MA Chidambaram Stadium,Chennai,Royal Challengers Bangalore,Field,Deccan Chargers,3,Wickets,3 wickets,Andrew Symonds,League,187,20,No,Yes
+139,2010,Royal Challengers Bangalore,Deccan Chargers,Eden Gardens,Kolkata,Deccan Chargers,Bat,Deccan Chargers,3,Wickets,3 wickets,Andrew Symonds,League,152,20,Yes,Yes
+140,2010,Chennai Super Kings,Deccan Chargers,DY Patil Stadium,Navi Mumbai,Chennai Super Kings,Bat,Deccan Chargers,5,Wickets,5 wickets,RP Singh,League,184,20,No,No
+141,2010,Chennai Super Kings,Royal Challengers Bangalore,MA Chidambaram Stadium,Chennai,Chennai Super Kings,Field,Chennai Super Kings,29,Runs,29 runs,Murali Vijay,League,220,20,Yes,No
+142,2010,Royal Challengers Bangalore,Deccan Chargers,Eden Gardens,Kolkata,Deccan Chargers,Bat,Royal Challengers Bangalore,6,Wickets,6 wickets,Rajat Patidar,League,177,20,No,No
+143,2010,Rajasthan Royals,Delhi Daredevils,Narendra Modi Stadium,Ahmedabad,Rajasthan Royals,Bat,Rajasthan Royals,3,Wickets,3 wickets,Sanju Samson,League,191,20,Yes,Yes
+144,2010,Kings XI Punjab,Deccan Chargers,Arun Jaitley Stadium,Delhi,Kings XI Punjab,Bat,Deccan Chargers,88,Runs,88 runs,Andrew Symonds,League,214,20,No,No
+145,2010,Delhi Daredevils,Royal Challengers Bangalore,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,,Field,Royal Challengers Bangalore,10,Wickets,10 wickets,Shane Bond,League,158,20,Yes,No
+146,2010,Delhi Daredevils,Mumbai Indians,M Chinnaswamy Stadium,Bangalore,Mumbai Indians,Bat,Mumbai Indians,4,Wickets,4 wickets,Jasprit Bumrah,League,216,20,Yes,Yes
+147,2010,Rajasthan Royals,Mumbai Indians,Shaheed Veer Narayan Singh International Stadium,Raipur,Mumbai Indians,Bat,Mumbai Indians,4,Runs,4 runs,,League,215,20,Yes,Yes
+148,2010,Kolkata Knight Riders,Chennai Super Kings,JSCA International Stadium,Ranchi,Chennai Super Kings,Field,Chennai Super Kings,8,Runs,8 runs,Deepak Chahar,League,150,20,Yes,No
+149,2010,Rajasthan Royals,Mumbai Indians,HPCA Stadium,Dharamsala,Rajasthan Royals,Field,Mumbai Indians,95,Runs,95 runs,Suryakumar Yadav,League,212,20,No,Yes
+150,2010,Royal Challengers Bangalore,Chennai Super Kings,MA Chidambaram Stadium,Chennai,Chennai Super Kings,Bat,Royal Challengers Bangalore,2,Runs,2 runs,Virat Kohli,League,206,20,No,No
+151,2010,Mumbai Indians,Kolkata Knight Riders,JSCA International Stadium,Ranchi,Mumbai Indians,Field,Kolkata Knight Riders,2,Wickets,2 wickets,Venkatesh Iyer,League,139,20,No,Yes
+152,2010,Chennai Super Kings,Royal Challengers Bangalore,VCA Stadium,Nagpur,Chennai Super Kings,Field,Chennai Super Kings,18,Runs,18 runs,Ruturaj Gaikwad,League,135,20,Yes,No
+153,2010,Chennai Super Kings,Delhi Daredevils,Brabourne Stadium,Mumbai,Delhi Daredevils,Field,Chennai Super Kings,2,Wickets,2 wickets,MS Dhoni,League,194,20,No,Yes
+154,2010,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Kolkata,Kolkata Knight Riders,Field,Kolkata Knight Riders,98,Runs,98 runs,Pat Cummins,League,199,20,Yes,No
+155,2010,Rajasthan Royals,Kings XI Punjab,DY Patil Stadium,Navi Mumbai,Rajasthan Royals,Bat,,53,Runs,53 runs,Ajinkya Rahane,League,207,20,Yes,Yes
+156,2010,Delhi Daredevils,Chennai Super Kings,Maharashtra Cricket Association Stadium,Pune,Delhi Daredevils,Bat,Chennai Super Kings,23,Runs,23 runs,Devon Conway,League,140,20,No,No
+157,2010,Royal Challengers Bangalore,Delhi Daredevils,,Ranchi,Delhi Daredevils,Bat,Royal Challengers Bangalore,5,Wickets,5 wickets,Virat Kohli,League,171,20,No,No
+158,2010,Rajasthan Royals,Chennai Super Kings,Sardar Patel Stadium,Ahmedabad,Rajasthan Royals,Field,Rajasthan Royals,31,Runs,31 runs,Shane Watson,League,216,20,Yes,No
+159,2010,Delhi Daredevils,Chennai Super Kings,Punjab Cricket Association Stadium,Mohali,Delhi Daredevils,Bat,Chennai Super Kings,40,Runs,40 runs,Ruturaj Gaikwad,League,163,20,No,No
+160,2010,Delhi Daredevils,Royal Challengers Bangalore,Sawai Mansingh Stadium,Jaipur,Delhi Daredevils,Bat,Royal Challengers Bangalore,66,Runs,66 runs,Yuzvendra Chahal,League,197,20,No,No
+161,2010,Mumbai Indians,Delhi Daredevils,DY Patil Stadium,Navi Mumbai,Delhi Daredevils,Bat,Delhi Daredevils,8,Wickets,8 wickets,Virender Sehwag,League,202,20,Yes,Yes
+162,2010,Kings XI Punjab,Rajasthan Royals,VCA Stadium,Nagpur,Rajasthan Royals,Bat,Rajasthan Royals,1,Wickets,1 wickets,Steven Smith,League,187,20,Yes,Yes
+163,2010,Kings XI Punjab,Chennai Super Kings,Sardar Patel Stadium,Ahmedabad,Chennai Super Kings,Bat,Chennai Super Kings,12,Runs,12 runs,Ambati Rayudu,League,217,20,Yes,Yes
+164,2010,Delhi Daredevils,Mumbai Indians,Barabati Stadium,Cuttack,Delhi Daredevils,Field,Delhi Daredevils,42,Runs,42 runs,Gautam Gambhir,League,215,20,Yes,No
+165,2010,Rajasthan Royals,Mumbai Indians,Wankhede Stadium,Mumbai,Mumbai Indians,Field,Mumbai Indians,9,Wickets,9 wickets,Rohit Sharma,League,132,20,Yes,No
+166,2010,Royal Challengers Bangalore,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,17,Runs,17 runs,AB de Villiers,League,210,20,Yes,No
+167,2010,Royal Challengers Bangalore,Rajasthan Royals,VCA Stadium,Nagpur,Rajasthan Royals,Bat,Rajasthan Royals,10,Wickets,10 wickets,Trent Boult,League,132,20,Yes,Yes
+168,2010,Mumbai Indians,Royal Challengers Bangalore,Sawai Mansingh Stadium,Jaipur,Royal Challengers Bangalore,Bat,Mumbai Indians,44,Runs,44 runs,Kieron Pollard,League,206,20,No,No
+169,2010,Kolkata Knight Riders,Deccan Chargers,Sawai Mansingh Stadium,Jaipur,Deccan Chargers,Field,Kolkata Knight Riders,13,Runs,13 runs,Gautam Gambhir,League,197,20,No,Yes
+170,2010,Mumbai Indians,Rajasthan Royals,Barabati Stadium,Cuttack,Rajasthan Royals,Bat,Rajasthan Royals,9,Wickets,9 wickets,Shane Warne,League,175,20,Yes,Yes
+171,2010,Kings XI Punjab,Kolkata Knight Riders,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,Bat,Kolkata Knight Riders,1,Wickets,1 wickets,Gautam Gambhir,League,160,20,Yes,Yes
+172,2010,Mumbai Indians,Deccan Chargers,Punjab Cricket Association Stadium,Mohali,Deccan Chargers,Bat,Deccan Chargers,7,Runs,7 runs,Rohit Sharma,Playoff,200,20,Yes,Yes
+173,2010,Deccan Chargers,Royal Challengers Bangalore,VCA Stadium,Nagpur,Royal Challengers Bangalore,Field,Deccan Chargers,3,Wickets,3 wickets,Andrew Symonds,Playoff,209,20,No,Yes
+174,2010,Kings XI Punjab,Kolkata Knight Riders,DY Patil Stadium,Navi Mumbai,Kings XI Punjab,Bat,Kolkata Knight Riders,23,Runs,23 runs,Nitish Rana,Playoff,164,20,No,No
+175,2010,Mumbai Indians,Deccan Chargers,HPCA Stadium,Dharamsala,Mumbai Indians,Bat,Mumbai Indians,5,Wickets,5 wickets,Sachin Tendulkar,Final,158,20,Yes,Yes
+176,2010,Kings XI Punjab,Deccan Chargers,M Chinnaswamy Stadium,Bangalore,Deccan Chargers,Bat,Kings XI Punjab,61,Runs,61 runs,Mayank Agarwal,Playoff,142,20,No,No
+177,2011,Kings XI Punjab,Rajasthan Royals,Barabati Stadium,Cuttack,Kings XI Punjab,Bat,Kings XI Punjab,4,Wickets,4 wickets,Chris Gayle,League,136,20,Yes,Yes
+178,2011,Pune Warriors India,Royal Challengers Bangalore,JSCA International Stadium,Ranchi,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,4,Wickets,4 wickets,Glenn Maxwell,League,214,20,Yes,No
+179,2011,Kolkata Knight Riders,Deccan Chargers,Punjab Cricket Association Stadium,,Kolkata Knight Riders,Field,Kolkata Knight Riders,1,Runs,1 runs,Robin Uthappa,League,213,20,Yes,No
+180,2011,Pune Warriors India,Chennai Super Kings,Feroz Shah Kotla,Delhi,Chennai Super Kings,Bat,Chennai Super Kings,62,Runs,62 runs,Ambati Rayudu,League,151,20,Yes,Yes
+181,2011,Royal Challengers Bangalore,Mumbai Indians,Sawai Mansingh Stadium,Jaipur,Mumbai Indians,Bat,Mumbai Indians,39,Runs,39 runs,Suryakumar Yadav,League,204,20,Yes,Yes
+182,2011,Deccan Chargers,Mumbai Indians,JSCA International Stadium,Ranchi,Deccan Chargers,Bat,Deccan Chargers,4,Wickets,4 wickets,Chamara Silva,League,192,20,Yes,Yes
+183,2011,Pune Warriors India,Kolkata Knight Riders,Barabati Stadium,Cuttack,Kolkata Knight Riders,Field,Pune Warriors India,7,Wickets,7 wickets,Sourav Ganguly,League,202,20,No,Yes
+184,2011,Deccan Chargers,Mumbai Indians,Eden Gardens,Kolkata,Mumbai Indians,Field,Deccan Chargers,9,Wickets,9 wickets,Chamara Silva,League,176,20,No,Yes
+185,2011,Rajasthan Royals,Chennai Super Kings,Barabati Stadium,Cuttack,Rajasthan Royals,Bat,Chennai Super Kings,5,Wickets,5 wickets,Moeen Ali,League,206,20,No,No
+186,2011,Chennai Super Kings,Deccan Chargers,VCA Stadium,Nagpur,Deccan Chargers,Field,,9,Wickets,9 wickets,Ambati Rayudu,League,172,20,No,Yes
+187,2011,Chennai Super Kings,Deccan Chargers,VCA Stadium,Nagpur,Chennai Super Kings,Bat,Chennai Super Kings,31,Runs,31 runs,Suresh Raina,League,199,20,Yes,Yes
+188,2011,Mumbai Indians,Chennai Super Kings,Eden Gardens,Kolkata,Mumbai Indians,Bat,Chennai Super Kings,24,Runs,24 runs,Murali Vijay,League,213,20,No,No
+189,2011,Deccan Chargers,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,Deccan Chargers,Bat,Deccan Chargers,10,Wickets,10 wickets,Chamara Silva,League,182,20,Yes,Yes
+190,2011,Delhi Daredevils,Royal Challengers Bangalore,Punjab Cricket Association Stadium,Mohali,Delhi Daredevils,Bat,Royal Challengers Bangalore,52,Runs,52 runs,Daniel Vettori,League,135,20,No,No
+191,2011,Pune Warriors India,Chennai Super Kings,Rajiv Gandhi International Stadium,Hyderabad,Pune Warriors India,Bat,Pune Warriors India,86,Runs,86 runs,Steve Smith,League,210,20,Yes,Yes
+192,2011,Delhi Daredevils,Kochi Tuskers Kerala,,Cuttack,Delhi Daredevils,Bat,Delhi Daredevils,5,Wickets,5 wickets,Shikhar Dhawan,League,196,20,Yes,Yes
+193,2011,Kochi Tuskers Kerala,Chennai Super Kings,Barabati Stadium,Cuttack,Kochi Tuskers Kerala,Bat,Kochi Tuskers Kerala,79,Runs,79 runs,,League,169,20,Yes,Yes
+194,2011,Rajasthan Royals,Pune Warriors India,Feroz Shah Kotla,Delhi,Pune Warriors India,Bat,Pune Warriors India,67,Runs,67 runs,Angelo Mathews,League,187,20,Yes,Yes
+195,2011,Kochi Tuskers Kerala,Delhi Daredevils,Barabati Stadium,Cuttack,Delhi Daredevils,Bat,Delhi Daredevils,2,Wickets,2 wickets,Axar Patel,League,145,20,Yes,Yes
+196,2011,Chennai Super Kings,Delhi Daredevils,Shaheed Veer Narayan Singh International Stadium,Raipur,Delhi Daredevils,Bat,Chennai Super Kings,8,Wickets,8 wickets,Shane Watson,League,139,20,No,No
+197,2011,Kings XI Punjab,Pune Warriors India,Barabati Stadium,Cuttack,Pune Warriors India,Field,Kings XI Punjab,7,Wickets,7 wickets,David Miller,League,172,20,No,Yes
+198,2011,Kings XI Punjab,Rajasthan Royals,Shaheed Veer Narayan Singh International Stadium,Raipur,Kings XI Punjab,Field,Kings XI Punjab,3,Wickets,3 wickets,David Miller,League,134,20,Yes,No
+199,2011,Royal Challengers Bangalore,Kings XI Punjab,Sawai Mansingh Stadium,Jaipur,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,8,Wickets,8 wickets,Daniel Vettori,League,188,20,Yes,Yes
+200,2011,Royal Challengers Bangalore,Kochi Tuskers Kerala,HPCA Stadium,Dharamsala,Kochi Tuskers Kerala,Bat,Royal Challengers Bangalore,53,Runs,53 runs,Rajat Patidar,League,191,20,No,No
+201,2011,Mumbai Indians,Rajasthan Royals,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,Bat,Rajasthan Royals,37,Runs,37 runs,Trent Boult,League,143,20,Yes,Yes
+202,2011,Royal Challengers Bangalore,Kings XI Punjab,Eden Gardens,Kolkata,,Bat,Royal Challengers Bangalore,10,Wickets,10 wickets,Glenn Maxwell,League,156,20,Yes,Yes
+203,2011,Rajasthan Royals,Chennai Super Kings,Arun Jaitley Stadium,Delhi,Rajasthan Royals,Field,Rajasthan Royals,87,Runs,87 runs,Yusuf Pathan,League,187,20,Yes,No
+204,2011,Chennai Super Kings,Kings XI Punjab,Maharashtra Cricket Association Stadium,Pune,Chennai Super Kings,Bat,Kings XI Punjab,4,Wickets,4 wickets,Chris Gayle,League,213,20,No,No
+205,2011,Delhi Daredevils,Kochi Tuskers Kerala,BRSABV Ekana Cricket Stadium,Lucknow,Kochi Tuskers Kerala,Bat,Delhi Daredevils,10,Wickets,10 wickets,Rishabh Pant,League,199,20,No,No
+206,2011,Kings XI Punjab,Mumbai Indians,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,Field,Kings XI Punjab,27,Runs,27 runs,Adam Gilchrist,League,154,20,No,Yes
+207,2011,Deccan Chargers,Kings XI Punjab,Eden Gardens,Kolkata,Deccan Chargers,Field,Kings XI Punjab,3,Wickets,3 wickets,Glenn Maxwell,League,140,20,No,Yes
+208,2011,Pune Warriors India,Kolkata Knight Riders,MA Chidambaram Stadium,Chennai,Kolkata Knight Riders,Bat,Pune Warriors India,9,Wickets,9 wickets,Angelo Mathews,League,162,20,No,No
+209,2011,Deccan Chargers,Mumbai Indians,Barabati Stadium,Cuttack,Deccan Chargers,Bat,Deccan Chargers,5,Wickets,5 wickets,Adam Gilchrist,League,191,20,Yes,Yes
+210,2011,Chennai Super Kings,Mumbai Indians,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,Field,Mumbai Indians,5,Wickets,5 wickets,Kieron Pollard,League,143,20,Yes,No
+211,2011,Kolkata Knight Riders,Kings XI Punjab,Holkar Cricket Stadium,Indore,Kings XI Punjab,Field,Kings XI Punjab,97,Runs,97 runs,Glenn Maxwell,League,161,20,Yes,No
+212,2011,Kolkata Knight Riders,Kings XI Punjab,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,Field,Kolkata Knight Riders,15,Runs,15 runs,Yusuf Pathan,League,183,20,Yes,No
+213,2011,Rajasthan Royals,Deccan Chargers,Feroz Shah Kotla,Delhi,Rajasthan Royals,Field,Deccan Chargers,3,Wickets,3 wickets,Chamara Silva,League,184,20,No,Yes
+214,2011,Mumbai Indians,Pune Warriors India,HPCA Stadium,Dharamsala,Pune Warriors India,Bat,Mumbai Indians,10,Wickets,10 wickets,Suryakumar Yadav,League,168,20,No,No
+215,2011,Royal Challengers Bangalore,Kochi Tuskers Kerala,DY Patil Stadium,Navi Mumbai,Royal Challengers Bangalore,Field,Kochi Tuskers Kerala,12,Runs,12 runs,Mahela Jayawardene,League,164,20,No,Yes
+216,2011,Delhi Daredevils,Pune Warriors India,HPCA Stadium,Dharamsala,Pune Warriors India,Bat,Pune Warriors India,8,Wickets,8 wickets,Robin Uthappa,League,208,20,Yes,Yes
+217,2011,Deccan Chargers,Royal Challengers Bangalore,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,3,Wickets,3 wickets,Shane Bond,League,135,20,Yes,No
+218,2011,Mumbai Indians,Royal Challengers Bangalore,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,Bat,Mumbai Indians,1,Wickets,1 wickets,Kieron Pollard,League,165,20,No,No
+219,2011,Kolkata Knight Riders,Royal Challengers Bangalore,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,Field,Kolkata Knight Riders,69,Runs,69 runs,Manoj Tiwary,League,152,20,No,Yes
+220,2011,Kings XI Punjab,Mumbai Indians,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Kings XI Punjab,Field,Kings XI Punjab,1,Wickets,1 wickets,David Miller,League,209,20,Yes,No
+221,2011,Chennai Super Kings,Royal Challengers Bangalore,Maharashtra Cricket Association Stadium,Pune,Chennai Super Kings,Bat,Chennai Super Kings,60,Runs,60 runs,Shane Watson,League,137,20,Yes,Yes
+222,2011,Kochi Tuskers Kerala,Deccan Chargers,Eden Gardens,Kolkata,Kochi Tuskers Kerala,Bat,Kochi Tuskers Kerala,17,Runs,17 runs,Mahela Jayawardene,League,215,20,Yes,Yes
+223,2011,Royal Challengers Bangalore,Kings XI Punjab,Brabourne Stadium,Mumbai,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,65,Runs,65 runs,Glenn Maxwell,League,193,20,Yes,No
+224,2011,Rajasthan Royals,Chennai Super Kings,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,Bat,Rajasthan Royals,41,Runs,41 runs,Yuzvendra Chahal,League,176,20,Yes,Yes
+225,2011,Delhi Daredevils,Mumbai Indians,Barabati Stadium,Cuttack,Mumbai Indians,Field,Mumbai Indians,4,Wickets,4 wickets,Lasith Malinga,League,180,20,Yes,No
+226,2011,Mumbai Indians,Delhi Daredevils,M Chinnaswamy Stadium,,Delhi Daredevils,Field,Mumbai Indians,65,Runs,65 runs,Kieron Pollard,League,144,20,No,Yes
+227,2011,Chennai Super Kings,Kings XI Punjab,BRSABV Ekana Cricket Stadium,Lucknow,Kings XI Punjab,Field,Kings XI Punjab,5,Wickets,5 wickets,KL Rahul,League,161,20,Yes,No
+228,2011,Kochi Tuskers Kerala,Mumbai Indians,Punjab Cricket Association Stadium,Mohali,Kochi Tuskers Kerala,Bat,Mumbai Indians,2,Wickets,2 wickets,Sachin Tendulkar,League,148,20,No,No
+229,2011,Deccan Chargers,Kochi Tuskers Kerala,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Kochi Tuskers Kerala,Bat,Kochi Tuskers Kerala,58,Runs,58 runs,Mahela Jayawardene,League,138,20,Yes,Yes
+230,2011,Pune Warriors India,Delhi Daredevils,Shaheed Veer Narayan Singh International Stadium,Raipur,Delhi Daredevils,Bat,Delhi Daredevils,100,Runs,100 runs,Kagiso Rabada,League,148,20,Yes,Yes
+231,2011,Pune Warriors India,Rajasthan Royals,DY Patil Stadium,Navi Mumbai,Pune Warriors India,Bat,Pune Warriors India,44,Runs,44 runs,Sourav Ganguly,League,149,20,Yes,Yes
+232,2011,Royal Challengers Bangalore,Mumbai Indians,Maharashtra Cricket Association Stadium,Pune,Royal Challengers Bangalore,Bat,Mumbai Indians,3,Wickets,3 wickets,Tilak Varma,League,192,20,No,No
+233,2011,Delhi Daredevils,Rajasthan Royals,Brabourne Stadium,Mumbai,Rajasthan Royals,Bat,Delhi Daredevils,45,Runs,45 runs,Rishabh Pant,League,183,20,No,No
+234,2011,Kochi Tuskers Kerala,Kings XI Punjab,Maharashtra Cricket Association Stadium,Pune,Kings XI Punjab,Field,Kings XI Punjab,57,Runs,57 runs,David Miller,League,207,20,Yes,No
+235,2011,Chennai Super Kings,Rajasthan Royals,Rajiv Gandhi International Stadium,Hyderabad,Chennai Super Kings,Field,Rajasthan Royals,17,Runs,17 runs,Ajinkya Rahane,League,185,20,No,Yes
+236,2011,Kochi Tuskers Kerala,Chennai Super Kings,Barabati Stadium,Cuttack,Kochi Tuskers Kerala,Bat,Kochi Tuskers Kerala,6,Wickets,6 wickets,,League,175,20,Yes,Yes
+237,2011,Royal Challengers Bangalore,Delhi Daredevils,,Mumbai,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,1,Wickets,1 wickets,Faf du Plessis,League,191,20,Yes,No
+238,2011,Delhi Daredevils,Mumbai Indians,Sawai Mansingh Stadium,Jaipur,Mumbai Indians,Bat,Delhi Daredevils,17,Runs,17 runs,Axar Patel,League,153,20,No,No
+239,2011,Kings XI Punjab,Deccan Chargers,BRSABV Ekana Cricket Stadium,Lucknow,Kings XI Punjab,Field,Deccan Chargers,66,Runs,66 runs,Adam Gilchrist,League,194,20,No,Yes
+240,2011,Royal Challengers Bangalore,Kings XI Punjab,Brabourne Stadium,Mumbai,Royal Challengers Bangalore,Field,Kings XI Punjab,94,Runs,94 runs,David Miller,League,177,20,No,Yes
+241,2011,Pune Warriors India,Kings XI Punjab,Shaheed Veer Narayan Singh International Stadium,Raipur,,Field,Kings XI Punjab,9,Wickets,9 wickets,Glenn Maxwell,League,148,20,No,Yes
+242,2011,Rajasthan Royals,Kings XI Punjab,Shaheed Veer Narayan Singh International Stadium,Raipur,Rajasthan Royals,Field,,6,Wickets,6 wickets,KL Rahul,League,189,20,No,Yes
+243,2011,Chennai Super Kings,Kings XI Punjab,Punjab Cricket Association Stadium,Mohali,Chennai Super Kings,Bat,Chennai Super Kings,5,Wickets,5 wickets,Murali Vijay,League,157,20,Yes,Yes
+244,2011,Rajasthan Royals,Chennai Super Kings,JSCA International Stadium,Ranchi,Chennai Super Kings,Bat,Rajasthan Royals,1,Wickets,1 wickets,Steven Smith,League,135,20,No,No
+245,2011,Chennai Super Kings,Deccan Chargers,Feroz Shah Kotla,Delhi,Chennai Super Kings,Field,Chennai Super Kings,71,Runs,71 runs,Ruturaj Gaikwad,Playoff,167,20,Yes,No
+246,2011,Deccan Chargers,Mumbai Indians,M Chinnaswamy Stadium,Bangalore,Mumbai Indians,Field,Deccan Chargers,19,Runs,19 runs,Andrew Symonds,Playoff,172,20,No,Yes
+247,2011,Kings XI Punjab,Delhi Daredevils,Sawai Mansingh Stadium,Jaipur,Kings XI Punjab,Bat,Kings XI Punjab,93,Runs,93 runs,Michael Hussey,Playoff,165,20,Yes,Yes
+248,2011,Kochi Tuskers Kerala,Chennai Super Kings,JSCA International Stadium,Ranchi,Chennai Super Kings,Field,Kochi Tuskers Kerala,96,Runs,96 runs,Parthiv Patel,Final,147,20,No,Yes
+249,2011,Rajasthan Royals,Delhi Daredevils,BRSABV Ekana Cricket Stadium,Lucknow,Delhi Daredevils,Field,Rajasthan Royals,31,Runs,31 runs,Shane Warne,Playoff,184,20,No,Yes
+250,2012,Pune Warriors India,Delhi Daredevils,Holkar Cricket Stadium,Indore,Delhi Daredevils,Bat,Delhi Daredevils,12,Runs,12 runs,Kagiso Rabada,League,151,20,Yes,Yes
+251,2012,Delhi Daredevils,Deccan Chargers,DY Patil Stadium,Navi Mumbai,Delhi Daredevils,Bat,Delhi Daredevils,49,Runs,49 runs,Morne Morkel,League,190,20,Yes,Yes
+252,2012,Mumbai Indians,Delhi Daredevils,Brabourne Stadium,Mumbai,Delhi Daredevils,Bat,Delhi Daredevils,49,Runs,49 runs,Axar Patel,League,185,20,Yes,Yes
+253,2012,Chennai Super Kings,Royal Challengers Bangalore,Narendra Modi Stadium,Ahmedabad,Chennai Super Kings,Field,Chennai Super Kings,100,Runs,100 runs,Ravindra Jadeja,League,153,20,Yes,No
+254,2012,Kings XI Punjab,Delhi Daredevils,HPCA Stadium,Dharamsala,Delhi Daredevils,Field,Kings XI Punjab,4,Wickets,4 wickets,KL Rahul,League,136,20,No,Yes
+255,2012,Pune Warriors India,Chennai Super Kings,VCA Stadium,Nagpur,Pune Warriors India,Field,Pune Warriors India,29,Runs,29 runs,Steve Smith,League,149,20,Yes,No
+256,2012,Mumbai Indians,Royal Challengers Bangalore,Brabourne Stadium,Mumbai,Royal Challengers Bangalore,Bat,Mumbai Indians,83,Runs,83 runs,Tilak Varma,League,190,20,No,No
+257,2012,Chennai Super Kings,Delhi Daredevils,Rajiv Gandhi International Stadium,Hyderabad,Delhi Daredevils,Bat,Chennai Super Kings,8,Wickets,8 wickets,MS Dhoni,League,167,20,No,No
+258,2012,Chennai Super Kings,Mumbai Indians,DY Patil Stadium,Navi Mumbai,Chennai Super Kings,Field,Mumbai Indians,35,Runs,35 runs,Krunal Pandya,League,219,20,No,Yes
+259,2012,Delhi Daredevils,Kings XI Punjab,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Delhi Daredevils,Field,Delhi Daredevils,9,Wickets,9 wickets,Rishabh Pant,League,159,20,Yes,No
+260,2012,Royal Challengers Bangalore,Chennai Super Kings,HPCA Stadium,Dharamsala,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,10,Wickets,10 wickets,Glenn Maxwell,League,146,20,Yes,Yes
+261,2012,Delhi Daredevils,Kings XI Punjab,Narendra Modi Stadium,Ahmedabad,Kings XI Punjab,Bat,Kings XI Punjab,9,Wickets,9 wickets,Mayank Agarwal,League,194,20,Yes,Yes
+262,2012,Delhi Daredevils,Pune Warriors India,DY Patil Stadium,Navi Mumbai,Pune Warriors India,Bat,Delhi Daredevils,5,Wickets,5 wickets,Morne Morkel,League,209,20,No,No
+263,2012,Delhi Daredevils,Pune Warriors India,Shaheed Veer Narayan Singh International Stadium,Raipur,Pune Warriors India,Field,Pune Warriors India,10,Wickets,10 wickets,Michael Clarke,League,190,20,Yes,No
+264,2012,Rajasthan Royals,Kolkata Knight Riders,Shaheed Veer Narayan Singh International Stadium,Raipur,Kolkata Knight Riders,Bat,Kolkata Knight Riders,58,Runs,58 runs,Yusuf Pathan,League,217,20,Yes,Yes
+265,2012,Pune Warriors India,Royal Challengers Bangalore,VCA Stadium,Nagpur,Royal Challengers Bangalore,Field,Pune Warriors India,4,Runs,4 runs,Sourav Ganguly,League,150,20,No,Yes
+266,2012,Pune Warriors India,Rajasthan Royals,BRSABV Ekana Cricket Stadium,Lucknow,Rajasthan Royals,Bat,Rajasthan Royals,7,Wickets,7 wickets,Sanju Samson,League,147,20,Yes,Yes
+267,2012,Rajasthan Royals,Pune Warriors India,Feroz Shah Kotla,Delhi,Pune Warriors India,Bat,Rajasthan Royals,1,Wickets,1 wickets,Sanju Samson,League,168,20,No,No
+268,2012,Kings XI Punjab,Mumbai Indians,M Chinnaswamy Stadium,Bangalore,Kings XI Punjab,Field,Mumbai Indians,10,Wickets,10 wickets,Krunal Pandya,League,166,20,No,Yes
+269,2012,Deccan Chargers,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Pune,Deccan Chargers,Bat,Deccan Chargers,4,Wickets,4 wickets,Rohit Sharma,League,166,20,Yes,Yes
+270,2012,Deccan Chargers,Mumbai Indians,,Jaipur,Deccan Chargers,Field,Deccan Chargers,22,Runs,22 runs,Chamara Silva,League,178,20,Yes,No
+271,2012,Chennai Super Kings,Royal Challengers Bangalore,MA Chidambaram Stadium,Chennai,Chennai Super Kings,Bat,Royal Challengers Bangalore,72,Runs,72 runs,Rajat Patidar,League,192,20,No,No
+272,2012,Chennai Super Kings,Pune Warriors India,DY Patil Stadium,Navi Mumbai,Pune Warriors India,Field,Pune Warriors India,67,Runs,67 runs,Robin Uthappa,League,146,20,Yes,No
+273,2012,Royal Challengers Bangalore,Delhi Daredevils,Brabourne Stadium,Mumbai,Delhi Daredevils,Field,Royal Challengers Bangalore,75,Runs,75 runs,Daniel Vettori,League,199,20,No,Yes
+274,2012,Kolkata Knight Riders,Pune Warriors India,HPCA Stadium,,Kolkata Knight Riders,Bat,Pune Warriors India,3,Wickets,3 wickets,Michael Clarke,League,144,20,No,No
+275,2012,Deccan Chargers,Kolkata Knight Riders,Arun Jaitley Stadium,Delhi,Kolkata Knight Riders,Field,Deccan Chargers,42,Runs,42 runs,Andrew Symonds,League,162,20,No,Yes
+276,2012,Rajasthan Royals,Pune Warriors India,JSCA International Stadium,Ranchi,Pune Warriors India,Field,Rajasthan Royals,7,Wickets,7 wickets,Jos Buttler,League,134,20,No,Yes
+277,2012,Delhi Daredevils,Pune Warriors India,HPCA Stadium,Dharamsala,Pune Warriors India,Field,Delhi Daredevils,1,Wickets,1 wickets,Rishabh Pant,League,132,20,No,Yes
+278,2012,Delhi Daredevils,Kings XI Punjab,VCA Stadium,Nagpur,Delhi Daredevils,Bat,Kings XI Punjab,10,Wickets,10 wickets,,League,190,20,No,No
+279,2012,Royal Challengers Bangalore,Delhi Daredevils,Punjab Cricket Association Stadium,Mohali,Delhi Daredevils,Field,Royal Challengers Bangalore,6,Wickets,6 wickets,Shane Bond,League,130,20,No,Yes
+280,2012,Royal Challengers Bangalore,Chennai Super Kings,Maharashtra Cricket Association Stadium,Pune,,Field,Royal Challengers Bangalore,9,Wickets,9 wickets,Yuzvendra Chahal,League,133,20,Yes,No
+281,2012,Chennai Super Kings,Mumbai Indians,BRSABV Ekana Cricket Stadium,Lucknow,Mumbai Indians,Field,Chennai Super Kings,2,Wickets,2 wickets,Michael Hussey,League,202,20,No,Yes
+282,2012,Chennai Super Kings,Kolkata Knight Riders,Rajiv Gandhi International Stadium,Hyderabad,Chennai Super Kings,Bat,Chennai Super Kings,3,Wickets,3 wickets,Suresh Raina,League,212,20,Yes,Yes
+283,2012,Pune Warriors India,Delhi Daredevils,Narendra Modi Stadium,Ahmedabad,Delhi Daredevils,Bat,Delhi Daredevils,1,Wickets,1 wickets,Kagiso Rabada,League,161,20,Yes,Yes
+284,2012,Pune Warriors India,Delhi Daredevils,Arun Jaitley Stadium,Delhi,Pune Warriors India,Bat,Pune Warriors India,27,Runs,27 runs,Sourav Ganguly,League,211,20,Yes,Yes
+285,2012,Delhi Daredevils,Kolkata Knight Riders,Wankhede Stadium,Mumbai,Kolkata Knight Riders,Field,Delhi Daredevils,63,Runs,63 runs,Kevin Pietersen,League,185,20,No,Yes
+286,2012,Mumbai Indians,Royal Challengers Bangalore,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Mumbai Indians,Bat,Royal Challengers Bangalore,81,Runs,81 runs,Chris Gayle,League,212,20,No,No
+287,2012,Deccan Chargers,Mumbai Indians,HPCA Stadium,Dharamsala,Deccan Chargers,Field,Deccan Chargers,6,Wickets,6 wickets,RP Singh,League,209,20,Yes,No
+288,2012,Royal Challengers Bangalore,Kolkata Knight Riders,Barabati Stadium,Cuttack,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,31,Runs,31 runs,Dinesh Karthik,League,137,20,Yes,Yes
+289,2012,Pune Warriors India,Kings XI Punjab,DY Patil Stadium,Navi Mumbai,Kings XI Punjab,Field,Kings XI Punjab,99,Runs,99 runs,KL Rahul,League,195,20,Yes,No
+290,2012,Kolkata Knight Riders,Delhi Daredevils,Holkar Cricket Stadium,Indore,Kolkata Knight Riders,Field,Kolkata Knight Riders,6,Wickets,6 wickets,Rinku Singh,League,147,20,Yes,No
+291,2012,Delhi Daredevils,Mumbai Indians,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Delhi Daredevils,Field,Mumbai Indians,8,Wickets,8 wickets,Suryakumar Yadav,League,218,20,No,Yes
+292,2012,Pune Warriors India,Deccan Chargers,VCA Stadium,Nagpur,Pune Warriors India,Field,Deccan Chargers,57,Runs,57 runs,VVS Laxman,League,219,20,No,Yes
+293,2012,Chennai Super Kings,Mumbai Indians,Holkar Cricket Stadium,Indore,Chennai Super Kings,Bat,,64,Runs,64 runs,Suryakumar Yadav,League,152,20,No,No
+294,2012,Royal Challengers Bangalore,Mumbai Indians,Holkar Cricket Stadium,Indore,Mumbai Indians,Field,Mumbai Indians,32,Runs,32 runs,Tilak Varma,League,158,20,Yes,No
+295,2012,Chennai Super Kings,Deccan Chargers,MA Chidambaram Stadium,Chennai,Deccan Chargers,Bat,Chennai Super Kings,43,Runs,43 runs,Ambati Rayudu,League,170,20,No,No
+296,2012,Pune Warriors India,Mumbai Indians,Shaheed Veer Narayan Singh International Stadium,Raipur,Pune Warriors India,Field,Pune Warriors India,4,Wickets,4 wickets,Sourav Ganguly,League,134,20,Yes,No
+297,2012,Deccan Chargers,Delhi Daredevils,BRSABV Ekana Cricket Stadium,Lucknow,Delhi Daredevils,Field,Deccan Chargers,100,Runs,100 runs,VVS Laxman,League,214,20,No,Yes
+298,2012,Delhi Daredevils,Kolkata Knight Riders,HPCA Stadium,Dharamsala,Kolkata Knight Riders,Bat,Kolkata Knight Riders,8,Wickets,8 wickets,Shubman Gill,League,165,20,Yes,Yes
+299,2012,Kolkata Knight Riders,Kings XI Punjab,M Chinnaswamy Stadium,Bangalore,Kolkata Knight Riders,Field,Kings XI Punjab,58,Runs,58 runs,KL Rahul,League,147,20,No,Yes
+300,2012,Delhi Daredevils,Royal Challengers Bangalore,Shaheed Veer Narayan Singh International Stadium,Raipur,Royal Challengers Bangalore,Field,Delhi Daredevils,100,Runs,100 runs,Kevin Pietersen,League,144,20,No,Yes
+301,2012,Kings XI Punjab,Chennai Super Kings,Punjab Cricket Association Stadium,Mohali,Chennai Super Kings,Bat,Chennai Super Kings,7,Wickets,7 wickets,Ravindra Jadeja,League,159,20,Yes,Yes
+302,2012,Kings XI Punjab,Mumbai Indians,Brabourne Stadium,Mumbai,Mumbai Indians,Bat,Kings XI Punjab,87,Runs,87 runs,Glenn Maxwell,League,131,20,No,No
+303,2012,Rajasthan Royals,Deccan Chargers,VCA Stadium,Nagpur,Rajasthan Royals,Field,Deccan Chargers,4,Wickets,4 wickets,VVS Laxman,League,151,20,No,Yes
+304,2012,Pune Warriors India,Deccan Chargers,DY Patil Stadium,Navi Mumbai,Pune Warriors India,Bat,Deccan Chargers,85,Runs,85 runs,Adam Gilchrist,League,178,20,No,No
+305,2012,Chennai Super Kings,Delhi Daredevils,Punjab Cricket Association Stadium,Mohali,Chennai Super Kings,Bat,Delhi Daredevils,9,Wickets,9 wickets,David Warner,League,203,20,No,No
+306,2012,Chennai Super Kings,Pune Warriors India,HPCA Stadium,Dharamsala,Pune Warriors India,Bat,Chennai Super Kings,8,Wickets,8 wickets,Devon Conway,League,162,20,No,No
+307,2012,Royal Challengers Bangalore,Chennai Super Kings,Shaheed Veer Narayan Singh International Stadium,Raipur,Royal Challengers Bangalore,Bat,Chennai Super Kings,3,Wickets,3 wickets,Faf du Plessis,League,200,20,No,No
+308,2012,Delhi Daredevils,Chennai Super Kings,M Chinnaswamy Stadium,Bangalore,Chennai Super Kings,Bat,Chennai Super Kings,68,Runs,68 runs,MS Dhoni,League,193,20,Yes,Yes
+309,2012,Rajasthan Royals,Pune Warriors India,Eden Gardens,Kolkata,Pune Warriors India,Field,Rajasthan Royals,14,Runs,14 runs,Sanju Samson,League,175,20,No,Yes
+310,2012,Kolkata Knight Riders,Kings XI Punjab,Maharashtra Cricket Association Stadium,Pune,Kings XI Punjab,Bat,Kolkata Knight Riders,65,Runs,65 runs,Pat Cummins,League,202,20,No,No
+311,2012,Deccan Chargers,Delhi Daredevils,DY Patil Stadium,Navi Mumbai,Deccan Chargers,Bat,Delhi Daredevils,67,Runs,67 runs,Axar Patel,League,164,20,No,No
+312,2012,Delhi Daredevils,Kolkata Knight Riders,JSCA International Stadium,Ranchi,Kolkata Knight Riders,Bat,Kolkata Knight Riders,4,Wickets,4 wickets,Gautam Gambhir,League,203,20,Yes,Yes
+313,2012,Kings XI Punjab,Royal Challengers Bangalore,Brabourne Stadium,Mumbai,,Field,Royal Challengers Bangalore,9,Wickets,9 wickets,Shane Bond,League,189,20,No,Yes
+314,2012,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,Kolkata,Kolkata Knight Riders,Field,Kolkata Knight Riders,7,Wickets,7 wickets,Sunil Narine,League,167,20,Yes,No
+315,2012,Rajasthan Royals,Chennai Super Kings,Eden Gardens,Kolkata,Rajasthan Royals,Field,Chennai Super Kings,10,Wickets,10 wickets,,League,154,20,No,Yes
+316,2012,Pune Warriors India,Kings XI Punjab,M Chinnaswamy Stadium,Bangalore,Kings XI Punjab,Field,Kings XI Punjab,25,Runs,25 runs,Adam Gilchrist,League,175,20,Yes,No
+317,2012,Kolkata Knight Riders,Delhi Daredevils,Arun Jaitley Stadium,Delhi,Kolkata Knight Riders,Bat,Delhi Daredevils,2,Wickets,2 wickets,Gautam Gambhir,League,153,20,No,No
+318,2012,Kolkata Knight Riders,Mumbai Indians,BRSABV Ekana Cricket Stadium,Lucknow,Kolkata Knight Riders,Bat,Kolkata Knight Riders,9,Wickets,9 wickets,Pat Cummins,League,207,20,Yes,Yes
+319,2012,Deccan Chargers,Chennai Super Kings,MA Chidambaram Stadium,Chennai,Chennai Super Kings,Field,Deccan Chargers,4,Wickets,4 wickets,RP Singh,League,177,20,No,Yes
+320,2012,Mumbai Indians,Chennai Super Kings,,,Chennai Super Kings,Field,Chennai Super Kings,28,Runs,28 runs,Shane Watson,League,141,20,Yes,No
+321,2012,Chennai Super Kings,Pune Warriors India,Holkar Cricket Stadium,Indore,Pune Warriors India,Bat,Chennai Super Kings,3,Wickets,3 wickets,MS Dhoni,Playoff,158,20,No,No
+322,2012,Royal Challengers Bangalore,Kings XI Punjab,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,4,Wickets,4 wickets,Chris Gayle,Playoff,145,20,Yes,No
+323,2012,Chennai Super Kings,Royal Challengers Bangalore,HPCA Stadium,Dharamsala,Royal Challengers Bangalore,Bat,Chennai Super Kings,54,Runs,54 runs,Ambati Rayudu,Playoff,173,20,No,No
+324,2012,Mumbai Indians,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,Bat,Rajasthan Royals,61,Runs,61 runs,Yusuf Pathan,Final,188,20,Yes,Yes
+325,2012,Delhi Daredevils,Royal Challengers Bangalore,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,2,Wickets,2 wickets,Daniel Vettori,Playoff,213,20,Yes,Yes
+326,2013,Chennai Super Kings,Rajasthan Royals,M Chinnaswamy Stadium,Bangalore,Chennai Super Kings,Field,Chennai Super Kings,20,Runs,20 runs,Moeen Ali,League,186,20,Yes,No
+327,2013,Sunrisers Hyderabad,Pune Warriors India,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Sunrisers Hyderabad,Bat,Sunrisers Hyderabad,71,Runs,71 runs,Heinrich Klaasen,League,171,20,Yes,Yes
+328,2013,Chennai Super Kings,Sunrisers Hyderabad,Sawai Mansingh Stadium,Jaipur,Sunrisers Hyderabad,Bat,Sunrisers Hyderabad,89,Runs,89 runs,Travis Head,League,157,20,Yes,Yes
+329,2013,Delhi Daredevils,Pune Warriors India,VCA Stadium,Nagpur,Pune Warriors India,Field,Pune Warriors India,8,Wickets,8 wickets,Steve Smith,League,138,20,Yes,No
+330,2013,Royal Challengers Bangalore,Kings XI Punjab,Shaheed Veer Narayan Singh International Stadium,Raipur,Royal Challengers Bangalore,Field,Kings XI Punjab,2,Wickets,2 wickets,Adam Gilchrist,League,156,20,No,Yes
+331,2013,Kolkata Knight Riders,Chennai Super Kings,VCA Stadium,Nagpur,Chennai Super Kings,Field,,75,Runs,75 runs,Ambati Rayudu,League,175,20,Yes,No
+332,2013,Royal Challengers Bangalore,Kings XI Punjab,Punjab Cricket Association Stadium,Mohali,Kings XI Punjab,Field,Royal Challengers Bangalore,10,Wickets,10 wickets,AB de Villiers,League,150,20,No,Yes
+333,2013,Pune Warriors India,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,Pune Warriors India,Bat,Rajasthan Royals,1,Wickets,1 wickets,Trent Boult,League,172,20,No,No
+334,2013,Rajasthan Royals,Chennai Super Kings,Narendra Modi Stadium,Ahmedabad,Chennai Super Kings,Field,Chennai Super Kings,31,Runs,31 runs,Ambati Rayudu,League,153,20,Yes,No
+335,2013,Chennai Super Kings,Delhi Daredevils,JSCA International Stadium,Ranchi,Delhi Daredevils,Field,Chennai Super Kings,20,Runs,20 runs,MS Dhoni,League,214,20,No,Yes
+336,2013,Delhi Daredevils,Sunrisers Hyderabad,Shaheed Veer Narayan Singh International Stadium,Raipur,Sunrisers Hyderabad,Bat,Delhi Daredevils,2,Wickets,2 wickets,Gautam Gambhir,League,157,20,No,No
+337,2013,Kolkata Knight Riders,Rajasthan Royals,Arun Jaitley Stadium,Delhi,Kolkata Knight Riders,Field,Rajasthan Royals,4,Wickets,4 wickets,Shane Warne,League,150,20,No,Yes
+338,2013,Pune Warriors India,Kings XI Punjab,HPCA Stadium,Dharamsala,Pune Warriors India,Field,Kings XI Punjab,10,Wickets,10 wickets,Chris Gayle,League,165,20,No,Yes
+339,2013,Chennai Super Kings,Delhi Daredevils,BRSABV Ekana Cricket Stadium,Lucknow,Chennai Super Kings,Bat,Delhi Daredevils,2,Wickets,2 wickets,,League,132,20,No,No
+340,2013,Royal Challengers Bangalore,Mumbai Indians,Barabati Stadium,Cuttack,Mumbai Indians,Field,Mumbai Indians,90,Runs,90 runs,Krunal Pandya,League,182,20,Yes,No
+341,2013,Sunrisers Hyderabad,Chennai Super Kings,Wankhede Stadium,Mumbai,Sunrisers Hyderabad,Field,Chennai Super Kings,2,Wickets,2 wickets,Murali Vijay,League,134,20,No,Yes
+342,2013,Royal Challengers Bangalore,Sunrisers Hyderabad,Shaheed Veer Narayan Singh International Stadium,Raipur,Royal Challengers Bangalore,Bat,Sunrisers Hyderabad,4,Wickets,4 wickets,Kane Williamson,League,213,20,No,No
+343,2013,Pune Warriors India,Royal Challengers Bangalore,MA Chidambaram Stadium,Chennai,Royal Challengers Bangalore,Bat,Pune Warriors India,3,Wickets,3 wickets,Angelo Mathews,League,177,20,No,No
+344,2013,Kings XI Punjab,Royal Challengers Bangalore,JSCA International Stadium,Ranchi,Kings XI Punjab,Field,Royal Challengers Bangalore,45,Runs,45 runs,Yuzvendra Chahal,League,160,20,No,Yes
+345,2013,Delhi Daredevils,Chennai Super Kings,Barabati Stadium,Cuttack,,Field,Delhi Daredevils,2,Runs,2 runs,David Warner,League,181,20,Yes,No
+346,2013,Delhi Daredevils,Sunrisers Hyderabad,Barabati Stadium,Cuttack,Delhi Daredevils,Bat,Delhi Daredevils,71,Runs,71 runs,Virender Sehwag,League,188,20,Yes,Yes
+347,2013,Mumbai Indians,Kings XI Punjab,DY Patil Stadium,Navi Mumbai,Mumbai Indians,Field,Kings XI Punjab,3,Wickets,3 wickets,Mohammad Shami,League,184,20,No,Yes
+348,2013,Sunrisers Hyderabad,Mumbai Indians,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Sunrisers Hyderabad,Field,Mumbai Indians,19,Runs,19 runs,Jasprit Bumrah,League,211,20,No,Yes
+349,2013,Pune Warriors India,Kings XI Punjab,Punjab Cricket Association Stadium,Mohali,Kings XI Punjab,Bat,Kings XI Punjab,4,Wickets,4 wickets,Mayank Agarwal,League,167,20,Yes,Yes
+350,2013,Delhi Daredevils,Pune Warriors India,Sawai Mansingh Stadium,Jaipur,Pune Warriors India,Field,Pune Warriors India,6,Wickets,6 wickets,Sourav Ganguly,League,189,20,Yes,No
+351,2013,Pune Warriors India,Rajasthan Royals,Shaheed Veer Narayan Singh International Stadium,Raipur,Rajasthan Royals,Field,Rajasthan Royals,8,Wickets,8 wickets,Sanju Samson,League,138,20,Yes,No
+352,2013,Pune Warriors India,Sunrisers Hyderabad,Holkar Cricket Stadium,Indore,Pune Warriors India,Bat,Pune Warriors India,1,Wickets,1 wickets,Steve Smith,League,156,20,Yes,Yes
+353,2013,Kolkata Knight Riders,Mumbai Indians,Punjab Cricket Association Stadium,Mohali,Mumbai Indians,Field,Mumbai Indians,9,Wickets,9 wickets,Rohit Sharma,League,195,20,Yes,No
+354,2013,Kings XI Punjab,Mumbai Indians,JSCA International Stadium,,Kings XI Punjab,Bat,Mumbai Indians,8,Wickets,8 wickets,Hardik Pandya,League,184,20,No,No
+355,2013,Royal Challengers Bangalore,Kolkata Knight Riders,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,Bat,Kolkata Knight Riders,9,Wickets,9 wickets,Andre Russell,League,199,20,Yes,Yes
+356,2013,Royal Challengers Bangalore,Mumbai Indians,DY Patil Stadium,Navi Mumbai,Mumbai Indians,Field,Mumbai Indians,7,Wickets,7 wickets,Tilak Varma,League,166,20,Yes,No
+357,2013,Chennai Super Kings,Kings XI Punjab,Barabati Stadium,Cuttack,Kings XI Punjab,Field,Chennai Super Kings,16,Runs,16 runs,Shane Watson,League,176,20,No,Yes
+358,2013,Kolkata Knight Riders,Kings XI Punjab,M Chinnaswamy Stadium,Bangalore,Kolkata Knight Riders,Field,,18,Runs,18 runs,Yusuf Pathan,League,197,20,Yes,No
+359,2013,Sunrisers Hyderabad,Kolkata Knight Riders,Sawai Mansingh Stadium,Jaipur,Kolkata Knight Riders,Field,Kolkata Knight Riders,3,Wickets,3 wickets,Sunil Narine,League,135,20,Yes,No
+360,2013,Kings XI Punjab,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,4,Wickets,4 wickets,Wriddhiman Saha,League,147,20,Yes,No
+361,2013,Pune Warriors India,Kings XI Punjab,VCA Stadium,Nagpur,Kings XI Punjab,Bat,Pune Warriors India,2,Runs,2 runs,Sourav Ganguly,League,196,20,No,No
+362,2013,Rajasthan Royals,Kings XI Punjab,Shaheed Veer Narayan Singh International Stadium,Raipur,Rajasthan Royals,Bat,Rajasthan Royals,3,Wickets,3 wickets,Shane Watson,League,202,20,Yes,Yes
+363,2013,Kings XI Punjab,Mumbai Indians,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,Field,Mumbai Indians,7,Wickets,7 wickets,Ishan Kishan,League,140,20,Yes,No
+364,2013,Rajasthan Royals,Pune Warriors India,MA Chidambaram Stadium,Chennai,Rajasthan Royals,Field,Pune Warriors India,67,Runs,67 runs,,League,142,20,No,Yes
+365,2013,Kings XI Punjab,Pune Warriors India,,Raipur,Pune Warriors India,Bat,Kings XI Punjab,90,Runs,90 runs,Glenn Maxwell,League,192,20,No,No
+366,2013,Rajasthan Royals,Sunrisers Hyderabad,Maharashtra Cricket Association Stadium,Pune,Sunrisers Hyderabad,Field,Rajasthan Royals,2,Wickets,2 wickets,Shane Warne,League,212,20,No,Yes
+367,2013,Pune Warriors India,Sunrisers Hyderabad,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Pune Warriors India,Bat,Pune Warriors India,7,Wickets,7 wickets,Robin Uthappa,League,197,20,Yes,Yes
+368,2013,Pune Warriors India,Chennai Super Kings,DY Patil Stadium,Navi Mumbai,Pune Warriors India,Bat,Pune Warriors India,4,Wickets,4 wickets,Robin Uthappa,League,158,20,Yes,Yes
+369,2013,Delhi Daredevils,Chennai Super Kings,VCA Stadium,Nagpur,Chennai Super Kings,Field,Chennai Super Kings,77,Runs,77 runs,Ruturaj Gaikwad,League,137,20,Yes,No
+370,2013,Kolkata Knight Riders,Pune Warriors India,Feroz Shah Kotla,Delhi,Pune Warriors India,Field,Pune Warriors India,10,Wickets,10 wickets,Robin Uthappa,League,135,20,Yes,No
+371,2013,Sunrisers Hyderabad,Mumbai Indians,JSCA International Stadium,Ranchi,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,4,Wickets,4 wickets,Travis Head,League,210,20,Yes,No
+372,2013,Royal Challengers Bangalore,Kings XI Punjab,Brabourne Stadium,Mumbai,Kings XI Punjab,Field,Royal Challengers Bangalore,1,Wickets,1 wickets,Virat Kohli,League,136,20,No,Yes
+373,2013,Chennai Super Kings,Mumbai Indians,JSCA International Stadium,Ranchi,Mumbai Indians,Bat,Chennai Super Kings,1,Wickets,1 wickets,MS Dhoni,League,154,20,No,No
+374,2013,Rajasthan Royals,Delhi Daredevils,M Chinnaswamy Stadium,Bangalore,Rajasthan Royals,Bat,Rajasthan Royals,8,Wickets,8 wickets,Ajinkya Rahane,League,177,20,Yes,Yes
+375,2013,Kolkata Knight Riders,Chennai Super Kings,Sardar Patel Stadium,Ahmedabad,Kolkata Knight Riders,Bat,Chennai Super Kings,5,Wickets,5 wickets,Dwayne Bravo,League,148,20,No,No
+376,2013,Rajasthan Royals,Kolkata Knight Riders,Barabati Stadium,Cuttack,Kolkata Knight Riders,Field,,15,Runs,15 runs,Shane Watson,League,155,20,No,Yes
+377,2013,Rajasthan Royals,Pune Warriors India,Brabourne Stadium,Mumbai,Pune Warriors India,Bat,Pune Warriors India,39,Runs,39 runs,Angelo Mathews,League,211,20,Yes,Yes
+378,2013,Sunrisers Hyderabad,Rajasthan Royals,Holkar Cricket Stadium,Indore,Rajasthan Royals,Field,Sunrisers Hyderabad,69,Runs,69 runs,Shikhar Dhawan,League,218,20,No,Yes
+379,2013,Sunrisers Hyderabad,Royal Challengers Bangalore,BRSABV Ekana Cricket Stadium,Lucknow,Sunrisers Hyderabad,Bat,Royal Challengers Bangalore,62,Runs,62 runs,Rajat Patidar,League,215,20,No,No
+380,2013,Kings XI Punjab,Mumbai Indians,VCA Stadium,Nagpur,Kings XI Punjab,Bat,Mumbai Indians,7,Wickets,7 wickets,Rohit Sharma,League,218,20,No,No
+381,2013,Mumbai Indians,Rajasthan Royals,JSCA International Stadium,Ranchi,Mumbai Indians,Bat,Rajasthan Royals,4,Wickets,4 wickets,Shane Watson,League,219,20,No,No
+382,2013,Mumbai Indians,Sunrisers Hyderabad,JSCA International Stadium,Ranchi,Mumbai Indians,Field,Sunrisers Hyderabad,66,Runs,66 runs,Kane Williamson,League,174,20,No,Yes
+383,2013,Royal Challengers Bangalore,Rajasthan Royals,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Rajasthan Royals,Field,Rajasthan Royals,5,Wickets,5 wickets,Yusuf Pathan,League,201,20,Yes,No
+384,2013,Kolkata Knight Riders,Pune Warriors India,Barabati Stadium,Cuttack,Kolkata Knight Riders,Field,Pune Warriors India,8,Wickets,8 wickets,Michael Clarke,League,219,20,No,Yes
+385,2013,Kings XI Punjab,Mumbai Indians,Barabati Stadium,Cuttack,Kings XI Punjab,Field,Kings XI Punjab,4,Wickets,4 wickets,Mayank Agarwal,League,203,20,Yes,No
+386,2013,Mumbai Indians,Kolkata Knight Riders,DY Patil Stadium,,Kolkata Knight Riders,Bat,Kolkata Knight Riders,22,Runs,22 runs,Pat Cummins,League,185,20,Yes,Yes
+387,2013,Delhi Daredevils,Rajasthan Royals,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,Field,Rajasthan Royals,25,Runs,25 runs,Shane Warne,League,148,20,Yes,No
+388,2013,Pune Warriors India,Rajasthan Royals,Wankhede Stadium,Mumbai,Rajasthan Royals,Field,Rajasthan Royals,26,Runs,26 runs,Riyan Parag,League,170,20,Yes,No
+389,2013,Sunrisers Hyderabad,Pune Warriors India,DY Patil Stadium,Navi Mumbai,Sunrisers Hyderabad,Field,Pune Warriors India,5,Wickets,5 wickets,Robin Uthappa,League,157,20,No,Yes
+390,2013,Kings XI Punjab,Rajasthan Royals,Eden Gardens,Kolkata,,Bat,Kings XI Punjab,65,Runs,65 runs,Mohammad Shami,League,192,20,Yes,Yes
+391,2013,Rajasthan Royals,Chennai Super Kings,Maharashtra Cricket Association Stadium,Pune,Rajasthan Royals,Bat,Rajasthan Royals,57,Runs,57 runs,Ajinkya Rahane,League,177,20,Yes,Yes
+392,2013,Chennai Super Kings,Pune Warriors India,Rajiv Gandhi International Stadium,Hyderabad,Chennai Super Kings,Bat,Pune Warriors India,10,Wickets,10 wickets,Michael Clarke,League,171,20,No,No
+393,2013,Royal Challengers Bangalore,Kings XI Punjab,DY Patil Stadium,Navi Mumbai,Kings XI Punjab,Field,Kings XI Punjab,2,Wickets,2 wickets,Mayank Agarwal,League,193,20,Yes,No
+394,2013,Pune Warriors India,Kings XI Punjab,VCA Stadium,Nagpur,Pune Warriors India,Bat,Pune Warriors India,86,Runs,86 runs,Robin Uthappa,League,212,20,Yes,Yes
+395,2013,Pune Warriors India,Sunrisers Hyderabad,Wankhede Stadium,Mumbai,Pune Warriors India,Bat,Pune Warriors India,1,Wickets,1 wickets,Angelo Mathews,League,205,20,Yes,Yes
+396,2013,Royal Challengers Bangalore,Mumbai Indians,JSCA International Stadium,Ranchi,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,77,Runs,77 runs,Daniel Vettori,League,179,20,Yes,No
+397,2013,Pune Warriors India,Sunrisers Hyderabad,M Chinnaswamy Stadium,Bangalore,Pune Warriors India,Bat,,7,Wickets,7 wickets,Kane Williamson,Playoff,161,20,No,No
+398,2013,Rajasthan Royals,Sunrisers Hyderabad,MA Chidambaram Stadium,Chennai,Sunrisers Hyderabad,Bat,Sunrisers Hyderabad,5,Wickets,5 wickets,David Warner,Playoff,148,20,Yes,Yes
+399,2013,Sunrisers Hyderabad,Kolkata Knight Riders,Punjab Cricket Association Stadium,Mohali,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,65,Runs,65 runs,Bhuvneshwar Kumar,Playoff,182,20,Yes,No
+400,2013,Pune Warriors India,Kings XI Punjab,JSCA International Stadium,Ranchi,Kings XI Punjab,Field,Kings XI Punjab,78,Runs,78 runs,Adam Gilchrist,Final,211,20,Yes,No
+401,2013,Rajasthan Royals,Mumbai Indians,Maharashtra Cricket Association Stadium,Pune,Rajasthan Royals,Field,Mumbai Indians,84,Runs,84 runs,Quinton de Kock,Playoff,180,20,No,Yes
+402,2014,Kolkata Knight Riders,Royal Challengers Bangalore,Brabourne Stadium,Mumbai,Kolkata Knight Riders,Bat,Royal Challengers Bangalore,25,Runs,25 runs,Shane Bond,League,146,20,No,No
+403,2014,Mumbai Indians,Chennai Super Kings,VCA Stadium,Nagpur,Mumbai Indians,Field,Mumbai Indians,3,Runs,3 runs,Hardik Pandya,League,182,20,Yes,No
+404,2014,Sunrisers Hyderabad,Mumbai Indians,Punjab Cricket Association Stadium,Mohali,Mumbai Indians,Field,Mumbai Indians,75,Runs,75 runs,,League,161,20,Yes,No
+405,2014,Kings XI Punjab,Sunrisers Hyderabad,Sawai Mansingh Stadium,Jaipur,Kings XI Punjab,Field,Sunrisers Hyderabad,2,Wickets,2 wickets,Wriddhiman Saha,League,173,20,No,Yes
+406,2014,Rajasthan Royals,Delhi Daredevils,,Ahmedabad,Rajasthan Royals,Field,Delhi Daredevils,48,Runs,48 runs,Morne Morkel,League,144,20,No,Yes
+407,2014,Kings XI Punjab,Kolkata Knight Riders,HPCA Stadium,Dharamsala,Kolkata Knight Riders,Field,Kings XI Punjab,64,Runs,64 runs,Michael Hussey,League,219,20,No,Yes
+408,2014,Rajasthan Royals,Royal Challengers Bangalore,JSCA International Stadium,Ranchi,Rajasthan Royals,Bat,Rajasthan Royals,45,Runs,45 runs,Jos Buttler,League,173,20,Yes,Yes
+409,2014,Kolkata Knight Riders,Kings XI Punjab,Shaheed Veer Narayan Singh International Stadium,Raipur,Kings XI Punjab,Field,Kings XI Punjab,10,Wickets,10 wickets,Yuvraj Singh,League,178,20,Yes,No
+410,2014,Kolkata Knight Riders,Kings XI Punjab,Holkar Cricket Stadium,Indore,Kolkata Knight Riders,Bat,Kolkata Knight Riders,94,Runs,94 runs,Robin Uthappa,League,194,20,Yes,Yes
+411,2014,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Kolkata,Kolkata Knight Riders,Field,Chennai Super Kings,2,Wickets,2 wickets,Suresh Raina,League,204,20,No,Yes
+412,2014,Kolkata Knight Riders,Mumbai Indians,Maharashtra Cricket Association Stadium,Pune,Mumbai Indians,Field,Mumbai Indians,3,Wickets,3 wickets,Krunal Pandya,League,154,20,Yes,No
+413,2014,Sunrisers Hyderabad,Mumbai Indians,JSCA International Stadium,Ranchi,Mumbai Indians,Field,Sunrisers Hyderabad,76,Runs,76 runs,Wriddhiman Saha,League,177,20,No,Yes
+414,2014,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,Kolkata,Royal Challengers Bangalore,Bat,Kolkata Knight Riders,6,Wickets,6 wickets,Venkatesh Iyer,League,173,20,No,No
+415,2014,Kings XI Punjab,Kolkata Knight Riders,VCA Stadium,Nagpur,Kings XI Punjab,Bat,Kings XI Punjab,42,Runs,42 runs,Michael Hussey,League,172,20,Yes,Yes
+416,2014,Kings XI Punjab,Mumbai Indians,Shaheed Veer Narayan Singh International Stadium,Raipur,Kings XI Punjab,Bat,Kings XI Punjab,2,Wickets,2 wickets,Adam Gilchrist,League,212,20,Yes,Yes
+417,2014,Sunrisers Hyderabad,Delhi Daredevils,MA Chidambaram Stadium,Chennai,Delhi Daredevils,Bat,Delhi Daredevils,12,Runs,12 runs,David Warner,League,165,20,Yes,Yes
+418,2014,Chennai Super Kings,Royal Challengers Bangalore,Narendra Modi Stadium,Ahmedabad,Chennai Super Kings,Bat,Chennai Super Kings,24,Runs,24 runs,Murali Vijay,League,140,20,Yes,Yes
+419,2014,Kings XI Punjab,Delhi Daredevils,Shaheed Veer Narayan Singh International Stadium,Raipur,Kings XI Punjab,Field,Delhi Daredevils,4,Wickets,4 wickets,Kevin Pietersen,League,215,20,No,Yes
+420,2014,Rajasthan Royals,Chennai Super Kings,Feroz Shah Kotla,Delhi,Chennai Super Kings,Field,Chennai Super Kings,3,Wickets,3 wickets,Faf du Plessis,League,187,20,Yes,No
+421,2014,Sunrisers Hyderabad,Royal Challengers Bangalore,HPCA Stadium,Dharamsala,Sunrisers Hyderabad,Field,Royal Challengers Bangalore,28,Runs,28 runs,Faf du Plessis,League,208,20,No,Yes
+422,2014,Sunrisers Hyderabad,Royal Challengers Bangalore,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Sunrisers Hyderabad,Field,Royal Challengers Bangalore,11,Runs,11 runs,Daniel Vettori,League,157,20,No,Yes
+423,2014,Delhi Daredevils,Sunrisers Hyderabad,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Delhi Daredevils,Bat,,46,Runs,46 runs,David Warner,League,199,20,Yes,Yes
+424,2014,Kings XI Punjab,Delhi Daredevils,Maharashtra Cricket Association Stadium,Pune,Delhi Daredevils,Bat,Delhi Daredevils,57,Runs,57 runs,Shikhar Dhawan,League,178,20,Yes,Yes
+425,2014,Royal Challengers Bangalore,Kings XI Punjab,JSCA International Stadium,Ranchi,,Bat,Kings XI Punjab,6,Runs,6 runs,Chris Gayle,League,201,20,Yes,Yes
+426,2014,Rajasthan Royals,Kolkata Knight Riders,Sardar Patel Stadium,,Kolkata Knight Riders,Field,Kolkata Knight Riders,6,Wickets,6 wickets,Manoj Tiwary,League,190,20,Yes,No
+427,2014,Mumbai Indians,Kolkata Knight Riders,Arun Jaitley Stadium,Delhi,Mumbai Indians,Field,Mumbai Indians,5,Wickets,5 wickets,Jasprit Bumrah,League,166,20,Yes,No
+428,2014,Chennai Super Kings,Royal Challengers Bangalore,JSCA International Stadium,Ranchi,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,84,Runs,84 runs,Yuzvendra Chahal,League,198,20,Yes,Yes
+429,2014,Kings XI Punjab,Rajasthan Royals,JSCA International Stadium,Ranchi,Kings XI Punjab,Bat,Rajasthan Royals,67,Runs,67 runs,Sanju Samson,League,193,20,No,No
+430,2014,Sunrisers Hyderabad,Chennai Super Kings,VCA Stadium,Nagpur,Sunrisers Hyderabad,Field,Chennai Super Kings,26,Runs,26 runs,Devon Conway,League,173,20,No,Yes
+431,2014,Kings XI Punjab,Sunrisers Hyderabad,Holkar Cricket Stadium,Indore,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,1,Wickets,1 wickets,Rashid Khan,League,190,20,Yes,No
+432,2014,Royal Challengers Bangalore,Sunrisers Hyderabad,Feroz Shah Kotla,Delhi,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,4,Wickets,4 wickets,Kane Williamson,League,146,20,Yes,No
+433,2014,Royal Challengers Bangalore,Delhi Daredevils,Sawai Mansingh Stadium,Jaipur,Royal Challengers Bangalore,Field,Delhi Daredevils,1,Wickets,1 wickets,,League,186,20,No,Yes
+434,2014,Kings XI Punjab,Chennai Super Kings,Feroz Shah Kotla,Delhi,Chennai Super Kings,Field,Chennai Super Kings,48,Runs,48 runs,Dwayne Bravo,League,216,20,Yes,No
+435,2014,Royal Challengers Bangalore,Sunrisers Hyderabad,M Chinnaswamy Stadium,Bangalore,Royal Challengers Bangalore,Bat,Sunrisers Hyderabad,10,Wickets,10 wickets,Travis Head,League,161,20,No,No
+436,2014,Kolkata Knight Riders,Delhi Daredevils,Narendra Modi Stadium,Ahmedabad,Kolkata Knight Riders,Field,Delhi Daredevils,5,Wickets,5 wickets,David Warner,League,164,20,No,Yes
+437,2014,Kolkata Knight Riders,Sunrisers Hyderabad,HPCA Stadium,Dharamsala,Kolkata Knight Riders,Bat,Kolkata Knight Riders,41,Runs,41 runs,Pat Cummins,League,133,20,Yes,Yes
+438,2014,Rajasthan Royals,Chennai Super Kings,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,Field,Rajasthan Royals,8,Wickets,8 wickets,Shane Warne,League,212,20,Yes,No
+439,2014,Royal Challengers Bangalore,Delhi Daredevils,HPCA Stadium,Dharamsala,Delhi Daredevils,Field,Royal Challengers Bangalore,10,Wickets,10 wickets,Chris Gayle,League,178,20,No,Yes
+440,2014,Chennai Super Kings,Mumbai Indians,VCA Stadium,Nagpur,Mumbai Indians,Field,Chennai Super Kings,14,Runs,14 runs,Ambati Rayudu,League,166,20,No,Yes
+441,2014,Mumbai Indians,Kings XI Punjab,Shaheed Veer Narayan Singh International Stadium,Raipur,Mumbai Indians,Bat,Mumbai Indians,93,Runs,93 runs,Sachin Tendulkar,League,162,20,Yes,Yes
+442,2014,Kolkata Knight Riders,Mumbai Indians,MA Chidambaram Stadium,Chennai,Mumbai Indians,Field,Mumbai Indians,10,Wickets,10 wickets,Hardik Pandya,League,202,20,Yes,No
+443,2014,Kings XI Punjab,Rajasthan Royals,Holkar Cricket Stadium,Indore,Kings XI Punjab,Field,Kings XI Punjab,9,Wickets,9 wickets,Michael Hussey,League,192,20,Yes,No
+444,2014,Delhi Daredevils,Chennai Super Kings,MA Chidambaram Stadium,Chennai,Delhi Daredevils,Field,Chennai Super Kings,8,Runs,8 runs,Deepak Chahar,League,193,20,No,Yes
+445,2014,Sunrisers Hyderabad,Kings XI Punjab,Eden Gardens,Kolkata,Kings XI Punjab,Field,Sunrisers Hyderabad,7,Wickets,7 wickets,Rashid Khan,League,200,20,No,Yes
+446,2014,Sunrisers Hyderabad,Kings XI Punjab,JSCA International Stadium,Ranchi,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,2,Wickets,2 wickets,Heinrich Klaasen,League,181,20,Yes,No
+447,2014,Chennai Super Kings,Rajasthan Royals,Arun Jaitley Stadium,Delhi,Rajasthan Royals,Bat,Chennai Super Kings,3,Wickets,3 wickets,Michael Hussey,League,197,20,No,No
+448,2014,Chennai Super Kings,Delhi Daredevils,VCA Stadium,Nagpur,Delhi Daredevils,Bat,Delhi Daredevils,9,Wickets,9 wickets,Kagiso Rabada,League,207,20,Yes,Yes
+449,2014,Chennai Super Kings,Royal Challengers Bangalore,,Kolkata,Royal Challengers Bangalore,Bat,,8,Wickets,8 wickets,Virat Kohli,League,149,20,Yes,Yes
+450,2014,Rajasthan Royals,Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,Rajasthan Royals,Bat,Rajasthan Royals,3,Wickets,3 wickets,Shane Warne,League,167,20,Yes,Yes
+451,2014,Kolkata Knight Riders,Chennai Super Kings,Holkar Cricket Stadium,Indore,Kolkata Knight Riders,Bat,Kolkata Knight Riders,3,Runs,3 runs,Sunil Narine,League,209,20,Yes,Yes
+452,2014,Kings XI Punjab,Sunrisers Hyderabad,JSCA International Stadium,Ranchi,Kings XI Punjab,Bat,Kings XI Punjab,10,Wickets,10 wickets,Glenn Maxwell,League,211,20,Yes,Yes
+453,2014,Chennai Super Kings,Kolkata Knight Riders,Sawai Mansingh Stadium,Jaipur,Chennai Super Kings,Field,Kolkata Knight Riders,2,Wickets,2 wickets,Gautam Gambhir,League,166,20,No,Yes
+454,2014,Chennai Super Kings,Delhi Daredevils,Feroz Shah Kotla,Delhi,Delhi Daredevils,Bat,Delhi Daredevils,9,Wickets,9 wickets,David Warner,League,131,20,Yes,Yes
+455,2014,Rajasthan Royals,Kolkata Knight Riders,JSCA International Stadium,Ranchi,Kolkata Knight Riders,Bat,Kolkata Knight Riders,43,Runs,43 runs,Sunil Narine,League,139,20,Yes,Yes
+456,2014,Rajasthan Royals,Kings XI Punjab,Holkar Cricket Stadium,Indore,Kings XI Punjab,Field,Rajasthan Royals,3,Runs,3 runs,Sanju Samson,League,161,20,No,Yes
+457,2014,Rajasthan Royals,Kings XI Punjab,HPCA Stadium,Dharamsala,Rajasthan Royals,Field,Rajasthan Royals,13,Runs,13 runs,Shane Watson,Playoff,166,20,Yes,No
+458,2014,Chennai Super Kings,Delhi Daredevils,Eden Gardens,Kolkata,Chennai Super Kings,Bat,Delhi Daredevils,1,Wickets,1 wickets,Rishabh Pant,Playoff,139,20,No,No
+459,2014,Royal Challengers Bangalore,Rajasthan Royals,Maharashtra Cricket Association Stadium,,Rajasthan Royals,Field,Royal Challengers Bangalore,58,Runs,58 runs,Virat Kohli,Playoff,137,20,No,Yes
+460,2014,Kings XI Punjab,Chennai Super Kings,Brabourne Stadium,Mumbai,Kings XI Punjab,Field,Kings XI Punjab,1,Wickets,1 wickets,Chris Gayle,Final,137,20,Yes,No
+461,2014,Mumbai Indians,Chennai Super Kings,Shaheed Veer Narayan Singh International Stadium,Raipur,Chennai Super Kings,Field,Mumbai Indians,63,Runs,63 runs,Quinton de Kock,Playoff,159,20,No,Yes
+462,2015,Royal Challengers Bangalore,Kings XI Punjab,Brabourne Stadium,Mumbai,Royal Challengers Bangalore,Bat,Kings XI Punjab,90,Runs,90 runs,Mohammad Shami,League,180,20,No,No
+463,2015,Mumbai Indians,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,Bat,Rajasthan Royals,7,Wickets,7 wickets,Steven Smith,League,173,20,Yes,Yes
+464,2015,Kings XI Punjab,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,,Field,Sunrisers Hyderabad,78,Runs,78 runs,David Warner,League,204,20,No,Yes
+465,2015,Sunrisers Hyderabad,Mumbai Indians,VCA Stadium,Nagpur,Sunrisers Hyderabad,Field,Mumbai Indians,1,Wickets,1 wickets,,League,141,20,No,Yes
+466,2015,Royal Challengers Bangalore,Sunrisers Hyderabad,HPCA Stadium,Dharamsala,Royal Challengers Bangalore,Bat,Sunrisers Hyderabad,9,Wickets,9 wickets,Bhuvneshwar Kumar,League,192,20,No,No
+467,2015,Mumbai Indians,Rajasthan Royals,Holkar Cricket Stadium,Indore,Rajasthan Royals,Bat,Mumbai Indians,43,Runs,43 runs,Ishan Kishan,League,169,20,No,No
+468,2015,Chennai Super Kings,Sunrisers Hyderabad,Brabourne Stadium,Mumbai,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,9,Wickets,9 wickets,Jonny Bairstow,League,178,20,Yes,No
+469,2015,Rajasthan Royals,Chennai Super Kings,Punjab Cricket Association Stadium,Mohali,Chennai Super Kings,Bat,Rajasthan Royals,79,Runs,79 runs,Riyan Parag,League,210,20,No,No
+470,2015,Delhi Daredevils,Kolkata Knight Riders,Narendra Modi Stadium,Ahmedabad,Kolkata Knight Riders,Bat,Kolkata Knight Riders,10,Wickets,10 wickets,Gautam Gambhir,League,165,20,Yes,Yes
+471,2015,Delhi Daredevils,Kings XI Punjab,M Chinnaswamy Stadium,Bangalore,Kings XI Punjab,Bat,Delhi Daredevils,9,Wickets,9 wickets,Shreyas Iyer,League,219,20,No,No
+472,2015,Sunrisers Hyderabad,Mumbai Indians,Eden Gardens,Kolkata,Sunrisers Hyderabad,Bat,Mumbai Indians,56,Runs,56 runs,Ishan Kishan,League,174,20,No,No
+473,2015,Rajasthan Royals,Kings XI Punjab,Punjab Cricket Association Stadium,Mohali,Rajasthan Royals,Bat,Rajasthan Royals,7,Wickets,7 wickets,Trent Boult,League,213,20,Yes,Yes
+474,2015,Rajasthan Royals,Chennai Super Kings,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,Bat,Rajasthan Royals,7,Wickets,7 wickets,Sanju Samson,League,193,20,Yes,Yes
+475,2015,Mumbai Indians,Sunrisers Hyderabad,Punjab Cricket Association Stadium,Mohali,Sunrisers Hyderabad,Field,Mumbai Indians,45,Runs,45 runs,Jasprit Bumrah,League,145,20,No,Yes
+476,2015,Sunrisers Hyderabad,Delhi Daredevils,Wankhede Stadium,Mumbai,Sunrisers Hyderabad,Bat,,81,Runs,81 runs,Jonny Bairstow,League,159,20,Yes,Yes
+477,2015,Kings XI Punjab,Sunrisers Hyderabad,M Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,Bat,Kings XI Punjab,100,Runs,100 runs,Mayank Agarwal,League,144,20,No,No
+478,2015,Delhi Daredevils,Sunrisers Hyderabad,Sawai Mansingh Stadium,Jaipur,Delhi Daredevils,Bat,Delhi Daredevils,28,Runs,28 runs,Shikhar Dhawan,League,149,20,Yes,Yes
+479,2015,Mumbai Indians,Chennai Super Kings,Narendra Modi Stadium,Ahmedabad,Chennai Super Kings,Field,Chennai Super Kings,82,Runs,82 runs,Dwayne Bravo,League,161,20,Yes,No
+480,2015,Sunrisers Hyderabad,Royal Challengers Bangalore,VCA Stadium,Nagpur,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,14,Runs,14 runs,Shane Bond,League,186,20,Yes,Yes
+481,2015,Rajasthan Royals,Kings XI Punjab,Barabati Stadium,Cuttack,Rajasthan Royals,Field,Kings XI Punjab,54,Runs,54 runs,Mayank Agarwal,League,209,20,No,Yes
+482,2015,Delhi Daredevils,Kings XI Punjab,Rajiv Gandhi International Stadium,Hyderabad,Kings XI Punjab,Field,Kings XI Punjab,51,Runs,51 runs,Chris Gayle,League,189,20,Yes,No
+483,2015,Rajasthan Royals,Royal Challengers Bangalore,Shaheed Veer Narayan Singh International Stadium,Raipur,Royal Challengers Bangalore,Bat,Rajasthan Royals,5,Wickets,5 wickets,Riyan Parag,League,209,20,No,No
+484,2015,Sunrisers Hyderabad,Kolkata Knight Riders,BRSABV Ekana Cricket Stadium,Lucknow,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,1,Wickets,1 wickets,Wriddhiman Saha,League,152,20,Yes,No
+485,2015,Rajasthan Royals,Mumbai Indians,BRSABV Ekana Cricket Stadium,Lucknow,Mumbai Indians,Field,Rajasthan Royals,3,Wickets,3 wickets,Steven Smith,League,206,20,No,Yes
+486,2015,Delhi Daredevils,Sunrisers Hyderabad,Maharashtra Cricket Association Stadium,Pune,Delhi Daredevils,Field,Delhi Daredevils,9,Wickets,9 wickets,Kagiso Rabada,League,167,20,Yes,No
+487,2015,Delhi Daredevils,Sunrisers Hyderabad,Barabati Stadium,Cuttack,Delhi Daredevils,Bat,Delhi Daredevils,10,Wickets,10 wickets,Rishabh Pant,League,161,20,Yes,Yes
+488,2015,Sunrisers Hyderabad,Kings XI Punjab,DY Patil Stadium,Navi Mumbai,Kings XI Punjab,Bat,Sunrisers Hyderabad,45,Runs,45 runs,Kane Williamson,League,163,20,No,No
+489,2015,Royal Challengers Bangalore,Delhi Daredevils,,Indore,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,9,Wickets,9 wickets,Mohammed Siraj,League,143,20,Yes,Yes
+490,2015,Royal Challengers Bangalore,Kolkata Knight Riders,Sardar Patel Stadium,Ahmedabad,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,6,Wickets,6 wickets,,League,154,20,Yes,No
+491,2015,Sunrisers Hyderabad,Rajasthan Royals,BRSABV Ekana Cricket Stadium,Lucknow,Rajasthan Royals,Field,Rajasthan Royals,32,Runs,32 runs,Yuzvendra Chahal,League,189,20,Yes,No
+492,2015,Delhi Daredevils,Chennai Super Kings,DY Patil Stadium,Navi Mumbai,Delhi Daredevils,Bat,Chennai Super Kings,10,Runs,10 runs,Ravindra Jadeja,League,191,20,No,No
+493,2015,Kolkata Knight Riders,Kings XI Punjab,Feroz Shah Kotla,Delhi,Kolkata Knight Riders,Field,Kolkata Knight Riders,8,Wickets,8 wickets,Venkatesh Iyer,League,214,20,Yes,No
+494,2015,Royal Challengers Bangalore,Chennai Super Kings,Brabourne Stadium,,Royal Challengers Bangalore,Bat,Chennai Super Kings,5,Wickets,5 wickets,Moeen Ali,League,203,20,No,No
+495,2015,Rajasthan Royals,Sunrisers Hyderabad,Barabati Stadium,Cuttack,Rajasthan Royals,Field,Rajasthan Royals,5,Runs,5 runs,Yusuf Pathan,League,156,20,Yes,No
+496,2015,Delhi Daredevils,Kings XI Punjab,M Chinnaswamy Stadium,Bangalore,Kings XI Punjab,Bat,Delhi Daredevils,7,Wickets,7 wickets,Kagiso Rabada,League,161,20,No,No
+497,2015,Royal Challengers Bangalore,Kolkata Knight Riders,VCA Stadium,Nagpur,Kolkata Knight Riders,Field,Kolkata Knight Riders,7,Wickets,7 wickets,Sourav Ganguly,League,180,20,Yes,No
+498,2015,Royal Challengers Bangalore,Kings XI Punjab,JSCA International Stadium,Ranchi,Kings XI Punjab,Field,Kings XI Punjab,9,Wickets,9 wickets,Mayank Agarwal,League,143,20,Yes,No
+499,2015,Rajasthan Royals,Kings XI Punjab,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Kings XI Punjab,Bat,Kings XI Punjab,7,Wickets,7 wickets,Adam Gilchrist,League,161,20,Yes,Yes
+500,2015,Rajasthan Royals,Royal Challengers Bangalore,Punjab Cricket Association Stadium,Mohali,,Field,Rajasthan Royals,68,Runs,68 runs,Riyan Parag,League,174,20,Yes,No
+501,2015,Chennai Super Kings,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,Chennai Super Kings,Bat,Sunrisers Hyderabad,1,Wickets,1 wickets,Bhuvneshwar Kumar,League,144,20,No,No
+502,2015,Delhi Daredevils,Mumbai Indians,VCA Stadium,Nagpur,Mumbai Indians,Bat,,7,Wickets,7 wickets,Ishan Kishan,League,177,20,Yes,Yes
+503,2015,Kolkata Knight Riders,Kings XI Punjab,Sawai Mansingh Stadium,Jaipur,Kings XI Punjab,Bat,Kolkata Knight Riders,2,Wickets,2 wickets,Sunil Narine,League,189,20,No,No
+504,2015,Sunrisers Hyderabad,Mumbai Indians,Punjab Cricket Association Stadium,Mohali,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,10,Wickets,10 wickets,Wriddhiman Saha,League,146,20,Yes,No
+505,2015,Kolkata Knight Riders,Mumbai Indians,Narendra Modi Stadium,Ahmedabad,Mumbai Indians,Bat,Mumbai Indians,10,Wickets,10 wickets,Krunal Pandya,League,152,20,Yes,Yes
+506,2015,Royal Challengers Bangalore,Kings XI Punjab,HPCA Stadium,Dharamsala,Kings XI Punjab,Field,Kings XI Punjab,2,Runs,2 runs,Michael Hussey,League,146,20,Yes,No
+507,2015,Chennai Super Kings,Delhi Daredevils,Arun Jaitley Stadium,Delhi,Chennai Super Kings,Field,Chennai Super Kings,6,Wickets,6 wickets,Dwayne Bravo,League,161,20,Yes,No
+508,2015,Rajasthan Royals,Royal Challengers Bangalore,BRSABV Ekana Cricket Stadium,Lucknow,Rajasthan Royals,Field,Royal Challengers Bangalore,9,Wickets,9 wickets,Glenn Maxwell,League,198,20,No,Yes
+509,2015,Chennai Super Kings,Rajasthan Royals,Eden Gardens,Kolkata,Rajasthan Royals,Field,Chennai Super Kings,39,Runs,39 runs,Murali Vijay,League,158,20,No,Yes
+510,2015,Delhi Daredevils,Royal Challengers Bangalore,Rajiv Gandhi International Stadium,Hyderabad,Delhi Daredevils,Field,Delhi Daredevils,9,Wickets,9 wickets,Axar Patel,League,157,20,Yes,No
+511,2015,Chennai Super Kings,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,Chennai Super Kings,Field,Chennai Super Kings,4,Wickets,4 wickets,Dwayne Bravo,League,141,20,Yes,No
+512,2015,Sunrisers Hyderabad,Mumbai Indians,Holkar Cricket Stadium,Indore,Mumbai Indians,Field,Mumbai Indians,1,Wickets,1 wickets,Quinton de Kock,League,196,20,Yes,No
+513,2015,Rajasthan Royals,Kolkata Knight Riders,Shaheed Veer Narayan Singh International Stadium,Raipur,Kolkata Knight Riders,Field,Rajasthan Royals,10,Wickets,10 wickets,Yusuf Pathan,League,142,20,No,Yes
+514,2015,Royal Challengers Bangalore,Kolkata Knight Riders,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,60,Runs,60 runs,Mohammed Siraj,League,186,20,Yes,Yes
+515,2015,Kings XI Punjab,Kolkata Knight Riders,DY Patil Stadium,Navi Mumbai,Kings XI Punjab,Bat,Kings XI Punjab,3,Wickets,3 wickets,Mohammad Shami,League,182,20,Yes,Yes
+516,2015,Mumbai Indians,Chennai Super Kings,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,Bat,Chennai Super Kings,7,Wickets,7 wickets,Ravindra Jadeja,League,187,20,No,No
+517,2015,Mumbai Indians,Delhi Daredevils,Holkar Cricket Stadium,Indore,Delhi Daredevils,Bat,Mumbai Indians,43,Runs,43 runs,Krunal Pandya,Playoff,180,20,No,No
+518,2015,Rajasthan Royals,Chennai Super Kings,BRSABV Ekana Cricket Stadium,Lucknow,Chennai Super Kings,Bat,Rajasthan Royals,6,Wickets,6 wickets,Yusuf Pathan,Playoff,135,20,No,No
+519,2015,Mumbai Indians,Kings XI Punjab,Barabati Stadium,Cuttack,Mumbai Indians,Bat,Mumbai Indians,3,Wickets,3 wickets,Lasith Malinga,Playoff,149,20,Yes,Yes
+520,2015,Royal Challengers Bangalore,Kings XI Punjab,MA Chidambaram Stadium,Chennai,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,9,Wickets,9 wickets,Rajat Patidar,Final,191,20,Yes,Yes
+521,2015,Sunrisers Hyderabad,Mumbai Indians,DY Patil Stadium,Navi Mumbai,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,10,Wickets,10 wickets,Bhuvneshwar Kumar,Playoff,131,20,Yes,No
+522,2016,Sunrisers Hyderabad,Mumbai Indians,VCA Stadium,Nagpur,Mumbai Indians,Bat,Mumbai Indians,22,Runs,22 runs,Hardik Pandya,League,199,20,Yes,Yes
+523,2016,Mumbai Indians,Rajasthan Royals,MA Chidambaram Stadium,Chennai,Mumbai Indians,Bat,Mumbai Indians,21,Runs,21 runs,Jasprit Bumrah,League,194,20,Yes,Yes
+524,2016,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,Kolkata,Royal Challengers Bangalore,Bat,Kolkata Knight Riders,92,Runs,92 runs,Andre Russell,League,171,20,No,No
+525,2016,Royal Challengers Bangalore,Delhi Daredevils,Eden Gardens,Kolkata,Delhi Daredevils,Field,Royal Challengers Bangalore,66,Runs,66 runs,Mohammed Siraj,League,210,20,No,Yes
+526,2016,Delhi Daredevils,Kings XI Punjab,VCA Stadium,Nagpur,Delhi Daredevils,Bat,Delhi Daredevils,58,Runs,58 runs,,League,131,20,Yes,Yes
+527,2016,Gujarat Lions,Rising Pune Supergiant,Eden Gardens,Kolkata,Rising Pune Supergiant,Field,Gujarat Lions,41,Runs,41 runs,James Faulkner,League,186,20,No,Yes
+528,2016,Rajasthan Royals,Royal Challengers Bangalore,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,Bat,Rajasthan Royals,89,Runs,89 runs,Yusuf Pathan,League,213,20,No,No
+529,2016,Rajasthan Royals,Sunrisers Hyderabad,Maharashtra Cricket Association Stadium,,Rajasthan Royals,Field,Rajasthan Royals,26,Runs,26 runs,Sanju Samson,League,212,20,Yes,No
+530,2016,Rising Pune Supergiant,Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,Kolkata Knight Riders,Bat,Kolkata Knight Riders,90,Runs,90 runs,Nitish Rana,League,131,20,Yes,Yes
+531,2016,Rising Pune Supergiant,Delhi Daredevils,JSCA International Stadium,Ranchi,Rising Pune Supergiant,Field,Rising Pune Supergiant,2,Wickets,2 wickets,Ajinkya Rahane,League,175,20,Yes,No
+532,2016,Kolkata Knight Riders,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,Royal Challengers Bangalore,Field,Kolkata Knight Riders,1,Wickets,1 wickets,Sunil Narine,League,134,20,No,Yes
+533,2016,Delhi Daredevils,Mumbai Indians,Wankhede Stadium,Mumbai,Mumbai Indians,Field,Mumbai Indians,9,Wickets,9 wickets,Suryakumar Yadav,League,184,20,Yes,No
+534,2016,Royal Challengers Bangalore,Gujarat Lions,Maharashtra Cricket Association Stadium,Pune,Gujarat Lions,Bat,,9,Wickets,9 wickets,Daniel Vettori,League,193,20,No,No
+535,2016,Rajasthan Royals,Gujarat Lions,Sardar Patel Stadium,Ahmedabad,Gujarat Lions,Bat,Gujarat Lions,9,Wickets,9 wickets,Suresh Raina,League,176,20,Yes,Yes
+536,2016,Delhi Daredevils,Mumbai Indians,Eden Gardens,Kolkata,Mumbai Indians,Field,Mumbai Indians,8,Runs,8 runs,Hardik Pandya,League,218,20,Yes,No
+537,2016,Gujarat Lions,Rising Pune Supergiant,Eden Gardens,Kolkata,Rising Pune Supergiant,Bat,Gujarat Lions,64,Runs,64 runs,Suresh Raina,League,137,20,No,No
+538,2016,Sunrisers Hyderabad,Rajasthan Royals,MA Chidambaram Stadium,Chennai,Rajasthan Royals,Field,Rajasthan Royals,1,Wickets,1 wickets,Riyan Parag,League,171,20,Yes,No
+539,2016,Kolkata Knight Riders,Royal Challengers Bangalore,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,Bat,Royal Challengers Bangalore,49,Runs,49 runs,Virat Kohli,League,190,20,No,No
+540,2016,Kings XI Punjab,Gujarat Lions,Maharashtra Cricket Association Stadium,Pune,Gujarat Lions,Field,Kings XI Punjab,12,Runs,12 runs,Yuvraj Singh,League,185,20,No,Yes
+541,2016,Rising Pune Supergiant,Gujarat Lions,HPCA Stadium,Dharamsala,Rising Pune Supergiant,Field,Rising Pune Supergiant,91,Runs,91 runs,Ben Stokes,League,185,20,Yes,No
+542,2016,Sunrisers Hyderabad,Delhi Daredevils,VCA Stadium,Nagpur,Sunrisers Hyderabad,Field,Delhi Daredevils,88,Runs,88 runs,Kagiso Rabada,League,145,20,No,Yes
+543,2016,Gujarat Lions,Rising Pune Supergiant,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Gujarat Lions,Field,Gujarat Lions,7,Wickets,7 wickets,James Faulkner,League,157,20,Yes,No
+544,2016,Gujarat Lions,Royal Challengers Bangalore,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,,Bat,Royal Challengers Bangalore,46,Runs,46 runs,Dinesh Karthik,League,218,20,No,No
+545,2016,Sunrisers Hyderabad,Gujarat Lions,Barabati Stadium,Cuttack,Gujarat Lions,Bat,Sunrisers Hyderabad,2,Wickets,2 wickets,Shikhar Dhawan,League,146,20,No,No
+546,2016,Gujarat Lions,Rising Pune Supergiant,HPCA Stadium,Dharamsala,Gujarat Lions,Bat,Rising Pune Supergiant,4,Wickets,4 wickets,Ben Stokes,League,159,20,No,No
+547,2016,Mumbai Indians,Delhi Daredevils,Rajiv Gandhi International Stadium,Hyderabad,Delhi Daredevils,Field,Delhi Daredevils,58,Runs,58 runs,Gautam Gambhir,League,132,20,Yes,No
+548,2016,Rajasthan Royals,Kolkata Knight Riders,JSCA International Stadium,Ranchi,Kolkata Knight Riders,Field,Kolkata Knight Riders,3,Wickets,3 wickets,Sunil Narine,League,195,20,Yes,No
+549,2016,Sunrisers Hyderabad,Mumbai Indians,Barabati Stadium,Cuttack,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,10,Wickets,10 wickets,David Warner,League,145,20,Yes,No
+550,2016,Gujarat Lions,Royal Challengers Bangalore,MA Chidambaram Stadium,Chennai,Royal Challengers Bangalore,Field,Gujarat Lions,2,Wickets,2 wickets,Aaron Finch,League,167,20,No,Yes
+551,2016,Kolkata Knight Riders,Delhi Daredevils,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Delhi Daredevils,Bat,Kolkata Knight Riders,9,Runs,9 runs,Rinku Singh,League,203,20,No,No
+552,2016,Rising Pune Supergiant,Sunrisers Hyderabad,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Sunrisers Hyderabad,Bat,Rising Pune Supergiant,1,Runs,1 runs,Steven Smith,League,147,20,No,No
+553,2016,Delhi Daredevils,Kings XI Punjab,MA Chidambaram Stadium,Chennai,Kings XI Punjab,Field,Delhi Daredevils,14,Runs,14 runs,Morne Morkel,League,153,20,No,Yes
+554,2016,Gujarat Lions,Rajasthan Royals,Punjab Cricket Association Stadium,Mohali,Rajasthan Royals,Field,Gujarat Lions,47,Runs,47 runs,Suresh Raina,League,135,20,No,Yes
+555,2016,Rising Pune Supergiant,Mumbai Indians,Maharashtra Cricket Association Stadium,Pune,Rising Pune Supergiant,Field,Rising Pune Supergiant,86,Runs,86 runs,Steven Smith,League,217,20,Yes,No
+556,2016,Kolkata Knight Riders,Mumbai Indians,BRSABV Ekana Cricket Stadium,Lucknow,Kolkata Knight Riders,Bat,Kolkata Knight Riders,90,Runs,90 runs,Gautam Gambhir,League,163,20,Yes,Yes
+557,2016,Rising Pune Supergiant,Royal Challengers Bangalore,JSCA International Stadium,Ranchi,Rising Pune Supergiant,Bat,,5,Runs,5 runs,MS Dhoni,League,147,20,Yes,Yes
+558,2016,Sunrisers Hyderabad,Rising Pune Supergiant,Sawai Mansingh Stadium,Jaipur,Sunrisers Hyderabad,Bat,Sunrisers Hyderabad,8,Wickets,8 wickets,Kane Williamson,League,209,20,Yes,Yes
+559,2016,Sunrisers Hyderabad,Delhi Daredevils,JSCA International Stadium,Ranchi,Delhi Daredevils,Field,Sunrisers Hyderabad,9,Wickets,9 wickets,,League,144,20,No,Yes
+560,2016,Kolkata Knight Riders,Rising Pune Supergiant,Holkar Cricket Stadium,Indore,Kolkata Knight Riders,Bat,Rising Pune Supergiant,9,Wickets,9 wickets,Imran Tahir,League,207,20,No,No
+561,2016,Gujarat Lions,Delhi Daredevils,DY Patil Stadium,Navi Mumbai,Gujarat Lions,Bat,Delhi Daredevils,4,Runs,4 runs,Rishabh Pant,League,131,20,No,No
+562,2016,Rising Pune Supergiant,Kolkata Knight Riders,Shaheed Veer Narayan Singh International Stadium,Raipur,Kolkata Knight Riders,Bat,Kolkata Knight Riders,1,Wickets,1 wickets,Andre Russell,League,219,20,Yes,Yes
+563,2016,Kings XI Punjab,Delhi Daredevils,,Kolkata,Delhi Daredevils,Bat,Kings XI Punjab,10,Wickets,10 wickets,Chris Gayle,League,163,20,No,No
+564,2016,Rajasthan Royals,Delhi Daredevils,Rajiv Gandhi International Stadium,,Delhi Daredevils,Bat,Rajasthan Royals,3,Wickets,3 wickets,Ajinkya Rahane,League,152,20,No,No
+565,2016,Mumbai Indians,Rising Pune Supergiant,Maharashtra Cricket Association Stadium,Pune,Mumbai Indians,Bat,Rising Pune Supergiant,9,Wickets,9 wickets,Ben Stokes,League,145,20,No,No
+566,2016,Sunrisers Hyderabad,Kings XI Punjab,Barabati Stadium,Cuttack,Sunrisers Hyderabad,Field,Kings XI Punjab,8,Runs,8 runs,Glenn Maxwell,League,138,20,No,Yes
+567,2016,Delhi Daredevils,Rising Pune Supergiant,Holkar Cricket Stadium,Indore,Rising Pune Supergiant,Field,Rising Pune Supergiant,4,Wickets,4 wickets,Steven Smith,League,144,20,Yes,No
+568,2016,Rising Pune Supergiant,Rajasthan Royals,BRSABV Ekana Cricket Stadium,Lucknow,Rising Pune Supergiant,Bat,Rising Pune Supergiant,10,Wickets,10 wickets,Steven Smith,League,210,20,Yes,Yes
+569,2016,Rising Pune Supergiant,Mumbai Indians,HPCA Stadium,Dharamsala,Mumbai Indians,Field,Rising Pune Supergiant,1,Wickets,1 wickets,MS Dhoni,League,209,20,No,Yes
+570,2016,Royal Challengers Bangalore,Sunrisers Hyderabad,BRSABV Ekana Cricket Stadium,Lucknow,Royal Challengers Bangalore,Field,Sunrisers Hyderabad,98,Runs,98 runs,Heinrich Klaasen,League,219,20,No,Yes
+571,2016,Kings XI Punjab,Rising Pune Supergiant,DY Patil Stadium,Navi Mumbai,Kings XI Punjab,Bat,Rising Pune Supergiant,31,Runs,31 runs,MS Dhoni,League,131,20,No,No
+572,2016,Rajasthan Royals,Rising Pune Supergiant,M Chinnaswamy Stadium,Bangalore,Rajasthan Royals,Field,Rising Pune Supergiant,97,Runs,97 runs,MS Dhoni,League,211,20,No,Yes
+573,2016,Gujarat Lions,Sunrisers Hyderabad,DY Patil Stadium,Navi Mumbai,Gujarat Lions,Bat,Gujarat Lions,6,Wickets,6 wickets,Aaron Finch,League,143,20,Yes,Yes
+574,2016,Kings XI Punjab,Gujarat Lions,Punjab Cricket Association Stadium,Mohali,Gujarat Lions,Bat,Gujarat Lions,1,Wickets,1 wickets,Ravindra Jadeja,League,205,20,Yes,Yes
+575,2016,Kolkata Knight Riders,Delhi Daredevils,DY Patil Stadium,Navi Mumbai,Kolkata Knight Riders,Bat,Delhi Daredevils,9,Wickets,9 wickets,Kevin Pietersen,League,211,20,No,No
+576,2016,Sunrisers Hyderabad,Mumbai Indians,Holkar Cricket Stadium,Indore,Mumbai Indians,Field,Mumbai Indians,1,Wickets,1 wickets,Tilak Varma,League,197,20,Yes,No
+577,2016,Rising Pune Supergiant,Delhi Daredevils,Holkar Cricket Stadium,Indore,Delhi Daredevils,Bat,Rising Pune Supergiant,73,Runs,73 runs,Ben Stokes,Playoff,156,20,No,No
+578,2016,Delhi Daredevils,Rising Pune Supergiant,BRSABV Ekana Cricket Stadium,Lucknow,,Field,Rising Pune Supergiant,7,Wickets,7 wickets,Imran Tahir,Playoff,208,20,No,Yes
+579,2016,Gujarat Lions,Mumbai Indians,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Mumbai Indians,Field,Gujarat Lions,58,Runs,58 runs,Ravindra Jadeja,Playoff,191,20,No,Yes
+580,2016,Mumbai Indians,Rising Pune Supergiant,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,Field,Mumbai Indians,3,Wickets,3 wickets,Quinton de Kock,Final,162,20,Yes,No
+581,2016,Rajasthan Royals,Delhi Daredevils,M Chinnaswamy Stadium,Bangalore,Delhi Daredevils,Field,Delhi Daredevils,6,Wickets,6 wickets,Virender Sehwag,Playoff,183,20,Yes,No
+582,2017,Rajasthan Royals,Rising Pune Supergiant,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,Field,Rajasthan Royals,21,Runs,21 runs,Yusuf Pathan,League,202,20,Yes,No
+583,2017,Kings XI Punjab,Rajasthan Royals,JSCA International Stadium,Ranchi,Kings XI Punjab,Bat,Rajasthan Royals,78,Runs,78 runs,Ajinkya Rahane,League,214,20,No,No
+584,2017,Kolkata Knight Riders,Delhi Daredevils,Sardar Patel Stadium,Ahmedabad,Delhi Daredevils,Field,Kolkata Knight Riders,8,Wickets,8 wickets,BB McCullum,League,138,20,No,Yes
+585,2017,Rising Pune Supergiant,Sunrisers Hyderabad,Shaheed Veer Narayan Singh International Stadium,Raipur,Rising Pune Supergiant,Field,Rising Pune Supergiant,52,Runs,52 runs,MS Dhoni,League,173,20,Yes,No
+586,2017,Rajasthan Royals,Rising Pune Supergiant,Shaheed Veer Narayan Singh International Stadium,Raipur,Rising Pune Supergiant,Bat,Rising Pune Supergiant,73,Runs,73 runs,Ben Stokes,League,165,20,Yes,Yes
+587,2017,Royal Challengers Bangalore,Rising Pune Supergiant,Sardar Patel Stadium,Ahmedabad,Royal Challengers Bangalore,Bat,Rising Pune Supergiant,4,Wickets,4 wickets,Steven Smith,League,154,20,No,No
+588,2017,Rajasthan Royals,Delhi Daredevils,Eden Gardens,Kolkata,Delhi Daredevils,Bat,Rajasthan Royals,10,Wickets,10 wickets,Yusuf Pathan,League,192,20,No,No
+589,2017,Delhi Daredevils,Rajasthan Royals,HPCA Stadium,Dharamsala,Rajasthan Royals,Bat,Rajasthan Royals,3,Runs,3 runs,Yuzvendra Chahal,League,192,20,Yes,Yes
+590,2017,Rising Pune Supergiant,Rajasthan Royals,JSCA International Stadium,Ranchi,Rajasthan Royals,Bat,,4,Wickets,4 wickets,Sanju Samson,League,189,20,Yes,Yes
+591,2017,Mumbai Indians,Kolkata Knight Riders,HPCA Stadium,Dharamsala,Kolkata Knight Riders,Bat,Kolkata Knight Riders,10,Wickets,10 wickets,Sunil Narine,League,154,20,Yes,Yes
+592,2017,Delhi Daredevils,Kings XI Punjab,,Raipur,Kings XI Punjab,Field,Kings XI Punjab,24,Runs,24 runs,KL Rahul,League,192,20,Yes,No
+593,2017,Kolkata Knight Riders,Rising Pune Supergiant,Punjab Cricket Association Stadium,Mohali,Rising Pune Supergiant,Field,Kolkata Knight Riders,4,Wickets,4 wickets,Venkatesh Iyer,League,197,20,No,Yes
+594,2017,Rajasthan Royals,Rising Pune Supergiant,Eden Gardens,Kolkata,Rising Pune Supergiant,Bat,Rising Pune Supergiant,5,Wickets,5 wickets,,League,171,20,Yes,Yes
+595,2017,Kolkata Knight Riders,Mumbai Indians,M Chinnaswamy Stadium,Bangalore,Mumbai Indians,Field,Mumbai Indians,9,Wickets,9 wickets,Suryakumar Yadav,League,189,20,Yes,No
+596,2017,Kings XI Punjab,Rising Pune Supergiant,Rajiv Gandhi International Stadium,Hyderabad,Rising Pune Supergiant,Bat,Kings XI Punjab,21,Runs,21 runs,Adam Gilchrist,League,209,20,No,No
+597,2017,Sunrisers Hyderabad,Kolkata Knight Riders,BRSABV Ekana Cricket Stadium,Lucknow,Sunrisers Hyderabad,Bat,Sunrisers Hyderabad,9,Wickets,9 wickets,Kane Williamson,League,135,20,Yes,Yes
+598,2017,Rajasthan Royals,Sunrisers Hyderabad,Arun Jaitley Stadium,Delhi,Rajasthan Royals,Field,Rajasthan Royals,6,Wickets,6 wickets,Trent Boult,League,159,20,Yes,No
+599,2017,Mumbai Indians,Royal Challengers Bangalore,VCA Stadium,Nagpur,Mumbai Indians,Bat,Mumbai Indians,2,Wickets,2 wickets,Kieron Pollard,League,169,20,Yes,Yes
+600,2017,Rajasthan Royals,Sunrisers Hyderabad,BRSABV Ekana Cricket Stadium,Lucknow,Sunrisers Hyderabad,Bat,Rajasthan Royals,8,Runs,8 runs,Sanju Samson,League,144,20,No,No
+601,2017,Rajasthan Royals,Kings XI Punjab,Holkar Cricket Stadium,Indore,Rajasthan Royals,Field,Rajasthan Royals,25,Runs,25 runs,Trent Boult,League,192,20,Yes,No
+602,2017,Mumbai Indians,Kings XI Punjab,Maharashtra Cricket Association Stadium,Pune,Kings XI Punjab,Bat,Mumbai Indians,46,Runs,46 runs,Krunal Pandya,League,211,20,No,No
+603,2017,Rising Pune Supergiant,Mumbai Indians,Holkar Cricket Stadium,Indore,Mumbai Indians,Field,Rising Pune Supergiant,3,Wickets,3 wickets,MS Dhoni,League,194,20,No,Yes
+604,2017,Rising Pune Supergiant,Delhi Daredevils,Sawai Mansingh Stadium,Jaipur,Rising Pune Supergiant,Field,Rising Pune Supergiant,10,Wickets,10 wickets,Ajinkya Rahane,League,192,20,Yes,No
+605,2017,Rising Pune Supergiant,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,88,Runs,88 runs,Shane Bond,League,178,20,Yes,No
+606,2017,Kolkata Knight Riders,Kings XI Punjab,BRSABV Ekana Cricket Stadium,Lucknow,Kolkata Knight Riders,Bat,Kolkata Knight Riders,51,Runs,51 runs,Manoj Tiwary,League,181,20,Yes,Yes
+607,2017,Kings XI Punjab,Rajasthan Royals,Narendra Modi Stadium,Ahmedabad,Rajasthan Royals,Bat,Rajasthan Royals,10,Wickets,10 wickets,Trent Boult,League,215,20,Yes,Yes
+608,2017,Kolkata Knight Riders,Rising Pune Supergiant,Rajiv Gandhi International Stadium,Hyderabad,Rising Pune Supergiant,Field,Rising Pune Supergiant,4,Wickets,4 wickets,MS Dhoni,League,132,20,Yes,No
+609,2017,Sunrisers Hyderabad,Delhi Daredevils,Punjab Cricket Association Stadium,Mohali,Sunrisers Hyderabad,Bat,Sunrisers Hyderabad,59,Runs,59 runs,Wriddhiman Saha,League,164,20,Yes,Yes
+610,2017,Delhi Daredevils,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,92,Runs,92 runs,Yuzvendra Chahal,League,141,20,Yes,Yes
+611,2017,Kings XI Punjab,Mumbai Indians,Sawai Mansingh Stadium,Jaipur,Mumbai Indians,Bat,Mumbai Indians,5,Wickets,5 wickets,Sachin Tendulkar,League,209,20,Yes,Yes
+612,2017,Delhi Daredevils,Rajasthan Royals,Wankhede Stadium,Mumbai,Rajasthan Royals,Bat,Rajasthan Royals,65,Runs,65 runs,Jos Buttler,League,156,20,Yes,Yes
+613,2017,Royal Challengers Bangalore,Kings XI Punjab,Barabati Stadium,Cuttack,Kings XI Punjab,Bat,Kings XI Punjab,85,Runs,85 runs,KL Rahul,League,195,20,Yes,Yes
+614,2017,Kolkata Knight Riders,Rising Pune Supergiant,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Kolkata Knight Riders,Bat,Kolkata Knight Riders,55,Runs,55 runs,Sourav Ganguly,League,185,20,Yes,Yes
+615,2017,Kolkata Knight Riders,Sunrisers Hyderabad,VCA Stadium,Nagpur,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,7,Wickets,7 wickets,Heinrich Klaasen,League,192,20,Yes,No
+616,2017,Rising Pune Supergiant,Royal Challengers Bangalore,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,Bat,Rising Pune Supergiant,79,Runs,79 runs,MS Dhoni,League,216,20,No,No
+617,2017,Royal Challengers Bangalore,Kolkata Knight Riders,Sawai Mansingh Stadium,Jaipur,Royal Challengers Bangalore,Field,Kolkata Knight Riders,8,Wickets,8 wickets,Nitish Rana,League,178,20,No,Yes
+618,2017,Kolkata Knight Riders,Kings XI Punjab,Barabati Stadium,Cuttack,Kolkata Knight Riders,Bat,Kings XI Punjab,10,Wickets,10 wickets,Mohammad Shami,League,215,20,No,No
+619,2017,Rising Pune Supergiant,Delhi Daredevils,HPCA Stadium,,Delhi Daredevils,Bat,Rising Pune Supergiant,12,Runs,12 runs,Ajinkya Rahane,League,136,20,No,No
+620,2017,Rajasthan Royals,Kings XI Punjab,M Chinnaswamy Stadium,Bangalore,Rajasthan Royals,Bat,Kings XI Punjab,15,Runs,15 runs,Michael Hussey,League,199,20,No,No
+621,2017,Sunrisers Hyderabad,Mumbai Indians,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,Bat,,4,Wickets,4 wickets,Bhuvneshwar Kumar,League,151,20,No,No
+622,2017,Delhi Daredevils,Rajasthan Royals,Wankhede Stadium,Mumbai,Rajasthan Royals,Field,Delhi Daredevils,10,Wickets,10 wickets,Virender Sehwag,League,187,20,No,Yes
+623,2017,Kings XI Punjab,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Pune,Kings XI Punjab,Bat,Kings XI Punjab,13,Runs,13 runs,Adam Gilchrist,League,200,20,Yes,Yes
+624,2017,Kolkata Knight Riders,Kings XI Punjab,Shaheed Veer Narayan Singh International Stadium,Raipur,Kings XI Punjab,Bat,Kings XI Punjab,4,Wickets,4 wickets,Chris Gayle,League,216,20,Yes,Yes
+625,2017,Royal Challengers Bangalore,Kolkata Knight Riders,HPCA Stadium,Dharamsala,,Field,Royal Challengers Bangalore,78,Runs,78 runs,Yuzvendra Chahal,League,190,20,Yes,No
+626,2017,Delhi Daredevils,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,Field,Rajasthan Royals,6,Wickets,6 wickets,Riyan Parag,League,182,20,Yes,No
+627,2017,Kings XI Punjab,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Pune,Kings XI Punjab,Field,Kolkata Knight Riders,3,Wickets,3 wickets,Manoj Tiwary,League,205,20,No,Yes
+628,2017,Royal Challengers Bangalore,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,60,Runs,60 runs,Virat Kohli,League,176,20,Yes,No
+629,2017,Mumbai Indians,Delhi Daredevils,BRSABV Ekana Cricket Stadium,Lucknow,Delhi Daredevils,Bat,Mumbai Indians,39,Runs,39 runs,Kieron Pollard,League,158,20,No,No
+630,2017,Rajasthan Royals,Royal Challengers Bangalore,JSCA International Stadium,Ranchi,Rajasthan Royals,Bat,Royal Challengers Bangalore,7,Wickets,7 wickets,Mohammed Siraj,League,199,20,No,No
+631,2017,Sunrisers Hyderabad,Kings XI Punjab,Sawai Mansingh Stadium,Jaipur,Kings XI Punjab,Field,Sunrisers Hyderabad,3,Wickets,3 wickets,Wriddhiman Saha,League,185,20,No,Yes
+632,2017,Mumbai Indians,Delhi Daredevils,HPCA Stadium,Dharamsala,Mumbai Indians,Field,Mumbai Indians,7,Wickets,7 wickets,Kieron Pollard,League,171,20,Yes,No
+633,2017,Mumbai Indians,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,Bat,Mumbai Indians,5,Wickets,5 wickets,Jasprit Bumrah,League,157,20,No,No
+634,2017,Sunrisers Hyderabad,Delhi Daredevils,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Sunrisers Hyderabad,Bat,Delhi Daredevils,1,Wickets,1 wickets,,League,186,20,No,No
+635,2017,Rajasthan Royals,Delhi Daredevils,BRSABV Ekana Cricket Stadium,Lucknow,Rajasthan Royals,Field,Rajasthan Royals,1,Wickets,1 wickets,Yuzvendra Chahal,League,216,20,Yes,No
+636,2017,Delhi Daredevils,Mumbai Indians,VCA Stadium,Nagpur,Delhi Daredevils,Field,Mumbai Indians,2,Wickets,2 wickets,Tilak Varma,Playoff,154,20,No,Yes
+637,2017,Kings XI Punjab,Sunrisers Hyderabad,Barabati Stadium,Cuttack,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,9,Wickets,9 wickets,Kane Williamson,Playoff,183,20,Yes,No
+638,2017,Sunrisers Hyderabad,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Pune,Kolkata Knight Riders,Field,Kolkata Knight Riders,8,Wickets,8 wickets,Andre Russell,Playoff,205,20,Yes,No
+639,2017,Delhi Daredevils,Kolkata Knight Riders,MA Chidambaram Stadium,Chennai,Delhi Daredevils,Field,Kolkata Knight Riders,4,Wickets,4 wickets,BB McCullum,Final,186,20,No,Yes
+640,2017,Rajasthan Royals,Kings XI Punjab,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Kings XI Punjab,Field,Rajasthan Royals,41,Runs,41 runs,Shane Watson,Playoff,202,20,No,Yes
+641,2018,Royal Challengers Bangalore,Delhi Daredevils,HPCA Stadium,Dharamsala,Delhi Daredevils,Field,Delhi Daredevils,2,Wickets,2 wickets,Morne Morkel,League,166,20,Yes,No
+642,2018,Mumbai Indians,Kings XI Punjab,VCA Stadium,Nagpur,Mumbai Indians,Bat,Kings XI Punjab,6,Wickets,6 wickets,Adam Gilchrist,League,169,20,No,No
+643,2018,Sunrisers Hyderabad,Chennai Super Kings,Holkar Cricket Stadium,Indore,Sunrisers Hyderabad,Field,Chennai Super Kings,53,Runs,53 runs,Michael Hussey,League,220,20,No,Yes
+644,2018,Royal Challengers Bangalore,Rajasthan Royals,Shaheed Veer Narayan Singh International Stadium,Raipur,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,64,Runs,64 runs,Shane Bond,League,185,20,Yes,No
+645,2018,Sunrisers Hyderabad,Royal Challengers Bangalore,Sawai Mansingh Stadium,Jaipur,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,52,Runs,52 runs,Rajat Patidar,League,153,20,Yes,Yes
+646,2018,Delhi Daredevils,Chennai Super Kings,,Ahmedabad,Chennai Super Kings,Bat,Chennai Super Kings,54,Runs,54 runs,MS Dhoni,League,165,20,Yes,Yes
+647,2018,Delhi Daredevils,Mumbai Indians,Punjab Cricket Association Stadium,Mohali,Delhi Daredevils,Bat,Mumbai Indians,27,Runs,27 runs,Sachin Tendulkar,League,209,20,No,No
+648,2018,Mumbai Indians,Royal Challengers Bangalore,Feroz Shah Kotla,Delhi,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,50,Runs,50 runs,AB de Villiers,League,204,20,Yes,Yes
+649,2018,Royal Challengers Bangalore,Kolkata Knight Riders,DY Patil Stadium,Navi Mumbai,Royal Challengers Bangalore,Field,Kolkata Knight Riders,1,Wickets,1 wickets,Pat Cummins,League,203,20,No,Yes
+650,2018,Kings XI Punjab,Delhi Daredevils,DY Patil Stadium,Navi Mumbai,Kings XI Punjab,Field,,94,Runs,94 runs,Michael Hussey,League,170,20,Yes,No
+651,2018,Mumbai Indians,Sunrisers Hyderabad,Punjab Cricket Association Stadium,Mohali,Sunrisers Hyderabad,Bat,Mumbai Indians,10,Wickets,10 wickets,Ishan Kishan,League,204,20,No,No
+652,2018,Delhi Daredevils,Mumbai Indians,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Delhi Daredevils,Field,Delhi Daredevils,40,Runs,40 runs,David Warner,League,219,20,Yes,No
+653,2018,Kings XI Punjab,Delhi Daredevils,JSCA International Stadium,Ranchi,Kings XI Punjab,Field,Delhi Daredevils,10,Runs,10 runs,Axar Patel,League,220,20,No,Yes
+654,2018,Sunrisers Hyderabad,Rajasthan Royals,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Sunrisers Hyderabad,Field,Rajasthan Royals,8,Wickets,8 wickets,Shane Warne,League,209,20,No,Yes
+655,2018,Delhi Daredevils,Kings XI Punjab,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Kings XI Punjab,Field,Delhi Daredevils,8,Wickets,8 wickets,Shreyas Iyer,League,152,20,No,Yes
+656,2018,Sunrisers Hyderabad,Delhi Daredevils,Barabati Stadium,,Delhi Daredevils,Field,Sunrisers Hyderabad,10,Wickets,10 wickets,Jonny Bairstow,League,147,20,No,Yes
+657,2018,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,Delhi,Delhi Daredevils,Field,Delhi Daredevils,9,Wickets,9 wickets,Kevin Pietersen,League,156,20,Yes,No
+658,2018,Chennai Super Kings,Kings XI Punjab,VCA Stadium,Nagpur,Kings XI Punjab,Bat,Chennai Super Kings,28,Runs,28 runs,Devon Conway,League,204,20,No,No
+659,2018,Mumbai Indians,Royal Challengers Bangalore,BRSABV Ekana Cricket Stadium,Lucknow,Mumbai Indians,Bat,Mumbai Indians,30,Runs,30 runs,,League,198,20,Yes,Yes
+660,2018,Chennai Super Kings,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,Chennai Super Kings,Bat,Royal Challengers Bangalore,91,Runs,91 runs,Virat Kohli,League,219,20,No,No
+661,2018,Mumbai Indians,Kings XI Punjab,DY Patil Stadium,Navi Mumbai,Kings XI Punjab,Bat,Kings XI Punjab,38,Runs,38 runs,David Miller,League,212,20,Yes,Yes
+662,2018,Kolkata Knight Riders,Kings XI Punjab,Sawai Mansingh Stadium,Jaipur,Kolkata Knight Riders,Bat,Kolkata Knight Riders,6,Wickets,6 wickets,Robin Uthappa,League,207,20,Yes,Yes
+663,2018,Chennai Super Kings,Mumbai Indians,Rajiv Gandhi International Stadium,Hyderabad,Chennai Super Kings,Bat,Chennai Super Kings,10,Wickets,10 wickets,Ruturaj Gaikwad,League,206,20,Yes,Yes
+664,2018,Kolkata Knight Riders,Chennai Super Kings,Shaheed Veer Narayan Singh International Stadium,Raipur,Chennai Super Kings,Field,Kolkata Knight Riders,4,Runs,4 runs,Andre Russell,League,136,20,No,Yes
+665,2018,Delhi Daredevils,Sunrisers Hyderabad,HPCA Stadium,Dharamsala,Delhi Daredevils,Field,Delhi Daredevils,10,Wickets,10 wickets,Rishabh Pant,League,153,20,Yes,No
+666,2018,Delhi Daredevils,Sunrisers Hyderabad,Eden Gardens,Kolkata,Sunrisers Hyderabad,Bat,Delhi Daredevils,56,Runs,56 runs,Rishabh Pant,League,175,20,No,No
+667,2018,Royal Challengers Bangalore,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,Sunrisers Hyderabad,Field,Royal Challengers Bangalore,7,Runs,7 runs,Faf du Plessis,League,175,20,No,Yes
+668,2018,Royal Challengers Bangalore,Kings XI Punjab,Rajiv Gandhi International Stadium,Hyderabad,Kings XI Punjab,Bat,Kings XI Punjab,8,Wickets,8 wickets,Chris Gayle,League,168,20,Yes,Yes
+669,2018,Kings XI Punjab,Rajasthan Royals,HPCA Stadium,Dharamsala,,Bat,Kings XI Punjab,45,Runs,45 runs,KL Rahul,League,217,20,Yes,Yes
+670,2018,Delhi Daredevils,Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,Kolkata Knight Riders,Bat,Kolkata Knight Riders,89,Runs,89 runs,Nitish Rana,League,200,20,Yes,Yes
+671,2018,Kings XI Punjab,Chennai Super Kings,Sawai Mansingh Stadium,Jaipur,Kings XI Punjab,Bat,Kings XI Punjab,28,Runs,28 runs,Adam Gilchrist,League,185,20,Yes,Yes
+672,2018,Royal Challengers Bangalore,Mumbai Indians,Shaheed Veer Narayan Singh International Stadium,Raipur,Royal Challengers Bangalore,Field,Mumbai Indians,54,Runs,54 runs,Quinton de Kock,League,167,20,No,Yes
+673,2018,Mumbai Indians,Kings XI Punjab,Holkar Cricket Stadium,Indore,Kings XI Punjab,Bat,Kings XI Punjab,62,Runs,62 runs,Adam Gilchrist,League,197,20,Yes,Yes
+674,2018,Kings XI Punjab,Chennai Super Kings,Rajiv Gandhi International Stadium,Hyderabad,Chennai Super Kings,Bat,Kings XI Punjab,3,Wickets,3 wickets,Mayank Agarwal,League,184,20,No,No
+675,2018,Kolkata Knight Riders,Delhi Daredevils,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,Field,,1,Wickets,1 wickets,Nitish Rana,League,162,20,Yes,No
+676,2018,Royal Challengers Bangalore,Chennai Super Kings,Brabourne Stadium,Mumbai,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,34,Runs,34 runs,Virat Kohli,League,220,20,Yes,Yes
+677,2018,Sunrisers Hyderabad,Kings XI Punjab,Sawai Mansingh Stadium,Jaipur,Kings XI Punjab,Bat,Kings XI Punjab,19,Runs,19 runs,Adam Gilchrist,League,150,20,Yes,Yes
+678,2018,Mumbai Indians,Kolkata Knight Riders,Holkar Cricket Stadium,Indore,Kolkata Knight Riders,Bat,Kolkata Knight Riders,3,Wickets,3 wickets,Venkatesh Iyer,League,132,20,Yes,Yes
+679,2018,Kings XI Punjab,Sunrisers Hyderabad,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Sunrisers Hyderabad,Bat,Kings XI Punjab,1,Wickets,1 wickets,KL Rahul,League,196,20,No,No
+680,2018,Mumbai Indians,Delhi Daredevils,Sawai Mansingh Stadium,Jaipur,Mumbai Indians,Bat,Mumbai Indians,2,Wickets,2 wickets,Krunal Pandya,League,147,20,Yes,Yes
+681,2018,Sunrisers Hyderabad,Royal Challengers Bangalore,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Royal Challengers Bangalore,Bat,Sunrisers Hyderabad,4,Wickets,4 wickets,Travis Head,League,164,20,No,No
+682,2018,Sunrisers Hyderabad,Delhi Daredevils,Barabati Stadium,Cuttack,Delhi Daredevils,Field,Sunrisers Hyderabad,4,Wickets,4 wickets,Kane Williamson,League,176,20,No,Yes
+683,2018,Rajasthan Royals,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,Sunrisers Hyderabad,Field,Rajasthan Royals,22,Runs,22 runs,Shane Watson,League,200,20,No,Yes
+684,2018,Delhi Daredevils,Chennai Super Kings,Shaheed Veer Narayan Singh International Stadium,Raipur,Delhi Daredevils,Field,Chennai Super Kings,2,Wickets,2 wickets,Ambati Rayudu,League,220,20,No,Yes
+685,2018,Kings XI Punjab,Delhi Daredevils,,Jaipur,Delhi Daredevils,Field,Kings XI Punjab,96,Runs,96 runs,Chris Gayle,League,207,20,No,Yes
+686,2018,Kings XI Punjab,Rajasthan Royals,Rajiv Gandhi International Stadium,Hyderabad,Kings XI Punjab,Field,Rajasthan Royals,8,Wickets,8 wickets,Yusuf Pathan,League,190,20,No,Yes
+687,2018,Rajasthan Royals,Chennai Super Kings,Maharashtra Cricket Association Stadium,Pune,Rajasthan Royals,Field,Rajasthan Royals,6,Wickets,6 wickets,Yuzvendra Chahal,League,131,20,Yes,No
+688,2018,Rajasthan Royals,Sunrisers Hyderabad,Holkar Cricket Stadium,Indore,Rajasthan Royals,Field,Rajasthan Royals,7,Wickets,7 wickets,Yuzvendra Chahal,League,191,20,Yes,No
+689,2018,Kolkata Knight Riders,Chennai Super Kings,Rajiv Gandhi International Stadium,Hyderabad,Chennai Super Kings,Bat,Kolkata Knight Riders,6,Wickets,6 wickets,Sourav Ganguly,League,151,20,No,No
+690,2018,Kings XI Punjab,Royal Challengers Bangalore,Narendra Modi Stadium,Ahmedabad,Kings XI Punjab,Bat,Kings XI Punjab,1,Wickets,1 wickets,David Miller,League,220,20,Yes,Yes
+691,2018,Delhi Daredevils,Kings XI Punjab,M Chinnaswamy Stadium,Bangalore,Delhi Daredevils,Bat,Delhi Daredevils,84,Runs,84 runs,,League,159,20,Yes,Yes
+692,2018,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium,Jaipur,Kolkata Knight Riders,Field,Kolkata Knight Riders,90,Runs,90 runs,Robin Uthappa,League,156,20,Yes,No
+693,2018,Kolkata Knight Riders,Delhi Daredevils,Rajiv Gandhi International Stadium,Hyderabad,Delhi Daredevils,Bat,Kolkata Knight Riders,5,Wickets,5 wickets,Sunil Narine,League,145,20,No,No
+694,2018,Mumbai Indians,Kings XI Punjab,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,Field,Mumbai Indians,29,Runs,29 runs,Tilak Varma,League,219,20,Yes,No
+695,2018,Sunrisers Hyderabad,Rajasthan Royals,Shaheed Veer Narayan Singh International Stadium,Raipur,Rajasthan Royals,Field,Rajasthan Royals,2,Wickets,2 wickets,Ajinkya Rahane,League,154,20,Yes,No
+696,2018,Kings XI Punjab,Delhi Daredevils,Holkar Cricket Stadium,Indore,Kings XI Punjab,Field,Delhi Daredevils,54,Runs,54 runs,Kevin Pietersen,Playoff,154,20,No,Yes
+697,2018,Mumbai Indians,Royal Challengers Bangalore,MA Chidambaram Stadium,,Mumbai Indians,Bat,Royal Challengers Bangalore,85,Runs,85 runs,Faf du Plessis,Playoff,173,20,No,No
+698,2018,Rajasthan Royals,Kings XI Punjab,Shaheed Veer Narayan Singh International Stadium,Raipur,Kings XI Punjab,Field,Rajasthan Royals,24,Runs,24 runs,Riyan Parag,Playoff,188,20,No,Yes
+699,2018,Delhi Daredevils,Mumbai Indians,HPCA Stadium,Dharamsala,Delhi Daredevils,Field,Mumbai Indians,54,Runs,54 runs,Rohit Sharma,Final,219,20,No,Yes
+700,2018,Chennai Super Kings,Sunrisers Hyderabad,Feroz Shah Kotla,Delhi,Chennai Super Kings,Field,Sunrisers Hyderabad,49,Runs,49 runs,Wriddhiman Saha,Playoff,219,20,No,Yes
+701,2019,Sunrisers Hyderabad,Chennai Super Kings,Holkar Cricket Stadium,Indore,Chennai Super Kings,Field,Chennai Super Kings,8,Wickets,8 wickets,Deepak Chahar,League,201,20,Yes,No
+702,2019,Rajasthan Royals,Delhi Capitals,VCA Stadium,Nagpur,Rajasthan Royals,Bat,Delhi Capitals,69,Runs,69 runs,Axar Patel,League,217,20,No,No
+703,2019,Chennai Super Kings,Kolkata Knight Riders,Feroz Shah Kotla,Delhi,Chennai Super Kings,Bat,Kolkata Knight Riders,26,Runs,26 runs,BB McCullum,League,200,20,No,No
+704,2019,Mumbai Indians,Delhi Capitals,Sawai Mansingh Stadium,Jaipur,Mumbai Indians,Field,,29,Runs,29 runs,Shikhar Dhawan,League,211,20,No,Yes
+705,2019,Sunrisers Hyderabad,Rajasthan Royals,Maharashtra Cricket Association Stadium,Pune,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,3,Wickets,3 wickets,David Warner,League,186,20,Yes,No
+706,2019,Sunrisers Hyderabad,Kolkata Knight Riders,VCA Stadium,Nagpur,Sunrisers Hyderabad,Bat,Sunrisers Hyderabad,6,Wickets,6 wickets,Jonny Bairstow,League,149,20,Yes,Yes
+707,2019,Kings XI Punjab,Sunrisers Hyderabad,MA Chidambaram Stadium,Chennai,Sunrisers Hyderabad,Field,Kings XI Punjab,59,Runs,59 runs,Michael Hussey,League,136,20,No,Yes
+708,2019,Sunrisers Hyderabad,Kings XI Punjab,Barabati Stadium,Cuttack,Kings XI Punjab,Field,Sunrisers Hyderabad,8,Wickets,8 wickets,Bhuvneshwar Kumar,League,180,20,No,Yes
+709,2019,Rajasthan Royals,Kolkata Knight Riders,Punjab Cricket Association Stadium,Mohali,Rajasthan Royals,Bat,Kolkata Knight Riders,64,Runs,64 runs,Shubman Gill,League,178,20,No,No
+710,2019,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Kolkata,Chennai Super Kings,Field,Kolkata Knight Riders,9,Wickets,9 wickets,Nitish Rana,League,168,20,No,Yes
+711,2019,Mumbai Indians,Sunrisers Hyderabad,Eden Gardens,Kolkata,Mumbai Indians,Field,Mumbai Indians,94,Runs,94 runs,Ishan Kishan,League,140,20,Yes,No
+712,2019,Mumbai Indians,Chennai Super Kings,JSCA International Stadium,Ranchi,Chennai Super Kings,Bat,Chennai Super Kings,3,Wickets,3 wickets,,League,179,20,Yes,Yes
+713,2019,Rajasthan Royals,Chennai Super Kings,Barabati Stadium,Cuttack,Chennai Super Kings,Field,Chennai Super Kings,49,Runs,49 runs,Ruturaj Gaikwad,League,147,20,Yes,No
+714,2019,Royal Challengers Bangalore,Delhi Capitals,JSCA International Stadium,Ranchi,Royal Challengers Bangalore,Bat,Delhi Capitals,6,Wickets,6 wickets,Shikhar Dhawan,League,205,20,No,No
+715,2019,Delhi Capitals,Royal Challengers Bangalore,DY Patil Stadium,Navi Mumbai,Royal Challengers Bangalore,Bat,Delhi Capitals,5,Wickets,5 wickets,Prithvi Shaw,League,178,20,No,No
+716,2019,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Kolkata,Chennai Super Kings,Field,Kolkata Knight Riders,25,Runs,25 runs,Gautam Gambhir,League,189,20,No,Yes
+717,2019,Kings XI Punjab,Chennai Super Kings,MA Chidambaram Stadium,Chennai,,Bat,Kings XI Punjab,4,Wickets,4 wickets,Yuvraj Singh,League,150,20,No,No
+718,2019,Rajasthan Royals,Kolkata Knight Riders,Barabati Stadium,Cuttack,Rajasthan Royals,Field,Rajasthan Royals,3,Wickets,3 wickets,Yusuf Pathan,League,172,20,Yes,No
+719,2019,Kolkata Knight Riders,Royal Challengers Bangalore,MA Chidambaram Stadium,Chennai,Kolkata Knight Riders,Bat,Kolkata Knight Riders,2,Wickets,2 wickets,Pat Cummins,League,185,20,Yes,Yes
+720,2019,Kolkata Knight Riders,Delhi Capitals,DY Patil Stadium,Navi Mumbai,Delhi Capitals,Field,Kolkata Knight Riders,34,Runs,34 runs,Sunil Narine,League,203,20,No,Yes
+721,2019,Chennai Super Kings,Royal Challengers Bangalore,Maharashtra Cricket Association Stadium,Pune,Royal Challengers Bangalore,Bat,Chennai Super Kings,10,Wickets,10 wickets,Ruturaj Gaikwad,League,177,20,No,No
+722,2019,Sunrisers Hyderabad,Kings XI Punjab,Shaheed Veer Narayan Singh International Stadium,Raipur,Sunrisers Hyderabad,Field,Kings XI Punjab,52,Runs,52 runs,Adam Gilchrist,League,176,20,No,Yes
+723,2019,Mumbai Indians,Kings XI Punjab,Sawai Mansingh Stadium,Jaipur,Mumbai Indians,Field,Mumbai Indians,73,Runs,73 runs,Lasith Malinga,League,196,20,Yes,No
+724,2019,Royal Challengers Bangalore,Rajasthan Royals,MA Chidambaram Stadium,Chennai,Rajasthan Royals,Bat,Rajasthan Royals,3,Wickets,3 wickets,Sanju Samson,League,219,20,Yes,Yes
+725,2019,Delhi Capitals,Sunrisers Hyderabad,,Hyderabad,Delhi Capitals,Bat,Sunrisers Hyderabad,54,Runs,54 runs,Jonny Bairstow,League,145,20,No,No
+726,2019,Rajasthan Royals,Mumbai Indians,Barabati Stadium,Cuttack,Mumbai Indians,Field,Mumbai Indians,3,Wickets,3 wickets,Tilak Varma,League,183,20,Yes,No
+727,2019,Kings XI Punjab,Chennai Super Kings,M Chinnaswamy Stadium,Bangalore,Kings XI Punjab,Field,Chennai Super Kings,97,Runs,97 runs,Suresh Raina,League,162,20,No,Yes
+728,2019,Royal Challengers Bangalore,Rajasthan Royals,Maharashtra Cricket Association Stadium,Pune,Royal Challengers Bangalore,Bat,Rajasthan Royals,74,Runs,74 runs,Shane Warne,League,184,20,No,No
+729,2019,Rajasthan Royals,Kolkata Knight Riders,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,Bat,Rajasthan Royals,1,Wickets,1 wickets,Riyan Parag,League,136,20,No,No
+730,2019,Royal Challengers Bangalore,Delhi Capitals,Holkar Cricket Stadium,,Delhi Capitals,Field,Royal Challengers Bangalore,70,Runs,70 runs,Dinesh Karthik,League,207,20,No,Yes
+731,2019,Rajasthan Royals,Royal Challengers Bangalore,HPCA Stadium,Dharamsala,Rajasthan Royals,Field,Rajasthan Royals,73,Runs,73 runs,Ajinkya Rahane,League,163,20,Yes,No
+732,2019,Kings XI Punjab,Mumbai Indians,Sardar Patel Stadium,Ahmedabad,Mumbai Indians,Field,,38,Runs,38 runs,Suryakumar Yadav,League,132,20,Yes,No
+733,2019,Kolkata Knight Riders,Chennai Super Kings,Maharashtra Cricket Association Stadium,Pune,Chennai Super Kings,Field,Kolkata Knight Riders,32,Runs,32 runs,Robin Uthappa,League,158,20,No,Yes
+734,2019,Sunrisers Hyderabad,Kolkata Knight Riders,BRSABV Ekana Cricket Stadium,Lucknow,Sunrisers Hyderabad,Bat,Kolkata Knight Riders,32,Runs,32 runs,Shubman Gill,League,197,20,No,No
+735,2019,Sunrisers Hyderabad,Kolkata Knight Riders,Rajiv Gandhi International Stadium,Hyderabad,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,3,Wickets,3 wickets,Wriddhiman Saha,League,152,20,Yes,No
+736,2019,Rajasthan Royals,Mumbai Indians,Maharashtra Cricket Association Stadium,Pune,Mumbai Indians,Field,Mumbai Indians,8,Wickets,8 wickets,Lasith Malinga,League,136,20,Yes,No
+737,2019,Royal Challengers Bangalore,Kings XI Punjab,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,Field,Kings XI Punjab,64,Runs,64 runs,Mohammad Shami,League,151,20,No,Yes
+738,2019,Mumbai Indians,Rajasthan Royals,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,Bat,Mumbai Indians,81,Runs,81 runs,Quinton de Kock,League,139,20,No,No
+739,2019,Delhi Capitals,Mumbai Indians,M Chinnaswamy Stadium,Bangalore,Mumbai Indians,Bat,Mumbai Indians,8,Wickets,8 wickets,Rohit Sharma,League,166,20,Yes,Yes
+740,2019,Kings XI Punjab,Rajasthan Royals,Brabourne Stadium,Mumbai,Kings XI Punjab,Field,Kings XI Punjab,7,Wickets,7 wickets,,League,166,20,Yes,No
+741,2019,Royal Challengers Bangalore,Chennai Super Kings,Wankhede Stadium,Mumbai,Royal Challengers Bangalore,Bat,Chennai Super Kings,45,Runs,45 runs,Devon Conway,League,137,20,No,No
+742,2019,Chennai Super Kings,Delhi Capitals,Shaheed Veer Narayan Singh International Stadium,Raipur,Chennai Super Kings,Field,Delhi Capitals,25,Runs,25 runs,Kagiso Rabada,League,166,20,No,Yes
+743,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Holkar Cricket Stadium,Indore,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,9,Runs,9 runs,AB de Villiers,League,159,20,Yes,No
+744,2019,Rajasthan Royals,Delhi Capitals,DY Patil Stadium,Navi Mumbai,Delhi Capitals,Field,Rajasthan Royals,92,Runs,92 runs,Steven Smith,League,170,20,No,Yes
+745,2019,Chennai Super Kings,Sunrisers Hyderabad,MA Chidambaram Stadium,Chennai,Sunrisers Hyderabad,Bat,Sunrisers Hyderabad,51,Runs,51 runs,Travis Head,League,183,20,Yes,Yes
+746,2019,Kolkata Knight Riders,Kings XI Punjab,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Kolkata Knight Riders,Field,Kings XI Punjab,72,Runs,72 runs,David Miller,League,181,20,No,Yes
+747,2019,Kings XI Punjab,Sunrisers Hyderabad,Wankhede Stadium,Mumbai,Sunrisers Hyderabad,Bat,Kings XI Punjab,2,Wickets,2 wickets,Adam Gilchrist,League,192,20,No,No
+748,2019,Rajasthan Royals,Mumbai Indians,Eden Gardens,Kolkata,Mumbai Indians,Bat,Mumbai Indians,10,Wickets,10 wickets,Jasprit Bumrah,League,194,20,Yes,Yes
+749,2019,Delhi Capitals,Kings XI Punjab,Sawai Mansingh Stadium,Jaipur,Delhi Capitals,Bat,Kings XI Punjab,10,Wickets,10 wickets,Mohammad Shami,League,130,20,No,No
+750,2019,Royal Challengers Bangalore,Mumbai Indians,Eden Gardens,Kolkata,Mumbai Indians,Bat,Mumbai Indians,6,Wickets,6 wickets,Tilak Varma,League,220,20,Yes,Yes
+751,2019,Royal Challengers Bangalore,Chennai Super Kings,VCA Stadium,Nagpur,Chennai Super Kings,Bat,Royal Challengers Bangalore,45,Runs,45 runs,AB de Villiers,League,170,20,No,No
+752,2019,Royal Challengers Bangalore,Rajasthan Royals,DY Patil Stadium,Navi Mumbai,Rajasthan Royals,Field,Rajasthan Royals,61,Runs,61 runs,Ajinkya Rahane,League,201,20,Yes,No
+753,2019,Mumbai Indians,Delhi Capitals,Narendra Modi Stadium,Ahmedabad,Delhi Capitals,Field,Delhi Capitals,5,Wickets,5 wickets,Rishabh Pant,League,141,20,Yes,No
+754,2019,Royal Challengers Bangalore,Delhi Capitals,Shaheed Veer Narayan Singh International Stadium,Raipur,Delhi Capitals,Field,Delhi Capitals,5,Wickets,5 wickets,Rishabh Pant,League,170,20,Yes,No
+755,2019,Chennai Super Kings,Delhi Capitals,HPCA Stadium,Dharamsala,Chennai Super Kings,Bat,Delhi Capitals,7,Wickets,7 wickets,Shreyas Iyer,League,146,20,No,No
+756,2019,Chennai Super Kings,Mumbai Indians,Brabourne Stadium,Mumbai,Chennai Super Kings,Bat,Chennai Super Kings,9,Wickets,9 wickets,Moeen Ali,Playoff,202,20,Yes,Yes
+757,2019,Rajasthan Royals,Delhi Capitals,Brabourne Stadium,Mumbai,Rajasthan Royals,Bat,Rajasthan Royals,10,Wickets,10 wickets,Yusuf Pathan,Playoff,139,20,Yes,Yes
+758,2019,Royal Challengers Bangalore,Delhi Capitals,VCA Stadium,Nagpur,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,26,Runs,26 runs,Rajat Patidar,Playoff,175,20,Yes,Yes
+759,2019,Kolkata Knight Riders,Rajasthan Royals,Barabati Stadium,Cuttack,Rajasthan Royals,Bat,Rajasthan Royals,38,Runs,38 runs,Trent Boult,Final,183,20,Yes,Yes
+760,2019,Delhi Capitals,Chennai Super Kings,,Jaipur,Chennai Super Kings,Bat,Delhi Capitals,64,Runs,64 runs,Anrich Nortje,Playoff,198,20,No,No
+761,2020,Chennai Super Kings,Rajasthan Royals,Dubai International Cricket Stadium,Dubai,Rajasthan Royals,Bat,Rajasthan Royals,5,Wickets,5 wickets,Shane Warne,League,158,20,Yes,Yes
+762,2020,Kolkata Knight Riders,Royal Challengers Bangalore,Sheikh Zayed Stadium,Abu Dhabi,Kolkata Knight Riders,Field,Royal Challengers Bangalore,6,Wickets,6 wickets,Daniel Vettori,League,219,20,No,Yes
+763,2020,Kolkata Knight Riders,Kings XI Punjab,Dubai International Cricket Stadium,Dubai,Kings XI Punjab,Field,Kings XI Punjab,51,Runs,51 runs,David Miller,League,186,20,Yes,No
+764,2020,Mumbai Indians,Sunrisers Hyderabad,Dubai International Cricket Stadium,Dubai,Mumbai Indians,Field,Sunrisers Hyderabad,1,Wickets,1 wickets,Jonny Bairstow,League,198,20,No,Yes
+765,2020,Royal Challengers Bangalore,Kings XI Punjab,Sharjah Cricket Stadium,Sharjah,Royal Challengers Bangalore,Field,Kings XI Punjab,1,Wickets,1 wickets,Chris Gayle,League,188,20,No,Yes
+766,2020,Rajasthan Royals,Mumbai Indians,Sharjah Cricket Stadium,Sharjah,Mumbai Indians,Field,,7,Wickets,7 wickets,Suryakumar Yadav,League,146,20,Yes,No
+767,2020,Kolkata Knight Riders,Delhi Capitals,Dubai International Cricket Stadium,Dubai,Delhi Capitals,Field,Kolkata Knight Riders,10,Wickets,10 wickets,BB McCullum,League,213,20,No,Yes
+768,2020,Delhi Capitals,Rajasthan Royals,Dubai International Cricket Stadium,Dubai,Rajasthan Royals,Field,Rajasthan Royals,10,Wickets,10 wickets,Shane Watson,League,206,20,Yes,No
+769,2020,Chennai Super Kings,Kolkata Knight Riders,Dubai International Cricket Stadium,,,Field,Kolkata Knight Riders,9,Wickets,9 wickets,Yusuf Pathan,League,160,20,No,Yes
+770,2020,Chennai Super Kings,Delhi Capitals,Dubai International Cricket Stadium,Dubai,Delhi Capitals,Bat,Delhi Capitals,55,Runs,55 runs,Axar Patel,League,161,20,Yes,Yes
+771,2020,Sunrisers Hyderabad,Chennai Super Kings,Sheikh Zayed Stadium,Abu Dhabi,Chennai Super Kings,Bat,Chennai Super Kings,28,Runs,28 runs,Dwayne Bravo,League,140,20,Yes,Yes
+772,2020,Mumbai Indians,Kings XI Punjab,Sheikh Zayed Stadium,Abu Dhabi,Kings XI Punjab,Bat,Kings XI Punjab,6,Wickets,6 wickets,Mayank Agarwal,League,141,20,Yes,Yes
+773,2020,Rajasthan Royals,Kings XI Punjab,Sharjah Cricket Stadium,Sharjah,Rajasthan Royals,Bat,Kings XI Punjab,80,Runs,80 runs,Mohammad Shami,League,164,20,No,No
+774,2020,Rajasthan Royals,Kolkata Knight Riders,Dubai International Cricket Stadium,Dubai,Rajasthan Royals,Bat,Kolkata Knight Riders,4,Wickets,4 wickets,Manoj Tiwary,League,161,20,No,No
+775,2020,Sunrisers Hyderabad,Kings XI Punjab,Dubai International Cricket Stadium,Dubai,Kings XI Punjab,Field,Sunrisers Hyderabad,9,Wickets,9 wickets,Jonny Bairstow,League,151,20,No,Yes
+776,2020,Sunrisers Hyderabad,Chennai Super Kings,Dubai International Cricket Stadium,Dubai,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,55,Runs,55 runs,Travis Head,League,175,20,Yes,No
+777,2020,Rajasthan Royals,Sunrisers Hyderabad,Sheikh Zayed Stadium,Abu Dhabi,Sunrisers Hyderabad,Field,Rajasthan Royals,8,Wickets,8 wickets,Shane Warne,League,133,20,No,Yes
+778,2020,Kings XI Punjab,Delhi Capitals,Dubai International Cricket Stadium,Dubai,Kings XI Punjab,Field,Kings XI Punjab,4,Wickets,4 wickets,Chris Gayle,League,131,20,Yes,No
+779,2020,Rajasthan Royals,Mumbai Indians,Dubai International Cricket Stadium,Dubai,Mumbai Indians,Bat,Rajasthan Royals,5,Runs,5 runs,Yuzvendra Chahal,League,161,20,No,No
+780,2020,Delhi Capitals,Chennai Super Kings,Dubai International Cricket Stadium,Dubai,Delhi Capitals,Field,Chennai Super Kings,1,Wickets,1 wickets,Deepak Chahar,League,207,20,No,Yes
+781,2020,Chennai Super Kings,Rajasthan Royals,Dubai International Cricket Stadium,Dubai,Chennai Super Kings,Field,Rajasthan Royals,29,Runs,29 runs,Jos Buttler,League,208,20,No,Yes
+782,2020,Sunrisers Hyderabad,Chennai Super Kings,Dubai International Cricket Stadium,Dubai,Sunrisers Hyderabad,Bat,Sunrisers Hyderabad,62,Runs,62 runs,,League,132,20,Yes,Yes
+783,2020,Rajasthan Royals,Kolkata Knight Riders,Sheikh Zayed Stadium,Abu Dhabi,Rajasthan Royals,Field,Kolkata Knight Riders,8,Wickets,8 wickets,Sunil Narine,League,177,20,No,Yes
+784,2020,Sunrisers Hyderabad,Mumbai Indians,Dubai International Cricket Stadium,Dubai,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,31,Runs,31 runs,Jonny Bairstow,League,142,20,Yes,No
+785,2020,Mumbai Indians,Kings XI Punjab,Sharjah Cricket Stadium,Sharjah,Kings XI Punjab,Field,Kings XI Punjab,9,Runs,9 runs,KL Rahul,League,189,20,Yes,No
+786,2020,Chennai Super Kings,Mumbai Indians,Dubai International Cricket Stadium,Dubai,Mumbai Indians,Bat,Chennai Super Kings,56,Runs,56 runs,Devon Conway,League,147,20,No,No
+787,2020,Chennai Super Kings,Mumbai Indians,Sheikh Zayed Stadium,Abu Dhabi,Chennai Super Kings,Field,Chennai Super Kings,95,Runs,95 runs,Devon Conway,League,188,20,Yes,No
+788,2020,Sunrisers Hyderabad,Kolkata Knight Riders,Dubai International Cricket Stadium,Dubai,Sunrisers Hyderabad,Bat,Kolkata Knight Riders,6,Wickets,6 wickets,Shubman Gill,League,180,20,No,No
+789,2020,Delhi Capitals,Chennai Super Kings,Dubai International Cricket Stadium,Dubai,Chennai Super Kings,Bat,Delhi Capitals,6,Wickets,6 wickets,Rishabh Pant,League,170,20,No,No
+790,2020,Royal Challengers Bangalore,Kolkata Knight Riders,Sheikh Zayed Stadium,Abu Dhabi,Kolkata Knight Riders,Field,Royal Challengers Bangalore,3,Wickets,3 wickets,Glenn Maxwell,League,135,20,No,Yes
+791,2020,Sunrisers Hyderabad,Rajasthan Royals,Dubai International Cricket Stadium,Dubai,Rajasthan Royals,Field,Sunrisers Hyderabad,5,Wickets,5 wickets,Kane Williamson,League,211,20,No,Yes
+792,2020,Chennai Super Kings,Royal Challengers Bangalore,Sheikh Zayed Stadium,Abu Dhabi,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,72,Runs,72 runs,Daniel Vettori,League,191,20,Yes,No
+793,2020,Mumbai Indians,Rajasthan Royals,Sheikh Zayed Stadium,Abu Dhabi,Mumbai Indians,Bat,Mumbai Indians,9,Wickets,9 wickets,Tilak Varma,League,212,20,Yes,Yes
+794,2020,Delhi Capitals,Rajasthan Royals,Sharjah Cricket Stadium,Sharjah,Delhi Capitals,Bat,Delhi Capitals,2,Wickets,2 wickets,Anrich Nortje,League,219,20,Yes,Yes
+795,2020,Sunrisers Hyderabad,Delhi Capitals,Sheikh Zayed Stadium,Abu Dhabi,Delhi Capitals,Bat,Delhi Capitals,46,Runs,46 runs,Prithvi Shaw,League,158,20,Yes,Yes
+796,2020,Rajasthan Royals,Mumbai Indians,Sharjah Cricket Stadium,Sharjah,Rajasthan Royals,Field,Mumbai Indians,54,Runs,54 runs,Tilak Varma,League,186,20,No,Yes
+797,2020,Kolkata Knight Riders,Kings XI Punjab,Sharjah Cricket Stadium,Sharjah,Kings XI Punjab,Field,Kings XI Punjab,55,Runs,55 runs,Mohammad Shami,League,151,20,Yes,No
+798,2020,Kolkata Knight Riders,Rajasthan Royals,Sheikh Zayed Stadium,Abu Dhabi,Rajasthan Royals,Bat,Rajasthan Royals,7,Wickets,7 wickets,Yuzvendra Chahal,League,203,20,Yes,Yes
+799,2020,Kings XI Punjab,Delhi Capitals,Sheikh Zayed Stadium,Abu Dhabi,Kings XI Punjab,Field,,8,Wickets,8 wickets,Rishabh Pant,League,144,20,No,Yes
+800,2020,Delhi Capitals,Mumbai Indians,Dubai International Cricket Stadium,Dubai,Mumbai Indians,Bat,Mumbai Indians,10,Wickets,10 wickets,Sachin Tendulkar,League,166,20,Yes,Yes
+801,2020,Delhi Capitals,Royal Challengers Bangalore,Sharjah Cricket Stadium,Sharjah,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,50,Runs,50 runs,Daniel Vettori,League,130,20,Yes,Yes
+802,2020,Kings XI Punjab,Kolkata Knight Riders,Dubai International Cricket Stadium,Dubai,Kolkata Knight Riders,Field,Kings XI Punjab,42,Runs,42 runs,KL Rahul,League,139,20,No,Yes
+803,2020,Rajasthan Royals,Mumbai Indians,Sharjah Cricket Stadium,Sharjah,Rajasthan Royals,Field,Rajasthan Royals,3,Wickets,3 wickets,Steven Smith,League,217,20,Yes,No
+804,2020,Delhi Capitals,Rajasthan Royals,Dubai International Cricket Stadium,Dubai,Rajasthan Royals,Field,Rajasthan Royals,68,Runs,68 runs,Trent Boult,League,185,20,Yes,No
+805,2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Sheikh Zayed Stadium,Abu Dhabi,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,7,Wickets,7 wickets,Wriddhiman Saha,League,214,20,Yes,No
+806,2020,Royal Challengers Bangalore,Mumbai Indians,Dubai International Cricket Stadium,Dubai,Mumbai Indians,Field,Mumbai Indians,5,Wickets,5 wickets,Quinton de Kock,League,172,20,Yes,No
+807,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Sheikh Zayed Stadium,Abu Dhabi,Sunrisers Hyderabad,Field,Kolkata Knight Riders,9,Wickets,9 wickets,Nitish Rana,League,214,20,No,Yes
+808,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Dubai International Cricket Stadium,Dubai,Kolkata Knight Riders,Field,Sunrisers Hyderabad,8,Wickets,8 wickets,Rashid Khan,League,206,20,No,Yes
+809,2020,Chennai Super Kings,Mumbai Indians,Dubai International Cricket Stadium,Dubai,Chennai Super Kings,Field,Mumbai Indians,34,Runs,34 runs,Lasith Malinga,League,133,20,No,Yes
+810,2020,Rajasthan Royals,Chennai Super Kings,Sharjah Cricket Stadium,Sharjah,Rajasthan Royals,Bat,Chennai Super Kings,25,Runs,25 runs,Michael Hussey,League,206,20,No,No
+811,2020,Delhi Capitals,Royal Challengers Bangalore,Sharjah Cricket Stadium,,Delhi Capitals,Bat,Delhi Capitals,1,Wickets,1 wickets,Axar Patel,League,171,20,Yes,Yes
+812,2020,Royal Challengers Bangalore,Rajasthan Royals,Sheikh Zayed Stadium,Abu Dhabi,Rajasthan Royals,Field,Royal Challengers Bangalore,10,Wickets,10 wickets,Virat Kohli,League,131,20,No,Yes
+813,2020,Kings XI Punjab,Mumbai Indians,,Abu Dhabi,Kings XI Punjab,Field,Mumbai Indians,2,Wickets,2 wickets,Lasith Malinga,League,151,20,No,Yes
+814,2020,Delhi Capitals,Chennai Super Kings,Sheikh Zayed Stadium,Abu Dhabi,Delhi Capitals,Field,Delhi Capitals,1,Wickets,1 wickets,Axar Patel,League,218,20,Yes,No
+815,2020,Delhi Capitals,Kolkata Knight Riders,Sharjah Cricket Stadium,Sharjah,Kolkata Knight Riders,Field,Kolkata Knight Riders,1,Wickets,1 wickets,Andre Russell,League,153,20,Yes,No
+816,2020,Kings XI Punjab,Royal Challengers Bangalore,Sharjah Cricket Stadium,Sharjah,Royal Challengers Bangalore,Field,Kings XI Punjab,71,Runs,71 runs,Mohammad Shami,Playoff,212,20,No,Yes
+817,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Sharjah Cricket Stadium,Sharjah,Kolkata Knight Riders,Field,Kolkata Knight Riders,4,Wickets,4 wickets,Robin Uthappa,Playoff,163,20,Yes,No
+818,2020,Sunrisers Hyderabad,Kolkata Knight Riders,Sharjah Cricket Stadium,Sharjah,Kolkata Knight Riders,Bat,Sunrisers Hyderabad,51,Runs,51 runs,Travis Head,Playoff,209,20,No,No
+819,2020,Kolkata Knight Riders,Chennai Super Kings,Dubai International Cricket Stadium,Dubai,Chennai Super Kings,Bat,Kolkata Knight Riders,1,Wickets,1 wickets,,Final,198,20,No,No
+820,2020,Mumbai Indians,Sunrisers Hyderabad,Sheikh Zayed Stadium,Abu Dhabi,,Field,Sunrisers Hyderabad,7,Wickets,7 wickets,Wriddhiman Saha,Playoff,134,20,Yes,No
+821,2021,Sunrisers Hyderabad,Punjab Kings,Barabati Stadium,Cuttack,Punjab Kings,Field,Sunrisers Hyderabad,99,Runs,99 runs,Jonny Bairstow,League,207,20,No,Yes
+822,2021,Chennai Super Kings,Delhi Capitals,DY Patil Stadium,Navi Mumbai,Chennai Super Kings,Field,Chennai Super Kings,6,Runs,6 runs,Faf du Plessis,League,191,20,Yes,No
+823,2021,Delhi Capitals,Royal Challengers Bangalore,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,38,Runs,38 runs,Glenn Maxwell,League,217,20,Yes,Yes
+824,2021,Sunrisers Hyderabad,Chennai Super Kings,Barabati Stadium,Cuttack,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,49,Runs,49 runs,Jonny Bairstow,League,148,20,Yes,No
+825,2021,Rajasthan Royals,Punjab Kings,VCA Stadium,Nagpur,Rajasthan Royals,Field,Rajasthan Royals,83,Runs,83 runs,Yuzvendra Chahal,League,135,20,Yes,No
+826,2021,Royal Challengers Bangalore,Kolkata Knight Riders,BRSABV Ekana Cricket Stadium,Lucknow,Kolkata Knight Riders,Bat,Royal Challengers Bangalore,11,Runs,11 runs,Virat Kohli,League,141,20,No,No
+827,2021,Delhi Capitals,Royal Challengers Bangalore,Punjab Cricket Association Stadium,Mohali,Delhi Capitals,Field,Delhi Capitals,14,Runs,14 runs,Shreyas Iyer,League,174,20,Yes,No
+828,2021,Kolkata Knight Riders,Sunrisers Hyderabad,M Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,Field,Kolkata Knight Riders,20,Runs,20 runs,Andre Russell,League,191,20,No,Yes
+829,2021,Rajasthan Royals,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Pune,Rajasthan Royals,Bat,Rajasthan Royals,79,Runs,79 runs,Riyan Parag,League,188,20,Yes,Yes
+830,2021,Kolkata Knight Riders,Punjab Kings,Holkar Cricket Stadium,Indore,Kolkata Knight Riders,Bat,Punjab Kings,82,Runs,82 runs,David Miller,League,202,20,No,No
+831,2021,Punjab Kings,Delhi Capitals,Feroz Shah Kotla,Delhi,Delhi Capitals,Bat,Delhi Capitals,8,Wickets,8 wickets,Axar Patel,League,161,20,Yes,Yes
+832,2021,Royal Challengers Bangalore,Rajasthan Royals,Barabati Stadium,Cuttack,Royal Challengers Bangalore,Bat,,5,Wickets,5 wickets,Yuzvendra Chahal,League,158,20,Yes,Yes
+833,2021,Chennai Super Kings,Rajasthan Royals,BRSABV Ekana Cricket Stadium,Lucknow,Chennai Super Kings,Field,Chennai Super Kings,7,Wickets,7 wickets,Ambati Rayudu,League,137,20,Yes,No
+834,2021,Punjab Kings,Chennai Super Kings,Sawai Mansingh Stadium,Jaipur,Chennai Super Kings,Field,Chennai Super Kings,5,Runs,5 runs,Shane Watson,League,155,20,Yes,No
+835,2021,Mumbai Indians,Chennai Super Kings,Punjab Cricket Association Stadium,Mohali,Chennai Super Kings,Bat,Chennai Super Kings,10,Wickets,10 wickets,Faf du Plessis,League,175,20,Yes,Yes
+836,2021,Kolkata Knight Riders,Royal Challengers Bangalore,BRSABV Ekana Cricket Stadium,Lucknow,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,71,Runs,71 runs,Rajat Patidar,League,135,20,Yes,Yes
+837,2021,Chennai Super Kings,Mumbai Indians,Wankhede Stadium,Mumbai,Mumbai Indians,Bat,Chennai Super Kings,7,Wickets,7 wickets,Suresh Raina,League,211,20,No,No
+838,2021,Royal Challengers Bangalore,Rajasthan Royals,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Rajasthan Royals,Field,Rajasthan Royals,45,Runs,45 runs,Trent Boult,League,158,20,Yes,No
+839,2021,Delhi Capitals,Royal Challengers Bangalore,Barabati Stadium,Cuttack,Royal Challengers Bangalore,Bat,Delhi Capitals,4,Wickets,4 wickets,Anrich Nortje,League,176,20,No,No
+840,2021,Delhi Capitals,Sunrisers Hyderabad,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,,Sunrisers Hyderabad,Bat,Sunrisers Hyderabad,10,Runs,10 runs,Kane Williamson,League,202,20,Yes,Yes
+841,2021,Rajasthan Royals,Mumbai Indians,Sardar Patel Stadium,Ahmedabad,Rajasthan Royals,Bat,Mumbai Indians,71,Runs,71 runs,Sachin Tendulkar,League,143,20,No,No
+842,2021,Sunrisers Hyderabad,Kolkata Knight Riders,BRSABV Ekana Cricket Stadium,Lucknow,Kolkata Knight Riders,Bat,Kolkata Knight Riders,55,Runs,55 runs,Sourav Ganguly,League,132,20,Yes,Yes
+843,2021,Mumbai Indians,Delhi Capitals,Punjab Cricket Association Stadium,Mohali,Delhi Capitals,Bat,Mumbai Indians,31,Runs,31 runs,Lasith Malinga,League,161,20,No,No
+844,2021,Mumbai Indians,Chennai Super Kings,BRSABV Ekana Cricket Stadium,Lucknow,Mumbai Indians,Bat,Chennai Super Kings,3,Wickets,3 wickets,Moeen Ali,League,145,20,No,No
+845,2021,Rajasthan Royals,Punjab Kings,MA Chidambaram Stadium,Chennai,Punjab Kings,Bat,Rajasthan Royals,42,Runs,42 runs,Sanju Samson,League,197,20,No,No
+846,2021,Delhi Capitals,Mumbai Indians,JSCA International Stadium,Ranchi,Mumbai Indians,Field,Mumbai Indians,22,Runs,22 runs,Jasprit Bumrah,League,180,20,Yes,No
+847,2021,Rajasthan Royals,Kolkata Knight Riders,Eden Gardens,Kolkata,Rajasthan Royals,Bat,Rajasthan Royals,2,Wickets,2 wickets,Yuzvendra Chahal,League,140,20,Yes,Yes
+848,2021,Chennai Super Kings,Kolkata Knight Riders,Sawai Mansingh Stadium,Jaipur,Chennai Super Kings,Bat,Kolkata Knight Riders,57,Runs,57 runs,Yusuf Pathan,League,168,20,No,No
+849,2021,Royal Challengers Bangalore,Delhi Capitals,Wankhede Stadium,Mumbai,Delhi Capitals,Field,Royal Challengers Bangalore,2,Wickets,2 wickets,Faf du Plessis,League,202,20,No,Yes
+850,2021,Chennai Super Kings,Mumbai Indians,Rajiv Gandhi International Stadium,Hyderabad,Chennai Super Kings,Field,Chennai Super Kings,7,Wickets,7 wickets,Suresh Raina,League,182,20,Yes,No
+851,2021,Rajasthan Royals,Sunrisers Hyderabad,Shaheed Veer Narayan Singh International Stadium,Raipur,Rajasthan Royals,Field,Rajasthan Royals,8,Wickets,8 wickets,Steven Smith,League,141,20,Yes,No
+852,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Shaheed Veer Narayan Singh International Stadium,Raipur,Kolkata Knight Riders,Field,Sunrisers Hyderabad,51,Runs,51 runs,Bhuvneshwar Kumar,League,204,20,No,Yes
+853,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Barabati Stadium,Cuttack,Kolkata Knight Riders,Bat,Sunrisers Hyderabad,8,Wickets,8 wickets,David Warner,League,197,20,No,No
+854,2021,Delhi Capitals,Chennai Super Kings,Sardar Patel Stadium,Ahmedabad,Chennai Super Kings,Bat,Delhi Capitals,48,Runs,48 runs,Prithvi Shaw,League,147,20,No,No
+855,2021,Punjab Kings,Sunrisers Hyderabad,VCA Stadium,Nagpur,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,9,Wickets,9 wickets,,League,214,20,Yes,No
+856,2021,Punjab Kings,Delhi Capitals,,Cuttack,Delhi Capitals,Bat,Punjab Kings,21,Runs,21 runs,Arshdeep Singh,League,130,20,No,No
+857,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Punjab Cricket Association Stadium,Mohali,Sunrisers Hyderabad,Field,Kolkata Knight Riders,3,Wickets,3 wickets,Yusuf Pathan,League,154,20,No,Yes
+858,2021,Delhi Capitals,Kolkata Knight Riders,DY Patil Stadium,Navi Mumbai,Delhi Capitals,Bat,Kolkata Knight Riders,49,Runs,49 runs,Sourav Ganguly,League,220,20,No,No
+859,2021,Mumbai Indians,Sunrisers Hyderabad,JSCA International Stadium,Ranchi,Mumbai Indians,Bat,Sunrisers Hyderabad,36,Runs,36 runs,Bhuvneshwar Kumar,League,174,20,No,No
+860,2021,Delhi Capitals,Chennai Super Kings,Barabati Stadium,Cuttack,Chennai Super Kings,Field,Chennai Super Kings,9,Wickets,9 wickets,Ruturaj Gaikwad,League,209,20,Yes,No
+861,2021,Delhi Capitals,Mumbai Indians,VCA Stadium,Nagpur,Mumbai Indians,Bat,Mumbai Indians,2,Runs,2 runs,Lasith Malinga,League,176,20,Yes,Yes
+862,2021,Chennai Super Kings,Sunrisers Hyderabad,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Chennai Super Kings,Field,Chennai Super Kings,70,Runs,70 runs,Michael Hussey,League,218,20,Yes,No
+863,2021,Chennai Super Kings,Delhi Capitals,Maharashtra Cricket Association Stadium,Pune,Chennai Super Kings,Field,Delhi Capitals,7,Wickets,7 wickets,Anrich Nortje,League,184,20,No,Yes
+864,2021,Rajasthan Royals,Punjab Kings,Wankhede Stadium,Mumbai,Rajasthan Royals,Field,Punjab Kings,81,Runs,81 runs,KL Rahul,League,171,20,No,Yes
+865,2021,Chennai Super Kings,Rajasthan Royals,VCA Stadium,Nagpur,Chennai Super Kings,Bat,Chennai Super Kings,5,Wickets,5 wickets,MS Dhoni,League,193,20,Yes,Yes
+866,2021,Punjab Kings,Mumbai Indians,Maharashtra Cricket Association Stadium,Pune,Punjab Kings,Field,Punjab Kings,5,Wickets,5 wickets,Arshdeep Singh,League,186,20,Yes,No
+867,2021,Rajasthan Royals,Delhi Capitals,Feroz Shah Kotla,,Rajasthan Royals,Bat,Delhi Capitals,8,Wickets,8 wickets,Shreyas Iyer,League,208,20,No,No
+868,2021,Mumbai Indians,Punjab Kings,BRSABV Ekana Cricket Stadium,Lucknow,Mumbai Indians,Field,Punjab Kings,77,Runs,77 runs,Kagiso Rabada,League,203,20,No,Yes
+869,2021,Punjab Kings,Royal Challengers Bangalore,Punjab Cricket Association Stadium,Mohali,Punjab Kings,Field,Royal Challengers Bangalore,10,Wickets,10 wickets,Virat Kohli,League,137,20,No,Yes
+870,2021,Mumbai Indians,Delhi Capitals,VCA Stadium,Nagpur,Delhi Capitals,Bat,Mumbai Indians,83,Runs,83 runs,Ishan Kishan,League,142,20,No,No
+871,2021,Sunrisers Hyderabad,Delhi Capitals,VCA Stadium,Nagpur,Delhi Capitals,Bat,Delhi Capitals,18,Runs,18 runs,Rishabh Pant,League,135,20,Yes,Yes
+872,2021,Chennai Super Kings,Rajasthan Royals,Maharashtra Cricket Association Stadium,Pune,Chennai Super Kings,Bat,Chennai Super Kings,94,Runs,94 runs,Suresh Raina,League,131,20,Yes,Yes
+873,2021,Delhi Capitals,Punjab Kings,Rajiv Gandhi International Stadium,Hyderabad,Punjab Kings,Bat,Punjab Kings,16,Runs,16 runs,Mayank Agarwal,League,161,20,Yes,Yes
+874,2021,Sunrisers Hyderabad,Delhi Capitals,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Delhi Capitals,Bat,Sunrisers Hyderabad,47,Runs,47 runs,Travis Head,League,154,20,No,No
+875,2021,Royal Challengers Bangalore,Delhi Capitals,MA Chidambaram Stadium,Chennai,Delhi Capitals,Field,Royal Challengers Bangalore,8,Wickets,8 wickets,AB de Villiers,League,143,20,No,Yes
+876,2021,Rajasthan Royals,Punjab Kings,Feroz Shah Kotla,Delhi,,Bat,,2,Wickets,2 wickets,Sanju Samson,Playoff,138,20,Yes,Yes
+877,2021,Sunrisers Hyderabad,Punjab Kings,JSCA International Stadium,Ranchi,Punjab Kings,Field,Punjab Kings,6,Wickets,6 wickets,Chris Gayle,Playoff,186,20,Yes,No
+878,2021,Rajasthan Royals,Delhi Capitals,Punjab Cricket Association Stadium,Mohali,Rajasthan Royals,Field,Delhi Capitals,7,Wickets,7 wickets,Prithvi Shaw,Playoff,140,20,No,Yes
+879,2021,Rajasthan Royals,Royal Challengers Bangalore,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,60,Runs,60 runs,Virat Kohli,Final,183,20,Yes,Yes
+880,2021,Sunrisers Hyderabad,Chennai Super Kings,BRSABV Ekana Cricket Stadium,Lucknow,Chennai Super Kings,Field,Chennai Super Kings,8,Wickets,8 wickets,Michael Hussey,Playoff,147,20,Yes,No
+881,2022,Delhi Capitals,Lucknow Super Giants,M Chinnaswamy Stadium,Bangalore,Delhi Capitals,Bat,Lucknow Super Giants,6,Wickets,6 wickets,KL Rahul,League,156,20,No,No
+882,2022,Delhi Capitals,Gujarat Titans,Brabourne Stadium,Mumbai,Gujarat Titans,Field,Gujarat Titans,6,Runs,6 runs,Rashid Khan,League,161,20,Yes,No
+883,2022,Punjab Kings,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Pune,Kolkata Knight Riders,Field,Punjab Kings,88,Runs,88 runs,,League,192,20,No,Yes
+884,2022,Rajasthan Royals,Royal Challengers Bangalore,Eden Gardens,Kolkata,Royal Challengers Bangalore,Field,Rajasthan Royals,8,Wickets,8 wickets,Ajinkya Rahane,League,180,20,No,Yes
+885,2022,Punjab Kings,Royal Challengers Bangalore,Maharashtra Cricket Association Stadium,Pune,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,27,Runs,27 runs,Shane Bond,League,159,20,Yes,Yes
+886,2022,Mumbai Indians,Rajasthan Royals,MA Chidambaram Stadium,Chennai,Mumbai Indians,Field,Rajasthan Royals,5,Wickets,5 wickets,Shane Watson,League,163,20,No,Yes
+887,2022,Punjab Kings,Gujarat Titans,VCA Stadium,Nagpur,Punjab Kings,Bat,Punjab Kings,89,Runs,89 runs,Jonny Bairstow,League,201,20,Yes,Yes
+888,2022,Delhi Capitals,Royal Challengers Bangalore,BRSABV Ekana Cricket Stadium,Lucknow,Delhi Capitals,Field,Royal Challengers Bangalore,94,Runs,94 runs,Mohammed Siraj,League,205,20,No,Yes
+889,2022,Punjab Kings,Chennai Super Kings,HPCA Stadium,Dharamsala,Chennai Super Kings,Bat,Chennai Super Kings,66,Runs,66 runs,Ruturaj Gaikwad,League,153,20,Yes,Yes
+890,2022,Mumbai Indians,Gujarat Titans,Shaheed Veer Narayan Singh International Stadium,Raipur,Mumbai Indians,Field,Mumbai Indians,1,Wickets,1 wickets,Rohit Sharma,League,161,20,Yes,No
+891,2022,Gujarat Titans,Delhi Capitals,DY Patil Stadium,Navi Mumbai,Delhi Capitals,Bat,Delhi Capitals,15,Runs,15 runs,Axar Patel,League,196,20,Yes,Yes
+892,2022,Mumbai Indians,Gujarat Titans,Brabourne Stadium,Mumbai,Gujarat Titans,Bat,Gujarat Titans,9,Wickets,9 wickets,Rashid Khan,League,134,20,Yes,Yes
+893,2022,Gujarat Titans,Sunrisers Hyderabad,,Raipur,Gujarat Titans,Bat,Sunrisers Hyderabad,65,Runs,65 runs,David Warner,League,209,20,No,No
+894,2022,Chennai Super Kings,Lucknow Super Giants,Sawai Mansingh Stadium,Jaipur,Chennai Super Kings,Field,Chennai Super Kings,8,Wickets,8 wickets,Ravindra Jadeja,League,177,20,Yes,No
+895,2022,Delhi Capitals,Kolkata Knight Riders,Sardar Patel Stadium,Ahmedabad,Kolkata Knight Riders,Field,Kolkata Knight Riders,9,Wickets,9 wickets,Nitish Rana,League,151,20,Yes,No
+896,2022,Lucknow Super Giants,Chennai Super Kings,Sawai Mansingh Stadium,,Lucknow Super Giants,Bat,Chennai Super Kings,17,Runs,17 runs,Michael Hussey,League,190,20,No,No
+897,2022,Chennai Super Kings,Rajasthan Royals,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Chennai Super Kings,Field,Rajasthan Royals,76,Runs,76 runs,Trent Boult,League,149,20,No,Yes
+898,2022,Rajasthan Royals,Sunrisers Hyderabad,Punjab Cricket Association Stadium,Mohali,Rajasthan Royals,Field,Rajasthan Royals,63,Runs,63 runs,Yuzvendra Chahal,League,213,20,Yes,No
+899,2022,Kolkata Knight Riders,Rajasthan Royals,JSCA International Stadium,Ranchi,Kolkata Knight Riders,Field,Rajasthan Royals,4,Wickets,4 wickets,Trent Boult,League,137,20,No,Yes
+900,2022,Lucknow Super Giants,Kolkata Knight Riders,JSCA International Stadium,Ranchi,Kolkata Knight Riders,Field,Kolkata Knight Riders,94,Runs,94 runs,Sourav Ganguly,League,149,20,Yes,No
+901,2022,Lucknow Super Giants,Mumbai Indians,MA Chidambaram Stadium,Chennai,Lucknow Super Giants,Bat,Lucknow Super Giants,33,Runs,33 runs,Marcus Stoinis,League,215,20,Yes,Yes
+902,2022,Lucknow Super Giants,Sunrisers Hyderabad,Feroz Shah Kotla,Delhi,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,9,Wickets,9 wickets,Travis Head,League,206,20,Yes,No
+903,2022,Chennai Super Kings,Kolkata Knight Riders,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Chennai Super Kings,Bat,Chennai Super Kings,5,Runs,5 runs,Ambati Rayudu,League,140,20,Yes,Yes
+904,2022,Chennai Super Kings,Mumbai Indians,Barabati Stadium,Cuttack,Chennai Super Kings,Bat,Mumbai Indians,8,Wickets,8 wickets,Krunal Pandya,League,149,20,No,No
+905,2022,Delhi Capitals,Royal Challengers Bangalore,Barabati Stadium,Cuttack,Delhi Capitals,Bat,Delhi Capitals,9,Wickets,9 wickets,Shreyas Iyer,League,132,20,Yes,Yes
+906,2022,Lucknow Super Giants,Kolkata Knight Riders,Shaheed Veer Narayan Singh International Stadium,Raipur,Kolkata Knight Riders,Field,Lucknow Super Giants,2,Wickets,2 wickets,KL Rahul,League,218,20,No,Yes
+907,2022,Mumbai Indians,Punjab Kings,Maharashtra Cricket Association Stadium,Pune,Punjab Kings,Field,Punjab Kings,1,Wickets,1 wickets,Mayank Agarwal,League,161,20,Yes,No
+908,2022,Chennai Super Kings,Kolkata Knight Riders,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Kolkata Knight Riders,Bat,Chennai Super Kings,56,Runs,56 runs,Moeen Ali,League,206,20,No,No
+909,2022,Royal Challengers Bangalore,Gujarat Titans,Eden Gardens,Kolkata,Gujarat Titans,Field,Gujarat Titans,54,Runs,54 runs,Wriddhiman Saha,League,178,20,Yes,No
+910,2022,Lucknow Super Giants,Kolkata Knight Riders,Narendra Modi Stadium,Ahmedabad,Lucknow Super Giants,Bat,Lucknow Super Giants,5,Wickets,5 wickets,Quinton de Kock,League,209,20,Yes,Yes
+911,2022,Delhi Capitals,Kolkata Knight Riders,Arun Jaitley Stadium,Delhi,Delhi Capitals,Bat,Delhi Capitals,8,Wickets,8 wickets,,League,194,20,Yes,Yes
+912,2022,Delhi Capitals,Kolkata Knight Riders,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Delhi Capitals,Bat,Kolkata Knight Riders,3,Wickets,3 wickets,Gautam Gambhir,League,220,20,No,No
+913,2022,Lucknow Super Giants,Punjab Kings,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,Field,Lucknow Super Giants,28,Runs,28 runs,Ravi Bishnoi,League,200,20,Yes,No
+914,2022,Punjab Kings,Delhi Capitals,Brabourne Stadium,Mumbai,Punjab Kings,Field,Delhi Capitals,8,Wickets,8 wickets,Rishabh Pant,League,196,20,No,Yes
+915,2022,Royal Challengers Bangalore,Punjab Kings,Barabati Stadium,Cuttack,Punjab Kings,Field,Punjab Kings,7,Wickets,7 wickets,KL Rahul,League,153,20,Yes,No
+916,2022,Royal Challengers Bangalore,Delhi Capitals,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,84,Runs,84 runs,Chris Gayle,League,192,20,Yes,Yes
+917,2022,Royal Challengers Bangalore,Delhi Capitals,Brabourne Stadium,Mumbai,Delhi Capitals,Field,Delhi Capitals,71,Runs,71 runs,Anrich Nortje,League,174,20,Yes,No
+918,2022,Chennai Super Kings,Kolkata Knight Riders,JSCA International Stadium,Ranchi,Chennai Super Kings,Bat,,57,Runs,57 runs,Venkatesh Iyer,League,201,20,No,No
+919,2022,Lucknow Super Giants,Rajasthan Royals,DY Patil Stadium,Navi Mumbai,Lucknow Super Giants,Field,Rajasthan Royals,42,Runs,42 runs,Riyan Parag,League,188,20,No,Yes
+920,2022,Gujarat Titans,Mumbai Indians,MA Chidambaram Stadium,Chennai,Mumbai Indians,Field,Mumbai Indians,9,Wickets,9 wickets,Jasprit Bumrah,League,219,20,Yes,No
+921,2022,Gujarat Titans,Sunrisers Hyderabad,M Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,Bat,Sunrisers Hyderabad,8,Wickets,8 wickets,Heinrich Klaasen,League,142,20,Yes,Yes
+922,2022,Lucknow Super Giants,Kolkata Knight Riders,JSCA International Stadium,Ranchi,Lucknow Super Giants,Field,Lucknow Super Giants,69,Runs,69 runs,Mark Wood,League,165,20,Yes,No
+923,2022,Gujarat Titans,Chennai Super Kings,Punjab Cricket Association Stadium,,Chennai Super Kings,Field,Gujarat Titans,98,Runs,98 runs,Shubman Gill,League,213,20,No,Yes
+924,2022,Mumbai Indians,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,Field,Mumbai Indians,80,Runs,80 runs,Jasprit Bumrah,League,194,20,No,Yes
+925,2022,Gujarat Titans,Royal Challengers Bangalore,Sardar Patel Stadium,Ahmedabad,Royal Challengers Bangalore,Bat,Gujarat Titans,4,Wickets,4 wickets,Shubman Gill,League,154,20,No,No
+926,2022,Punjab Kings,Lucknow Super Giants,Narendra Modi Stadium,Ahmedabad,Lucknow Super Giants,Field,Punjab Kings,24,Runs,24 runs,Mayank Agarwal,League,142,20,No,Yes
+927,2022,Lucknow Super Giants,Gujarat Titans,Barabati Stadium,Cuttack,Gujarat Titans,Field,Lucknow Super Giants,21,Runs,21 runs,Deepak Hooda,League,207,20,No,Yes
+928,2022,Delhi Capitals,Royal Challengers Bangalore,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Royal Challengers Bangalore,Bat,Delhi Capitals,7,Runs,7 runs,Kagiso Rabada,League,161,20,No,No
+929,2022,Royal Challengers Bangalore,Delhi Capitals,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,Field,Delhi Capitals,98,Runs,98 runs,Anrich Nortje,League,161,20,No,Yes
+930,2022,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Kolkata,Kolkata Knight Riders,Bat,Chennai Super Kings,22,Runs,22 runs,Dwayne Bravo,League,161,20,No,No
+931,2022,Chennai Super Kings,Mumbai Indians,Maharashtra Cricket Association Stadium,Pune,Mumbai Indians,Bat,Mumbai Indians,78,Runs,78 runs,,League,184,20,Yes,Yes
+932,2022,Kolkata Knight Riders,Lucknow Super Giants,HPCA Stadium,Dharamsala,,Bat,Lucknow Super Giants,7,Wickets,7 wickets,Quinton de Kock,League,202,20,Yes,Yes
+933,2022,Rajasthan Royals,Mumbai Indians,Sardar Patel Stadium,Ahmedabad,Mumbai Indians,Field,Rajasthan Royals,8,Wickets,8 wickets,Riyan Parag,League,156,20,No,Yes
+934,2022,Kolkata Knight Riders,Delhi Capitals,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,Bat,Kolkata Knight Riders,9,Wickets,9 wickets,Pat Cummins,League,205,20,Yes,Yes
+935,2022,Lucknow Super Giants,Royal Challengers Bangalore,VCA Stadium,Nagpur,Lucknow Super Giants,Bat,Royal Challengers Bangalore,1,Wickets,1 wickets,Shane Bond,League,201,20,No,No
+936,2022,Royal Challengers Bangalore,Chennai Super Kings,DY Patil Stadium,Navi Mumbai,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,10,Wickets,10 wickets,Shane Bond,League,186,20,Yes,No
+937,2022,Mumbai Indians,Royal Challengers Bangalore,Eden Gardens,Kolkata,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,36,Runs,36 runs,Faf du Plessis,League,219,20,Yes,Yes
+938,2022,Delhi Capitals,Gujarat Titans,BRSABV Ekana Cricket Stadium,Lucknow,Gujarat Titans,Field,Delhi Capitals,73,Runs,73 runs,Anrich Nortje,League,152,20,No,Yes
+939,2022,Kolkata Knight Riders,Royal Challengers Bangalore,,Visakhapatnam,Kolkata Knight Riders,Field,Royal Challengers Bangalore,15,Runs,15 runs,Faf du Plessis,League,134,20,No,Yes
+940,2022,Delhi Capitals,Rajasthan Royals,VCA Stadium,Nagpur,Delhi Capitals,Field,Rajasthan Royals,7,Wickets,7 wickets,Ajinkya Rahane,League,217,20,No,Yes
+941,2022,Delhi Capitals,Kolkata Knight Riders,Brabourne Stadium,Mumbai,Delhi Capitals,Field,Delhi Capitals,4,Wickets,4 wickets,Prithvi Shaw,League,163,20,Yes,No
+942,2022,Chennai Super Kings,Kolkata Knight Riders,HPCA Stadium,Dharamsala,Chennai Super Kings,Field,Chennai Super Kings,59,Runs,59 runs,Devon Conway,League,142,20,Yes,No
+943,2022,Sunrisers Hyderabad,Kolkata Knight Riders,Sawai Mansingh Stadium,Jaipur,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,89,Runs,89 runs,Rashid Khan,League,171,20,Yes,No
+944,2022,Punjab Kings,Mumbai Indians,Punjab Cricket Association Stadium,Mohali,Mumbai Indians,Bat,Punjab Kings,10,Wickets,10 wickets,David Miller,League,197,20,No,No
+945,2022,Sunrisers Hyderabad,Chennai Super Kings,DY Patil Stadium,Navi Mumbai,Chennai Super Kings,Field,Chennai Super Kings,8,Wickets,8 wickets,Ruturaj Gaikwad,League,188,20,Yes,No
+946,2022,Gujarat Titans,Delhi Capitals,Sawai Mansingh Stadium,Jaipur,Delhi Capitals,Field,Gujarat Titans,74,Runs,74 runs,Hardik Pandya,League,157,20,No,Yes
+947,2022,Gujarat Titans,Mumbai Indians,Wankhede Stadium,Mumbai,Gujarat Titans,Bat,Gujarat Titans,63,Runs,63 runs,Wriddhiman Saha,League,162,20,Yes,Yes
+948,2022,Kolkata Knight Riders,Delhi Capitals,Eden Gardens,Kolkata,Delhi Capitals,Bat,Delhi Capitals,8,Wickets,8 wickets,Shreyas Iyer,League,188,20,Yes,Yes
+949,2022,Punjab Kings,Rajasthan Royals,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,,Punjab Kings,Field,Rajasthan Royals,10,Wickets,10 wickets,Shane Watson,League,159,20,No,Yes
+950,2022,Rajasthan Royals,Lucknow Super Giants,VCA Stadium,Nagpur,Lucknow Super Giants,Bat,Rajasthan Royals,35,Runs,35 runs,Trent Boult,Playoff,145,20,No,No
+951,2022,Sunrisers Hyderabad,Delhi Capitals,Shaheed Veer Narayan Singh International Stadium,Raipur,Sunrisers Hyderabad,Bat,Delhi Capitals,2,Wickets,2 wickets,Kagiso Rabada,Playoff,191,20,No,No
+952,2022,Rajasthan Royals,Royal Challengers Bangalore,Brabourne Stadium,Mumbai,Rajasthan Royals,Bat,Rajasthan Royals,8,Wickets,8 wickets,Steven Smith,Playoff,132,20,Yes,Yes
+953,2022,Punjab Kings,Kolkata Knight Riders,Rajiv Gandhi International Stadium,Hyderabad,Punjab Kings,Field,Punjab Kings,2,Wickets,2 wickets,David Miller,Final,207,20,Yes,No
+954,2022,Royal Challengers Bangalore,Lucknow Super Giants,Shaheed Veer Narayan Singh International Stadium,Raipur,Lucknow Super Giants,Field,Lucknow Super Giants,10,Wickets,10 wickets,Deepak Hooda,Playoff,196,20,Yes,No
+955,2023,Royal Challengers Bangalore,Chennai Super Kings,Maharashtra Cricket Association Stadium,Pune,Chennai Super Kings,Bat,Chennai Super Kings,77,Runs,77 runs,Ambati Rayudu,League,174,20,Yes,Yes
+956,2023,Mumbai Indians,Sunrisers Hyderabad,Barabati Stadium,Cuttack,Sunrisers Hyderabad,Bat,Sunrisers Hyderabad,55,Runs,55 runs,Shikhar Dhawan,League,151,20,Yes,Yes
+957,2023,Chennai Super Kings,Sunrisers Hyderabad,HPCA Stadium,Dharamsala,Sunrisers Hyderabad,Bat,Sunrisers Hyderabad,25,Runs,25 runs,Travis Head,League,165,20,Yes,Yes
+958,2023,Delhi Capitals,Mumbai Indians,Eden Gardens,Kolkata,Delhi Capitals,Field,Mumbai Indians,9,Wickets,9 wickets,Kieron Pollard,League,152,20,No,Yes
+959,2023,Sunrisers Hyderabad,Delhi Capitals,Sawai Mansingh Stadium,Jaipur,Delhi Capitals,Field,Delhi Capitals,2,Wickets,2 wickets,,League,208,20,Yes,No
+960,2023,Lucknow Super Giants,Gujarat Titans,Maharashtra Cricket Association Stadium,Pune,Lucknow Super Giants,Bat,Gujarat Titans,49,Runs,49 runs,Hardik Pandya,League,142,20,No,No
+961,2023,Punjab Kings,Royal Challengers Bangalore,MA Chidambaram Stadium,Chennai,Punjab Kings,Field,Punjab Kings,6,Wickets,6 wickets,Jonny Bairstow,League,168,20,Yes,No
+962,2023,Chennai Super Kings,Rajasthan Royals,Wankhede Stadium,Mumbai,Rajasthan Royals,Field,,17,Runs,17 runs,Shane Warne,League,214,20,Yes,No
+963,2023,Punjab Kings,Lucknow Super Giants,Narendra Modi Stadium,Ahmedabad,Punjab Kings,Field,Punjab Kings,42,Runs,42 runs,Chris Gayle,League,193,20,Yes,No
+964,2023,Mumbai Indians,Rajasthan Royals,M Chinnaswamy Stadium,Bangalore,Mumbai Indians,Field,Mumbai Indians,45,Runs,45 runs,Rohit Sharma,League,216,20,Yes,No
+965,2023,Chennai Super Kings,Royal Challengers Bangalore,Wankhede Stadium,Mumbai,Chennai Super Kings,Bat,Chennai Super Kings,98,Runs,98 runs,Faf du Plessis,League,132,20,Yes,Yes
+966,2023,Punjab Kings,Rajasthan Royals,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,Bat,Punjab Kings,1,Wickets,1 wickets,David Miller,League,171,20,No,No
+967,2023,Royal Challengers Bangalore,Sunrisers Hyderabad,HPCA Stadium,Dharamsala,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,80,Runs,80 runs,Travis Head,League,164,20,Yes,No
+968,2023,Royal Challengers Bangalore,Mumbai Indians,Barabati Stadium,Cuttack,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,1,Wickets,1 wickets,Mohammed Siraj,League,162,20,Yes,Yes
+969,2023,Delhi Capitals,Punjab Kings,VCA Stadium,Nagpur,Punjab Kings,Bat,Delhi Capitals,19,Runs,19 runs,Shikhar Dhawan,League,153,20,No,No
+970,2023,Gujarat Titans,Delhi Capitals,Sardar Patel Stadium,Ahmedabad,Delhi Capitals,Bat,Gujarat Titans,42,Runs,42 runs,Mohammed Shami,League,177,20,No,No
+971,2023,Royal Challengers Bangalore,Punjab Kings,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Punjab Kings,Field,Royal Challengers Bangalore,8,Wickets,8 wickets,Yuzvendra Chahal,League,192,20,No,Yes
+972,2023,Mumbai Indians,Punjab Kings,Holkar Cricket Stadium,Indore,Punjab Kings,Bat,Mumbai Indians,7,Wickets,7 wickets,Krunal Pandya,League,190,20,No,No
+973,2023,Punjab Kings,Sunrisers Hyderabad,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Punjab Kings,Bat,Punjab Kings,62,Runs,62 runs,Kagiso Rabada,League,198,20,Yes,Yes
+974,2023,Delhi Capitals,Kolkata Knight Riders,Feroz Shah Kotla,Delhi,Kolkata Knight Riders,Bat,Kolkata Knight Riders,5,Wickets,5 wickets,Venkatesh Iyer,League,151,20,Yes,Yes
+975,2023,Rajasthan Royals,Chennai Super Kings,Shaheed Veer Narayan Singh International Stadium,Raipur,Chennai Super Kings,Field,Rajasthan Royals,3,Wickets,3 wickets,Yuzvendra Chahal,League,130,20,No,Yes
+976,2023,Lucknow Super Giants,Punjab Kings,JSCA International Stadium,Ranchi,Lucknow Super Giants,Field,Punjab Kings,40,Runs,40 runs,KL Rahul,League,198,20,No,Yes
+977,2023,Sunrisers Hyderabad,Chennai Super Kings,Sawai Mansingh Stadium,Jaipur,Chennai Super Kings,Bat,Chennai Super Kings,94,Runs,94 runs,Faf du Plessis,League,130,20,Yes,Yes
+978,2023,Kolkata Knight Riders,Punjab Kings,Rajiv Gandhi International Stadium,Hyderabad,Punjab Kings,Field,Punjab Kings,7,Wickets,7 wickets,Jonny Bairstow,League,186,20,Yes,No
+979,2023,Kolkata Knight Riders,Rajasthan Royals,HPCA Stadium,,Rajasthan Royals,Field,Rajasthan Royals,5,Wickets,5 wickets,Jos Buttler,League,141,20,Yes,No
+980,2023,Rajasthan Royals,Kolkata Knight Riders,Barabati Stadium,Cuttack,Rajasthan Royals,Field,Kolkata Knight Riders,10,Wickets,10 wickets,BB McCullum,League,206,20,No,Yes
+981,2023,Delhi Capitals,Mumbai Indians,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Mumbai Indians,Bat,Mumbai Indians,15,Runs,15 runs,Lasith Malinga,League,155,20,Yes,Yes
+982,2023,Rajasthan Royals,Royal Challengers Bangalore,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,Bat,Rajasthan Royals,81,Runs,81 runs,Jos Buttler,League,190,20,No,No
+983,2023,Delhi Capitals,Kolkata Knight Riders,JSCA International Stadium,Ranchi,Delhi Capitals,Bat,Kolkata Knight Riders,10,Wickets,10 wickets,Rinku Singh,League,192,20,No,No
+984,2023,Gujarat Titans,Royal Challengers Bangalore,Wankhede Stadium,Mumbai,Gujarat Titans,Bat,Royal Challengers Bangalore,90,Runs,90 runs,Chris Gayle,League,150,20,No,No
+985,2023,Punjab Kings,Gujarat Titans,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Punjab Kings,Bat,Punjab Kings,17,Runs,17 runs,Jonny Bairstow,League,177,20,Yes,Yes
+986,2023,Lucknow Super Giants,Kolkata Knight Riders,HPCA Stadium,Dharamsala,Kolkata Knight Riders,Field,Kolkata Knight Riders,64,Runs,64 runs,Venkatesh Iyer,League,164,20,Yes,No
+987,2023,Mumbai Indians,Kolkata Knight Riders,,Lucknow,Kolkata Knight Riders,Field,Kolkata Knight Riders,8,Wickets,8 wickets,,League,193,20,Yes,No
+988,2023,Lucknow Super Giants,Royal Challengers Bangalore,Sardar Patel Stadium,Ahmedabad,Lucknow Super Giants,Bat,Lucknow Super Giants,54,Runs,54 runs,KL Rahul,League,152,20,Yes,Yes
+989,2023,Royal Challengers Bangalore,Kolkata Knight Riders,JSCA International Stadium,Ranchi,,Bat,Kolkata Knight Riders,13,Runs,13 runs,Andre Russell,League,144,20,No,No
+990,2023,Rajasthan Royals,Mumbai Indians,HPCA Stadium,Dharamsala,Rajasthan Royals,Bat,Mumbai Indians,6,Wickets,6 wickets,Lasith Malinga,League,215,20,No,No
+991,2023,Lucknow Super Giants,Mumbai Indians,Sawai Mansingh Stadium,Jaipur,Mumbai Indians,Field,Mumbai Indians,16,Runs,16 runs,Lasith Malinga,League,179,20,Yes,No
+992,2023,Delhi Capitals,Royal Challengers Bangalore,Punjab Cricket Association Stadium,Mohali,Delhi Capitals,Bat,Delhi Capitals,35,Runs,35 runs,Kagiso Rabada,League,217,20,Yes,Yes
+993,2023,Sunrisers Hyderabad,Rajasthan Royals,Barabati Stadium,Cuttack,Rajasthan Royals,Field,Sunrisers Hyderabad,73,Runs,73 runs,Jonny Bairstow,League,197,20,No,Yes
+994,2023,Rajasthan Royals,Mumbai Indians,Eden Gardens,Kolkata,Mumbai Indians,Field,Rajasthan Royals,45,Runs,45 runs,Yusuf Pathan,League,211,20,No,Yes
+995,2023,Chennai Super Kings,Rajasthan Royals,MA Chidambaram Stadium,Chennai,Chennai Super Kings,Bat,Chennai Super Kings,68,Runs,68 runs,Ruturaj Gaikwad,League,153,20,Yes,Yes
+996,2023,Lucknow Super Giants,Rajasthan Royals,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,Field,Rajasthan Royals,69,Runs,69 runs,Yuzvendra Chahal,League,216,20,Yes,No
+997,2023,Chennai Super Kings,Kolkata Knight Riders,Shaheed Veer Narayan Singh International Stadium,Raipur,Kolkata Knight Riders,Bat,Chennai Super Kings,36,Runs,36 runs,Devon Conway,League,161,20,No,No
+998,2023,Chennai Super Kings,Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,Kolkata Knight Riders,Field,Kolkata Knight Riders,3,Wickets,3 wickets,Manoj Tiwary,League,131,20,Yes,No
+999,2023,Rajasthan Royals,Kolkata Knight Riders,HPCA Stadium,Dharamsala,Kolkata Knight Riders,Bat,Kolkata Knight Riders,8,Wickets,8 wickets,Shubman Gill,League,208,20,Yes,Yes
+1000,2023,Gujarat Titans,Rajasthan Royals,BRSABV Ekana Cricket Stadium,Lucknow,Gujarat Titans,Field,Rajasthan Royals,69,Runs,69 runs,Yusuf Pathan,League,165,20,No,Yes
+1001,2023,Chennai Super Kings,Lucknow Super Giants,Sardar Patel Stadium,Ahmedabad,Lucknow Super Giants,Field,Chennai Super Kings,4,Wickets,4 wickets,Ambati Rayudu,League,165,20,No,Yes
+1002,2023,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Kolkata,Kolkata Knight Riders,Bat,Kolkata Knight Riders,68,Runs,68 runs,Shubman Gill,League,219,20,Yes,Yes
+1003,2023,Gujarat Titans,Rajasthan Royals,Holkar Cricket Stadium,Indore,Rajasthan Royals,Field,Rajasthan Royals,6,Wickets,6 wickets,Riyan Parag,League,185,20,Yes,No
+1004,2023,Delhi Capitals,Sunrisers Hyderabad,Eden Gardens,,Sunrisers Hyderabad,Field,Sunrisers Hyderabad,5,Wickets,5 wickets,David Warner,League,215,20,Yes,No
+1005,2023,Rajasthan Royals,Royal Challengers Bangalore,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Royal Challengers Bangalore,Bat,Rajasthan Royals,10,Wickets,10 wickets,Jos Buttler,League,176,20,No,No
+1006,2023,Lucknow Super Giants,Rajasthan Royals,M Chinnaswamy Stadium,Bangalore,Rajasthan Royals,Bat,Lucknow Super Giants,9,Wickets,9 wickets,Nicholas Pooran,League,136,20,No,No
+1007,2023,Gujarat Titans,Lucknow Super Giants,Maharashtra Cricket Association Stadium,Pune,Gujarat Titans,Bat,Lucknow Super Giants,7,Wickets,7 wickets,Mark Wood,League,139,20,No,No
+1008,2023,Delhi Capitals,Punjab Kings,JSCA International Stadium,Ranchi,Delhi Capitals,Bat,Delhi Capitals,28,Runs,28 runs,Shreyas Iyer,League,176,20,Yes,Yes
+1009,2023,Kolkata Knight Riders,Delhi Capitals,Feroz Shah Kotla,Delhi,Kolkata Knight Riders,Field,Kolkata Knight Riders,38,Runs,38 runs,Manoj Tiwary,League,138,20,Yes,No
+1010,2023,Lucknow Super Giants,Gujarat Titans,Holkar Cricket Stadium,Indore,Gujarat Titans,Bat,Lucknow Super Giants,9,Wickets,9 wickets,Nicholas Pooran,League,197,20,No,No
+1011,2023,Delhi Capitals,Rajasthan Royals,Arun Jaitley Stadium,Delhi,Delhi Capitals,Bat,Delhi Capitals,15,Runs,15 runs,Prithvi Shaw,League,173,20,Yes,Yes
+1012,2023,Mumbai Indians,Chennai Super Kings,Arun Jaitley Stadium,Delhi,Chennai Super Kings,Bat,Chennai Super Kings,51,Runs,51 runs,Michael Hussey,League,214,20,Yes,Yes
+1013,2023,Punjab Kings,Mumbai Indians,Arun Jaitley Stadium,Delhi,Mumbai Indians,Field,Mumbai Indians,54,Runs,54 runs,Krunal Pandya,League,204,20,Yes,No
+1014,2023,Royal Challengers Bangalore,Chennai Super Kings,BRSABV Ekana Cricket Stadium,Lucknow,Chennai Super Kings,Bat,Royal Challengers Bangalore,10,Runs,10 runs,Faf du Plessis,League,206,20,No,No
+1015,2023,Rajasthan Royals,Mumbai Indians,Feroz Shah Kotla,Delhi,Rajasthan Royals,Bat,Mumbai Indians,62,Runs,62 runs,Kieron Pollard,League,130,20,No,No
+1016,2023,Lucknow Super Giants,Sunrisers Hyderabad,MA Chidambaram Stadium,Chennai,Sunrisers Hyderabad,Bat,Lucknow Super Giants,6,Wickets,6 wickets,Nicholas Pooran,League,150,20,No,No
+1017,2023,Mumbai Indians,Gujarat Titans,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Gujarat Titans,Field,Gujarat Titans,100,Runs,100 runs,Shubman Gill,League,191,20,Yes,No
+1018,2023,Lucknow Super Giants,Mumbai Indians,DY Patil Stadium,Navi Mumbai,Lucknow Super Giants,Bat,Lucknow Super Giants,93,Runs,93 runs,Mark Wood,League,176,20,Yes,Yes
+1019,2023,Kolkata Knight Riders,Rajasthan Royals,Holkar Cricket Stadium,Indore,Kolkata Knight Riders,Field,Kolkata Knight Riders,33,Runs,33 runs,Sunil Narine,League,144,20,Yes,No
+1020,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Brabourne Stadium,Mumbai,Sunrisers Hyderabad,Field,Kolkata Knight Riders,90,Runs,90 runs,Rinku Singh,League,135,20,No,Yes
+1021,2023,Rajasthan Royals,Gujarat Titans,BRSABV Ekana Cricket Stadium,Lucknow,Rajasthan Royals,Field,Rajasthan Royals,34,Runs,34 runs,Riyan Parag,League,162,20,Yes,No
+1022,2023,Sunrisers Hyderabad,Mumbai Indians,Maharashtra Cricket Association Stadium,Pune,Sunrisers Hyderabad,Field,Mumbai Indians,72,Runs,72 runs,Jasprit Bumrah,League,172,20,No,Yes
+1023,2023,Gujarat Titans,Sunrisers Hyderabad,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,Bat,Gujarat Titans,33,Runs,33 runs,David Miller,League,174,20,Yes,Yes
+1024,2023,Sunrisers Hyderabad,Lucknow Super Giants,Feroz Shah Kotla,Delhi,Lucknow Super Giants,Field,Lucknow Super Giants,13,Runs,13 runs,Ravi Bishnoi,Playoff,159,20,Yes,No
+1025,2023,Sunrisers Hyderabad,Delhi Capitals,Punjab Cricket Association Stadium,Mohali,Sunrisers Hyderabad,Bat,Delhi Capitals,7,Wickets,7 wickets,Kagiso Rabada,Playoff,171,20,No,No
+1026,2023,Gujarat Titans,Rajasthan Royals,MA Chidambaram Stadium,Chennai,Gujarat Titans,Field,Rajasthan Royals,13,Runs,13 runs,Shane Warne,Playoff,150,20,No,Yes
+1027,2023,Sunrisers Hyderabad,Chennai Super Kings,Sawai Mansingh Stadium,Jaipur,Chennai Super Kings,Field,Chennai Super Kings,89,Runs,89 runs,Ruturaj Gaikwad,Final,148,20,Yes,No
+1028,2023,Mumbai Indians,Gujarat Titans,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Gujarat Titans,Field,Mumbai Indians,1,Wickets,1 wickets,Tilak Varma,Playoff,215,20,No,Yes
+1029,2024,Rajasthan Royals,Mumbai Indians,Sardar Patel Stadium,,Rajasthan Royals,Bat,Mumbai Indians,57,Runs,57 runs,Rohit Sharma,League,194,20,No,No
+1030,2024,Royal Challengers Bangalore,Lucknow Super Giants,M Chinnaswamy Stadium,Bangalore,Royal Challengers Bangalore,Bat,Lucknow Super Giants,10,Wickets,10 wickets,Nicholas Pooran,League,182,20,No,No
+1031,2024,Lucknow Super Giants,Sunrisers Hyderabad,Eden Gardens,Kolkata,Lucknow Super Giants,Field,Lucknow Super Giants,86,Runs,86 runs,KL Rahul,League,191,20,Yes,No
+1032,2024,Gujarat Titans,Mumbai Indians,JSCA International Stadium,Ranchi,Gujarat Titans,Bat,Gujarat Titans,4,Wickets,4 wickets,,League,199,20,Yes,Yes
+1033,2024,Sunrisers Hyderabad,Kolkata Knight Riders,BRSABV Ekana Cricket Stadium,Lucknow,Kolkata Knight Riders,Bat,Sunrisers Hyderabad,2,Wickets,2 wickets,Heinrich Klaasen,League,155,20,No,No
+1034,2024,Mumbai Indians,Delhi Capitals,JSCA International Stadium,Ranchi,Delhi Capitals,Field,Delhi Capitals,65,Runs,65 runs,Axar Patel,League,201,20,Yes,No
+1035,2024,Gujarat Titans,Kolkata Knight Riders,Feroz Shah Kotla,Delhi,Gujarat Titans,Bat,Kolkata Knight Riders,93,Runs,93 runs,Shubman Gill,League,197,20,No,No
+1036,2024,Punjab Kings,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,Sunrisers Hyderabad,Bat,Punjab Kings,2,Wickets,2 wickets,David Miller,League,138,20,No,No
+1037,2024,Delhi Capitals,Lucknow Super Giants,BRSABV Ekana Cricket Stadium,Lucknow,Lucknow Super Giants,Field,Lucknow Super Giants,7,Wickets,7 wickets,Mark Wood,League,177,20,Yes,No
+1038,2024,Sunrisers Hyderabad,Mumbai Indians,Brabourne Stadium,Mumbai,Sunrisers Hyderabad,Bat,Sunrisers Hyderabad,67,Runs,67 runs,Jonny Bairstow,League,152,20,Yes,Yes
+1039,2024,Chennai Super Kings,Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,Kolkata Knight Riders,Field,Kolkata Knight Riders,96,Runs,96 runs,Rinku Singh,League,179,20,Yes,No
+1040,2024,Sunrisers Hyderabad,Punjab Kings,Punjab Cricket Association Stadium,Mohali,Punjab Kings,Bat,Sunrisers Hyderabad,87,Runs,87 runs,Wriddhiman Saha,League,203,20,No,No
+1041,2024,Royal Challengers Bangalore,Lucknow Super Giants,Eden Gardens,Kolkata,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,62,Runs,62 runs,Yuzvendra Chahal,League,153,20,Yes,No
+1042,2024,Punjab Kings,Kolkata Knight Riders,Holkar Cricket Stadium,Indore,Kolkata Knight Riders,Bat,Punjab Kings,8,Wickets,8 wickets,Kagiso Rabada,League,158,20,No,No
+1043,2024,Gujarat Titans,Kolkata Knight Riders,MA Chidambaram Stadium,Chennai,Kolkata Knight Riders,Bat,Kolkata Knight Riders,5,Wickets,5 wickets,Venkatesh Iyer,League,164,20,Yes,Yes
+1044,2024,Chennai Super Kings,Kolkata Knight Riders,HPCA Stadium,Dharamsala,,Bat,Kolkata Knight Riders,4,Wickets,4 wickets,Venkatesh Iyer,League,150,20,Yes,Yes
+1045,2024,Delhi Capitals,Rajasthan Royals,M Chinnaswamy Stadium,Bangalore,Delhi Capitals,Bat,Rajasthan Royals,6,Runs,6 runs,Steven Smith,League,173,20,No,No
+1046,2024,Sunrisers Hyderabad,Mumbai Indians,JSCA International Stadium,Ranchi,Sunrisers Hyderabad,Bat,Mumbai Indians,5,Wickets,5 wickets,Ishan Kishan,League,141,20,No,No
+1047,2024,Chennai Super Kings,Sunrisers Hyderabad,Punjab Cricket Association Stadium,Mohali,Sunrisers Hyderabad,Field,Chennai Super Kings,20,Runs,20 runs,Ravindra Jadeja,League,177,20,No,Yes
+1048,2024,Kolkata Knight Riders,Lucknow Super Giants,VCA Stadium,Nagpur,Lucknow Super Giants,Bat,Kolkata Knight Riders,16,Runs,16 runs,Shubman Gill,League,206,20,No,No
+1049,2024,Mumbai Indians,Rajasthan Royals,MA Chidambaram Stadium,Chennai,Mumbai Indians,Field,Rajasthan Royals,45,Runs,45 runs,Yusuf Pathan,League,160,20,No,Yes
+1050,2024,Sunrisers Hyderabad,Royal Challengers Bangalore,Holkar Cricket Stadium,Indore,Royal Challengers Bangalore,Field,Sunrisers Hyderabad,51,Runs,51 runs,Kane Williamson,League,167,20,No,Yes
+1051,2024,Gujarat Titans,Delhi Capitals,HPCA Stadium,Dharamsala,Gujarat Titans,Field,Delhi Capitals,70,Runs,70 runs,Axar Patel,League,207,20,No,Yes
+1052,2024,Royal Challengers Bangalore,Rajasthan Royals,Shaheed Veer Narayan Singh International Stadium,Raipur,Rajasthan Royals,Field,Rajasthan Royals,82,Runs,82 runs,Shane Watson,League,214,20,Yes,No
+1053,2024,Royal Challengers Bangalore,Chennai Super Kings,HPCA Stadium,Dharamsala,Royal Challengers Bangalore,Field,Chennai Super Kings,7,Wickets,7 wickets,Shane Watson,League,162,20,No,Yes
+1054,2024,Chennai Super Kings,Rajasthan Royals,,Visakhapatnam,Chennai Super Kings,Bat,Chennai Super Kings,100,Runs,100 runs,Moeen Ali,League,172,20,Yes,Yes
+1055,2024,Delhi Capitals,Mumbai Indians,Barabati Stadium,Cuttack,Delhi Capitals,Bat,Mumbai Indians,92,Runs,92 runs,Suryakumar Yadav,League,190,20,No,No
+1056,2024,Royal Challengers Bangalore,Kolkata Knight Riders,Feroz Shah Kotla,Delhi,Kolkata Knight Riders,Field,Royal Challengers Bangalore,81,Runs,81 runs,Faf du Plessis,League,155,20,No,Yes
+1057,2024,Kolkata Knight Riders,Rajasthan Royals,Shaheed Veer Narayan Singh International Stadium,Raipur,Rajasthan Royals,Field,Rajasthan Royals,5,Wickets,5 wickets,Shane Watson,League,171,20,Yes,No
+1058,2024,Rajasthan Royals,Royal Challengers Bangalore,MA Chidambaram Stadium,Chennai,Rajasthan Royals,Field,Rajasthan Royals,25,Runs,25 runs,Ajinkya Rahane,League,158,20,Yes,No
+1059,2024,Punjab Kings,Sunrisers Hyderabad,Shaheed Veer Narayan Singh International Stadium,Raipur,Sunrisers Hyderabad,Field,Punjab Kings,10,Wickets,10 wickets,KL Rahul,League,182,20,No,Yes
+1060,2024,Gujarat Titans,Royal Challengers Bangalore,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,Bat,Gujarat Titans,34,Runs,34 runs,Hardik Pandya,League,132,20,Yes,Yes
+1061,2024,Royal Challengers Bangalore,Rajasthan Royals,Sawai Mansingh Stadium,,Rajasthan Royals,Bat,Royal Challengers Bangalore,14,Runs,14 runs,Daniel Vettori,League,204,20,No,No
+1062,2024,Mumbai Indians,Punjab Kings,HPCA Stadium,Dharamsala,Mumbai Indians,Bat,Punjab Kings,6,Wickets,6 wickets,Chris Gayle,League,140,20,No,No
+1063,2024,Lucknow Super Giants,Royal Challengers Bangalore,Sawai Mansingh Stadium,Jaipur,Lucknow Super Giants,Field,Royal Challengers Bangalore,51,Runs,51 runs,Glenn Maxwell,League,183,20,No,Yes
+1064,2024,Delhi Capitals,Sunrisers Hyderabad,DY Patil Stadium,Navi Mumbai,Sunrisers Hyderabad,Bat,Delhi Capitals,26,Runs,26 runs,Anrich Nortje,League,157,20,No,No
+1065,2024,Kolkata Knight Riders,Chennai Super Kings,Maharashtra Cricket Association Stadium,Pune,Chennai Super Kings,Bat,Chennai Super Kings,10,Wickets,10 wickets,Deepak Chahar,League,145,20,Yes,Yes
+1066,2024,Mumbai Indians,Lucknow Super Giants,M Chinnaswamy Stadium,Bangalore,Mumbai Indians,Bat,Mumbai Indians,4,Wickets,4 wickets,Quinton de Kock,League,209,20,Yes,Yes
+1067,2024,Gujarat Titans,Chennai Super Kings,MA Chidambaram Stadium,Chennai,Gujarat Titans,Field,Chennai Super Kings,30,Runs,30 runs,Suresh Raina,League,147,20,No,Yes
+1068,2024,Royal Challengers Bangalore,Rajasthan Royals,M Chinnaswamy Stadium,Bangalore,Royal Challengers Bangalore,Bat,Rajasthan Royals,2,Wickets,2 wickets,Shane Watson,League,163,20,No,No
+1069,2024,Kolkata Knight Riders,Royal Challengers Bangalore,VCA Stadium,Nagpur,Kolkata Knight Riders,Field,Kolkata Knight Riders,10,Wickets,10 wickets,Shubman Gill,League,215,20,Yes,No
+1070,2024,Gujarat Titans,Lucknow Super Giants,VCA Stadium,Nagpur,Gujarat Titans,Bat,Lucknow Super Giants,62,Runs,62 runs,Mark Wood,League,213,20,No,No
+1071,2024,Royal Challengers Bangalore,Punjab Kings,DY Patil Stadium,Navi Mumbai,Royal Challengers Bangalore,Bat,Punjab Kings,3,Wickets,3 wickets,Chris Gayle,League,155,20,No,No
+1072,2024,Lucknow Super Giants,Royal Challengers Bangalore,Barabati Stadium,Cuttack,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,9,Wickets,9 wickets,Dinesh Karthik,League,215,20,Yes,Yes
+1073,2024,Rajasthan Royals,Punjab Kings,HPCA Stadium,Dharamsala,Punjab Kings,Bat,Punjab Kings,23,Runs,23 runs,Mayank Agarwal,League,177,20,Yes,Yes
+1074,2024,Punjab Kings,Royal Challengers Bangalore,HPCA Stadium,Dharamsala,Royal Challengers Bangalore,Bat,Punjab Kings,4,Wickets,4 wickets,Jonny Bairstow,League,178,20,No,No
+1075,2024,Punjab Kings,Chennai Super Kings,Rajiv Gandhi International Stadium,Hyderabad,Punjab Kings,Bat,Chennai Super Kings,65,Runs,65 runs,Devon Conway,League,162,20,No,No
+1076,2024,Gujarat Titans,Mumbai Indians,Feroz Shah Kotla,Delhi,Gujarat Titans,Field,Mumbai Indians,4,Wickets,4 wickets,Lasith Malinga,League,170,20,No,Yes
+1077,2024,Kolkata Knight Riders,Lucknow Super Giants,Holkar Cricket Stadium,Indore,Kolkata Knight Riders,Field,Kolkata Knight Riders,87,Runs,87 runs,Shubman Gill,League,165,20,Yes,No
+1078,2024,Royal Challengers Bangalore,Gujarat Titans,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,60,Runs,60 runs,Virat Kohli,League,215,20,Yes,Yes
+1079,2024,Kolkata Knight Riders,Gujarat Titans,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,Field,Kolkata Knight Riders,9,Wickets,9 wickets,Andre Russell,League,171,20,Yes,No
+1080,2024,Kolkata Knight Riders,Lucknow Super Giants,Shaheed Veer Narayan Singh International Stadium,Raipur,Kolkata Knight Riders,Bat,Lucknow Super Giants,9,Runs,9 runs,Deepak Hooda,League,141,20,No,No
+1081,2024,Rajasthan Royals,Delhi Capitals,HPCA Stadium,Dharamsala,Rajasthan Royals,Bat,Delhi Capitals,54,Runs,54 runs,Kagiso Rabada,League,215,20,No,No
+1082,2024,Chennai Super Kings,Royal Challengers Bangalore,Feroz Shah Kotla,Delhi,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,9,Wickets,9 wickets,Chris Gayle,League,199,20,Yes,No
+1083,2024,Delhi Capitals,Punjab Kings,Barabati Stadium,Cuttack,Punjab Kings,Bat,Punjab Kings,7,Wickets,7 wickets,David Miller,League,211,20,Yes,Yes
+1084,2024,Lucknow Super Giants,Kolkata Knight Riders,VCA Stadium,Nagpur,Lucknow Super Giants,Bat,Lucknow Super Giants,56,Runs,56 runs,Mark Wood,League,216,20,Yes,Yes
+1085,2024,Chennai Super Kings,Kolkata Knight Riders,MA Chidambaram Stadium,Chennai,Kolkata Knight Riders,Bat,Kolkata Knight Riders,4,Wickets,4 wickets,Sourav Ganguly,League,160,20,Yes,Yes
+1086,2024,Punjab Kings,Gujarat Titans,Punjab Cricket Association Stadium,Mohali,Gujarat Titans,Bat,Punjab Kings,4,Wickets,4 wickets,David Miller,League,152,20,No,No
+1087,2024,Kolkata Knight Riders,Rajasthan Royals,DY Patil Stadium,Navi Mumbai,Rajasthan Royals,Bat,Kolkata Knight Riders,40,Runs,40 runs,BB McCullum,League,158,20,No,No
+1088,2024,Kolkata Knight Riders,Chennai Super Kings,Barabati Stadium,Cuttack,Chennai Super Kings,Field,Kolkata Knight Riders,92,Runs,92 runs,Andre Russell,League,137,20,No,Yes
+1089,2024,Delhi Capitals,Chennai Super Kings,DY Patil Stadium,Navi Mumbai,Delhi Capitals,Field,Delhi Capitals,1,Wickets,1 wickets,Shreyas Iyer,League,145,20,Yes,No
+1090,2024,Delhi Capitals,Kolkata Knight Riders,Narendra Modi Stadium,Ahmedabad,Kolkata Knight Riders,Bat,Kolkata Knight Riders,1,Wickets,1 wickets,Rinku Singh,League,216,20,Yes,Yes
+1091,2024,Delhi Capitals,Chennai Super Kings,Rajiv Gandhi International Stadium,Hyderabad,Delhi Capitals,Field,Chennai Super Kings,63,Runs,63 runs,Murali Vijay,League,135,20,No,Yes
+1092,2024,Delhi Capitals,Royal Challengers Bangalore,MA Chidambaram Stadium,,Delhi Capitals,Field,Delhi Capitals,41,Runs,41 runs,Kagiso Rabada,League,151,20,Yes,No
+1093,2024,Delhi Capitals,Royal Challengers Bangalore,Eden Gardens,Kolkata,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,9,Wickets,9 wickets,Chris Gayle,League,202,20,Yes,No
+1094,2024,Lucknow Super Giants,Chennai Super Kings,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Chennai Super Kings,Bat,Lucknow Super Giants,37,Runs,37 runs,KL Rahul,League,136,20,No,No
+1095,2024,Chennai Super Kings,Kolkata Knight Riders,Barabati Stadium,Cuttack,Chennai Super Kings,Field,Chennai Super Kings,3,Wickets,3 wickets,Murali Vijay,League,165,20,Yes,No
+1096,2024,Royal Challengers Bangalore,Punjab Kings,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,Bat,Punjab Kings,8,Wickets,8 wickets,Arshdeep Singh,League,146,20,No,No
+1097,2024,Kolkata Knight Riders,Chennai Super Kings,Barabati Stadium,Cuttack,Chennai Super Kings,Bat,Chennai Super Kings,7,Wickets,7 wickets,Ravindra Jadeja,League,204,20,Yes,Yes
+1098,2024,Sunrisers Hyderabad,Royal Challengers Bangalore,Maharashtra Cricket Association Stadium,Pune,Royal Challengers Bangalore,Field,Royal Challengers Bangalore,9,Wickets,9 wickets,Virat Kohli,Playoff,136,20,Yes,No
+1099,2024,Royal Challengers Bangalore,Punjab Kings,VCA Stadium,Nagpur,Punjab Kings,Bat,Royal Challengers Bangalore,18,Runs,18 runs,Dinesh Karthik,Playoff,180,20,No,No
+1100,2024,Punjab Kings,Mumbai Indians,Barabati Stadium,Cuttack,Punjab Kings,Field,Punjab Kings,9,Wickets,9 wickets,David Miller,Playoff,215,20,Yes,No
+1101,2024,Sunrisers Hyderabad,Rajasthan Royals,VCA Stadium,Nagpur,Sunrisers Hyderabad,Bat,Sunrisers Hyderabad,8,Wickets,8 wickets,Heinrich Klaasen,Final,175,20,Yes,Yes
+1102,2024,Gujarat Titans,Delhi Capitals,Dr YS Rajasekhara Reddy ACA-VDCA Stadium,Visakhapatnam,Delhi Capitals,Bat,Gujarat Titans,1,Wickets,1 wickets,Mohammed Shami,Playoff,167,20,No,No
